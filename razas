@@ -1,0 +1,1196 @@
+[
+  {
+    "name": "Tarwa n Tizziri (Descendiente de la luna)",
+    "url": "https://nivel20.com/games/dnd-5/races/6675-tarwa-n-tizziri-descendiente-de-la-luna",
+    "description": "",
+    "source_file": "Razas/Raza (1).html"
+  },
+  {
+    "name": "Tiefling de Mefistófeles",
+    "url": "https://nivel20.com/games/dnd-5/races/315-tiefling-de-mefistofeles",
+    "description": "",
+    "source_file": "Razas/Raza (10).html"
+  },
+  {
+    "name": "Hobgoblin",
+    "url": "https://nivel20.com/games/dnd-5/races/415-hobgoblin",
+    "description": "",
+    "source_file": "Razas/Raza (100).html"
+  },
+  {
+    "name": "Hobgoblin de Feywild",
+    "url": "https://nivel20.com/games/dnd-5/races/1181-hobgoblin-de-feywild",
+    "description": "",
+    "source_file": "Razas/Raza (101).html"
+  },
+  {
+    "name": "Holstaur",
+    "url": "https://nivel20.com/games/dnd-5/races/2558-holstaur",
+    "description": "",
+    "source_file": "Razas/Raza (102).html"
+  },
+  {
+    "name": "Hombre lagarto",
+    "url": "https://nivel20.com/games/dnd-5/races/412-hombre-lagarto",
+    "description": "",
+    "source_file": "Razas/Raza (103).html"
+  },
+  {
+    "name": "Hombre Lobo",
+    "url": "https://nivel20.com/games/dnd-5/races/177-hombre-lobo",
+    "description": "",
+    "source_file": "Razas/Raza (104).html"
+  },
+  {
+    "name": "Hombre Lobo",
+    "url": "https://nivel20.com/games/dnd-5/races/1500-hombre-lobo",
+    "description": "",
+    "source_file": "Razas/Raza (105).html"
+  },
+  {
+    "name": "Homúnculo",
+    "url": "https://nivel20.com/games/dnd-5/races/5202-homunculo",
+    "description": "",
+    "source_file": "Razas/Raza (106).html"
+  },
+  {
+    "name": "Homuncúlo de Adán",
+    "url": "https://nivel20.com/games/dnd-5/races/1196-homunculo-de-adan",
+    "description": "",
+    "source_file": "Razas/Raza (107).html"
+  },
+  {
+    "name": "Huk",
+    "url": "https://nivel20.com/games/dnd-5/races/6112-huk",
+    "description": "",
+    "source_file": "Razas/Raza (108).html"
+  },
+  {
+    "name": "Humano",
+    "url": "https://nivel20.com/games/dnd-5/races/216-humano",
+    "description": "",
+    "source_file": "Razas/Raza (109).html"
+  },
+  {
+    "name": "Tiefling de Zariel",
+    "url": "https://nivel20.com/games/dnd-5/races/314-tiefling-de-zariel",
+    "description": "",
+    "source_file": "Razas/Raza (11).html"
+  },
+  {
+    "name": "Humano (Thedas)",
+    "url": "https://nivel20.com/games/dnd-5/races/6038-humano-thedas",
+    "description": "",
+    "source_file": "Razas/Raza (110).html"
+  },
+  {
+    "name": "Humano Marca de Centinela",
+    "url": "https://nivel20.com/games/dnd-5/races/370-humano-marca-de-centinela",
+    "description": "",
+    "source_file": "Razas/Raza (111).html"
+  },
+  {
+    "name": "Humano Marca de la Creación",
+    "url": "https://nivel20.com/games/dnd-5/races/367-humano-marca-de-la-creacion",
+    "description": "",
+    "source_file": "Razas/Raza (112).html"
+  },
+  {
+    "name": "Humano Marca de Paso",
+    "url": "https://nivel20.com/games/dnd-5/races/368-humano-marca-de-paso",
+    "description": "",
+    "source_file": "Razas/Raza (113).html"
+  },
+  {
+    "name": "Humano Marca del Hallazgo",
+    "url": "https://nivel20.com/games/dnd-5/races/363-humano-marca-del-hallazgo",
+    "description": "",
+    "source_file": "Razas/Raza (114).html"
+  },
+  {
+    "name": "Humano Marca del Trato Animal",
+    "url": "https://nivel20.com/games/dnd-5/races/364-humano-marca-del-trato-animal",
+    "description": "",
+    "source_file": "Razas/Raza (115).html"
+  },
+  {
+    "name": "Igniz",
+    "url": "https://nivel20.com/games/dnd-5/races/1376-igniz",
+    "description": "",
+    "source_file": "Razas/Raza (116).html"
+  },
+  {
+    "name": "Ilícido",
+    "url": "https://nivel20.com/games/dnd-5/races/5992-ilicido",
+    "description": "",
+    "source_file": "Razas/Raza (117).html"
+  },
+  {
+    "name": "Imp",
+    "url": "https://nivel20.com/games/dnd-5/races/4988-imp",
+    "description": "",
+    "source_file": "Razas/Raza (118).html"
+  },
+  {
+    "name": "Incorpóreo",
+    "url": "https://nivel20.com/games/dnd-5/races/3127-incorporeo",
+    "description": "",
+    "source_file": "Razas/Raza (119).html"
+  },
+  {
+    "name": "Tritón",
+    "url": "https://nivel20.com/games/dnd-5/races/404-triton",
+    "description": "",
+    "source_file": "Razas/Raza (12).html"
+  },
+  {
+    "name": "Íncubo",
+    "url": "https://nivel20.com/games/dnd-5/races/5981-incubo",
+    "description": "",
+    "source_file": "Razas/Raza (120).html"
+  },
+  {
+    "name": "Infragólem",
+    "url": "https://nivel20.com/games/dnd-5/races/5983-infragolem",
+    "description": "",
+    "source_file": "Razas/Raza (121).html"
+  },
+  {
+    "name": "Inteligencia Virtual",
+    "url": "https://nivel20.com/games/dnd-5/races/1704-inteligencia-virtual",
+    "description": "",
+    "source_file": "Razas/Raza (122).html"
+  },
+  {
+    "name": "Itzpapalótl",
+    "url": "https://nivel20.com/games/dnd-5/races/5615-itzpapalotl",
+    "description": "",
+    "source_file": "Razas/Raza (123).html"
+  },
+  {
+    "name": "Jötnar",
+    "url": "https://nivel20.com/games/dnd-5/races/4968-jotnar",
+    "description": "",
+    "source_file": "Razas/Raza (124).html"
+  },
+  {
+    "name": "Kalashtar",
+    "url": "https://nivel20.com/games/dnd-5/races/341-kalashtar",
+    "description": "",
+    "source_file": "Razas/Raza (125).html"
+  },
+  {
+    "name": "Kender",
+    "url": "https://nivel20.com/games/dnd-5/races/187-kender",
+    "description": "",
+    "source_file": "Razas/Raza (126).html"
+  },
+  {
+    "name": "Kenku",
+    "url": "https://nivel20.com/games/dnd-5/races/411-kenku",
+    "description": "",
+    "source_file": "Razas/Raza (127).html"
+  },
+  {
+    "name": "Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/races/6200-kitsune",
+    "description": "",
+    "source_file": "Razas/Raza (128).html"
+  },
+  {
+    "name": "Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/races/168-kitsune",
+    "description": "",
+    "source_file": "Razas/Raza (129).html"
+  },
+  {
+    "name": "Vampiro",
+    "url": "https://nivel20.com/games/dnd-5/races/1501-vampiro",
+    "description": "",
+    "source_file": "Razas/Raza (13).html"
+  },
+  {
+    "name": "Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/races/1470-kitsune",
+    "description": "",
+    "source_file": "Razas/Raza (130).html"
+  },
+  {
+    "name": "Kiwi",
+    "url": "https://nivel20.com/games/dnd-5/races/5204-kiwi",
+    "description": "",
+    "source_file": "Razas/Raza (131).html"
+  },
+  {
+    "name": "Kobold",
+    "url": "https://nivel20.com/games/dnd-5/races/416-kobold",
+    "description": "",
+    "source_file": "Razas/Raza (132).html"
+  },
+  {
+    "name": "Kodama",
+    "url": "https://nivel20.com/games/dnd-5/races/6199-kodama",
+    "description": "",
+    "source_file": "Razas/Raza (133).html"
+  },
+  {
+    "name": "Kururi",
+    "url": "https://nivel20.com/games/dnd-5/races/6111-kururi",
+    "description": "",
+    "source_file": "Razas/Raza (134).html"
+  },
+  {
+    "name": "Laneshi",
+    "url": "https://nivel20.com/games/dnd-5/races/3095-laneshi",
+    "description": "",
+    "source_file": "Razas/Raza (135).html"
+  },
+  {
+    "name": "Liebrén",
+    "url": "https://nivel20.com/games/dnd-5/races/1660-liebren",
+    "description": "",
+    "source_file": "Razas/Raza (136).html"
+  },
+  {
+    "name": "Linaje Personalizado",
+    "url": "https://nivel20.com/games/dnd-5/races/2420-linaje-personalizado",
+    "description": "",
+    "source_file": "Razas/Raza (137).html"
+  },
+  {
+    "name": "Lupus Infernalis",
+    "url": "https://nivel20.com/games/dnd-5/races/5557-lupus-infernalis",
+    "description": "",
+    "source_file": "Razas/Raza (138).html"
+  },
+  {
+    "name": "Manti",
+    "url": "https://nivel20.com/games/dnd-5/races/6087-manti",
+    "description": "",
+    "source_file": "Razas/Raza (139).html"
+  },
+  {
+    "name": "Vampiro",
+    "url": "https://nivel20.com/games/dnd-5/races/5965-vampiro",
+    "description": "",
+    "source_file": "Razas/Raza (14).html"
+  },
+  {
+    "name": "Mediano",
+    "url": "https://nivel20.com/games/dnd-5/races/43-mediano",
+    "description": "",
+    "source_file": "Razas/Raza (140).html"
+  },
+  {
+    "name": "Mímico",
+    "url": "https://nivel20.com/games/dnd-5/races/5993-mimico",
+    "description": "",
+    "source_file": "Razas/Raza (141).html"
+  },
+  {
+    "name": "Mímico Anciano",
+    "url": "https://nivel20.com/games/dnd-5/races/1305-mimico-anciano",
+    "description": "",
+    "source_file": "Razas/Raza (142).html"
+  },
+  {
+    "name": "Minotauro",
+    "url": "https://nivel20.com/games/dnd-5/races/178-minotauro",
+    "description": "",
+    "source_file": "Razas/Raza (143).html"
+  },
+  {
+    "name": "Momia",
+    "url": "https://nivel20.com/games/dnd-5/races/4966-momia",
+    "description": "",
+    "source_file": "Razas/Raza (144).html"
+  },
+  {
+    "name": "Naga",
+    "url": "https://nivel20.com/games/dnd-5/races/5511-naga",
+    "description": "",
+    "source_file": "Razas/Raza (145).html"
+  },
+  {
+    "name": "Nahual",
+    "url": "https://nivel20.com/games/dnd-5/races/6529-nahual",
+    "description": "",
+    "source_file": "Razas/Raza (146).html"
+  },
+  {
+    "name": "Neko",
+    "url": "https://nivel20.com/games/dnd-5/races/1239-neko",
+    "description": "",
+    "source_file": "Razas/Raza (147).html"
+  },
+  {
+    "name": "Nerazil",
+    "url": "https://nivel20.com/games/dnd-5/races/749-nerazil",
+    "description": "",
+    "source_file": "Razas/Raza (148).html"
+  },
+  {
+    "name": "No-Muerto Inferior",
+    "url": "https://nivel20.com/games/dnd-5/races/1187-no-muerto-inferior",
+    "description": "",
+    "source_file": "Razas/Raza (149).html"
+  },
+  {
+    "name": "Vampiro",
+    "url": "https://nivel20.com/games/dnd-5/races/180-vampiro",
+    "description": "",
+    "source_file": "Razas/Raza (15).html"
+  },
+  {
+    "name": "Ogresh",
+    "url": "https://nivel20.com/games/dnd-5/races/3098-ogresh",
+    "description": "",
+    "source_file": "Razas/Raza (150).html"
+  },
+  {
+    "name": "Oni",
+    "url": "https://nivel20.com/games/dnd-5/races/5985-oni",
+    "description": "",
+    "source_file": "Razas/Raza (151).html"
+  },
+  {
+    "name": "Oniborne",
+    "url": "https://nivel20.com/games/dnd-5/races/4983-oniborne",
+    "description": "",
+    "source_file": "Razas/Raza (152).html"
+  },
+  {
+    "name": "Orco",
+    "url": "https://nivel20.com/games/dnd-5/races/342-orco",
+    "description": "",
+    "source_file": "Razas/Raza (153).html"
+  },
+  {
+    "name": "Orco",
+    "url": "https://nivel20.com/games/dnd-5/races/417-orco",
+    "description": "",
+    "source_file": "Razas/Raza (154).html"
+  },
+  {
+    "name": "Osgo",
+    "url": "https://nivel20.com/games/dnd-5/races/405-osgo",
+    "description": "",
+    "source_file": "Razas/Raza (155).html"
+  },
+  {
+    "name": "Osgo",
+    "url": "https://nivel20.com/games/dnd-5/races/338-osgo",
+    "description": "",
+    "source_file": "Razas/Raza (156).html"
+  },
+  {
+    "name": "Owlfolk",
+    "url": "https://nivel20.com/games/dnd-5/races/1182-owlfolk",
+    "description": "",
+    "source_file": "Razas/Raza (157).html"
+  },
+  {
+    "name": "Parásito",
+    "url": "https://nivel20.com/games/dnd-5/races/5994-parasito",
+    "description": "",
+    "source_file": "Razas/Raza (158).html"
+  },
+  {
+    "name": "Qunari",
+    "url": "https://nivel20.com/games/dnd-5/races/5960-qunari",
+    "description": "",
+    "source_file": "Razas/Raza (159).html"
+  },
+  {
+    "name": "Vampiro (Alternativo)",
+    "url": "https://nivel20.com/games/dnd-5/races/8037-vampiro-alternativo",
+    "description": "",
+    "source_file": "Razas/Raza (16).html"
+  },
+  {
+    "name": "Rabbitfolk",
+    "url": "https://nivel20.com/games/dnd-5/races/1183-rabbitfolk",
+    "description": "",
+    "source_file": "Razas/Raza (160).html"
+  },
+  {
+    "name": "Rakshasa",
+    "url": "https://nivel20.com/games/dnd-5/races/5989-rakshasa",
+    "description": "",
+    "source_file": "Razas/Raza (161).html"
+  },
+  {
+    "name": "Renacido",
+    "url": "https://nivel20.com/games/dnd-5/races/1315-renacido",
+    "description": "",
+    "source_file": "Razas/Raza (162).html"
+  },
+  {
+    "name": "Replicante",
+    "url": "https://nivel20.com/games/dnd-5/races/337-replicante",
+    "description": "",
+    "source_file": "Razas/Raza (163).html"
+  },
+  {
+    "name": "Retornado",
+    "url": "https://nivel20.com/games/dnd-5/races/5974-retornado",
+    "description": "",
+    "source_file": "Razas/Raza (164).html"
+  },
+  {
+    "name": "Salamandra",
+    "url": "https://nivel20.com/games/dnd-5/races/5941-salamandra",
+    "description": "",
+    "source_file": "Razas/Raza (165).html"
+  },
+  {
+    "name": "Sangre maléfica",
+    "url": "https://nivel20.com/games/dnd-5/races/1316-sangre-malefica",
+    "description": "",
+    "source_file": "Razas/Raza (166).html"
+  },
+  {
+    "name": "Sátiro / Fauno",
+    "url": "https://nivel20.com/games/dnd-5/races/186-satiro-fauno",
+    "description": "",
+    "source_file": "Razas/Raza (167).html"
+  },
+  {
+    "name": "Selaqui",
+    "url": "https://nivel20.com/games/dnd-5/races/6281-selaqui",
+    "description": "",
+    "source_file": "Razas/Raza (168).html"
+  },
+  {
+    "name": "Semi Bestia",
+    "url": "https://nivel20.com/games/dnd-5/races/5933-semi-bestia",
+    "description": "",
+    "source_file": "Razas/Raza (169).html"
+  },
+  {
+    "name": "Vampiro Abisal",
+    "url": "https://nivel20.com/games/dnd-5/races/5966-vampiro-abisal",
+    "description": "",
+    "source_file": "Razas/Raza (17).html"
+  },
+  {
+    "name": "Semidemonio",
+    "url": "https://nivel20.com/games/dnd-5/races/1527-semidemonio",
+    "description": "",
+    "source_file": "Razas/Raza (170).html"
+  },
+  {
+    "name": "Semi-Dios",
+    "url": "https://nivel20.com/games/dnd-5/races/4971-semi-dios",
+    "description": "",
+    "source_file": "Razas/Raza (171).html"
+  },
+  {
+    "name": "SemiDragon",
+    "url": "https://nivel20.com/games/dnd-5/races/1018-semidragon",
+    "description": "",
+    "source_file": "Razas/Raza (172).html"
+  },
+  {
+    "name": "Semidragón",
+    "url": "https://nivel20.com/games/dnd-5/races/694-semidragon",
+    "description": "",
+    "source_file": "Razas/Raza (173).html"
+  },
+  {
+    "name": "Semielfo",
+    "url": "https://nivel20.com/games/dnd-5/races/45-semielfo",
+    "description": "",
+    "source_file": "Razas/Raza (174).html"
+  },
+  {
+    "name": "Semielfo Marca de Detección",
+    "url": "https://nivel20.com/games/dnd-5/races/361-semielfo-marca-de-deteccion",
+    "description": "",
+    "source_file": "Razas/Raza (175).html"
+  },
+  {
+    "name": "Semielfo Marca de Tormenta",
+    "url": "https://nivel20.com/games/dnd-5/races/372-semielfo-marca-de-tormenta",
+    "description": "",
+    "source_file": "Razas/Raza (176).html"
+  },
+  {
+    "name": "Semioni",
+    "url": "https://nivel20.com/games/dnd-5/races/1158-semioni",
+    "description": "",
+    "source_file": "Razas/Raza (177).html"
+  },
+  {
+    "name": "Semiorco",
+    "url": "https://nivel20.com/games/dnd-5/races/46-semiorco",
+    "description": "",
+    "source_file": "Razas/Raza (178).html"
+  },
+  {
+    "name": "Semiorco Marca del Hallazgo",
+    "url": "https://nivel20.com/games/dnd-5/races/362-semiorco-marca-del-hallazgo",
+    "description": "",
+    "source_file": "Razas/Raza (179).html"
+  },
+  {
+    "name": "Voidkin",
+    "url": "https://nivel20.com/games/dnd-5/races/726-voidkin",
+    "description": "",
+    "source_file": "Razas/Raza (18).html"
+  },
+  {
+    "name": "Serket",
+    "url": "https://nivel20.com/games/dnd-5/races/5199-serket",
+    "description": "",
+    "source_file": "Razas/Raza (180).html"
+  },
+  {
+    "name": "Shadar-Kai",
+    "url": "https://nivel20.com/games/dnd-5/races/179-shadar-kai",
+    "description": "",
+    "source_file": "Razas/Raza (181).html"
+  },
+  {
+    "name": "Shadowborn",
+    "url": "https://nivel20.com/games/dnd-5/races/715-shadowborn",
+    "description": "",
+    "source_file": "Razas/Raza (182).html"
+  },
+  {
+    "name": "Shantor",
+    "url": "https://nivel20.com/games/dnd-5/races/1233-shantor",
+    "description": "",
+    "source_file": "Razas/Raza (183).html"
+  },
+  {
+    "name": "Sirena",
+    "url": "https://nivel20.com/games/dnd-5/races/6204-sirena",
+    "description": "",
+    "source_file": "Razas/Raza (184).html"
+  },
+  {
+    "name": "Sirena (Canto de la Iliada)",
+    "url": "https://nivel20.com/games/dnd-5/races/5429-sirena-canto-de-la-iliada",
+    "description": "",
+    "source_file": "Razas/Raza (185).html"
+  },
+  {
+    "name": "Sirena Feérica",
+    "url": "https://nivel20.com/games/dnd-5/races/1503-sirena-feerica",
+    "description": "",
+    "source_file": "Razas/Raza (186).html"
+  },
+  {
+    "name": "Sombra",
+    "url": "https://nivel20.com/games/dnd-5/races/5975-sombra",
+    "description": "",
+    "source_file": "Razas/Raza (187).html"
+  },
+  {
+    "name": "Soñadores",
+    "url": "https://nivel20.com/games/dnd-5/races/3126-sonadores",
+    "description": "",
+    "source_file": "Razas/Raza (188).html"
+  },
+  {
+    "name": "Soulchi",
+    "url": "https://nivel20.com/games/dnd-5/races/1477-soulchi",
+    "description": "",
+    "source_file": "Razas/Raza (189).html"
+  },
+  {
+    "name": "VTuber",
+    "url": "https://nivel20.com/games/dnd-5/races/723-vtuber",
+    "description": "",
+    "source_file": "Razas/Raza (19).html"
+  },
+  {
+    "name": "Súcubo",
+    "url": "https://nivel20.com/games/dnd-5/races/5978-sucubo",
+    "description": "",
+    "source_file": "Razas/Raza (190).html"
+  },
+  {
+    "name": "Súcubo/Íncubo",
+    "url": "https://nivel20.com/games/dnd-5/races/695-sucubo-incubo",
+    "description": "",
+    "source_file": "Razas/Raza (191).html"
+  },
+  {
+    "name": "Symbian",
+    "url": "https://nivel20.com/games/dnd-5/races/748-symbian",
+    "description": "",
+    "source_file": "Razas/Raza (192).html"
+  },
+  {
+    "name": "Tabaxi",
+    "url": "https://nivel20.com/games/dnd-5/races/413-tabaxi",
+    "description": "",
+    "source_file": "Razas/Raza (193).html"
+  },
+  {
+    "name": "Tanuki",
+    "url": "https://nivel20.com/games/dnd-5/races/4962-tanuki",
+    "description": "",
+    "source_file": "Razas/Raza (194).html"
+  },
+  {
+    "name": "Tarwa n Amalu (Descendiente de la oscuridad)",
+    "url": "https://nivel20.com/games/dnd-5/races/7019-tarwa-n-amalu-descendiente-de-la-oscuridad",
+    "description": "",
+    "source_file": "Razas/Raza (195).html"
+  },
+  {
+    "name": "Tarwa n Aman (Descendiente de la vida)",
+    "url": "https://nivel20.com/games/dnd-5/races/7525-tarwa-n-aman-descendiente-de-la-vida",
+    "description": "",
+    "source_file": "Razas/Raza (196).html"
+  },
+  {
+    "name": "Tarwa n Tafuskt (Descendiente del sol)",
+    "url": "https://nivel20.com/games/dnd-5/races/6676-tarwa-n-tafuskt-descendiente-del-sol",
+    "description": "",
+    "source_file": "Razas/Raza (197).html"
+  },
+  {
+    "name": "Tarwa n Tanit (Descendiente de la sabiduría)",
+    "url": "https://nivel20.com/games/dnd-5/races/7496-tarwa-n-tanit-descendiente-de-la-sabiduria",
+    "description": "",
+    "source_file": "Razas/Raza (198).html"
+  },
+  {
+    "name": "Tarwa n Titrit (Descendiente de las estrellas)",
+    "url": "https://nivel20.com/games/dnd-5/races/7851-tarwa-n-titrit-descendiente-de-las-estrellas",
+    "description": "",
+    "source_file": "Razas/Raza (199).html"
+  },
+  {
+    "name": "Tauro",
+    "url": "https://nivel20.com/games/dnd-5/races/6282-tauro",
+    "description": "",
+    "source_file": "Razas/Raza (2).html"
+  },
+  {
+    "name": "Wayyu-d",
+    "url": "https://nivel20.com/games/dnd-5/races/7625-wayyu-d",
+    "description": "",
+    "source_file": "Razas/Raza (20).html"
+  },
+  {
+    "name": "Welchselkind",
+    "url": "https://nivel20.com/games/dnd-5/races/3094-welchselkind",
+    "description": "",
+    "source_file": "Razas/Raza (21).html"
+  },
+  {
+    "name": "Wendigo",
+    "url": "https://nivel20.com/games/dnd-5/races/5190-wendigo",
+    "description": "",
+    "source_file": "Razas/Raza (22).html"
+  },
+  {
+    "name": "Wendigo",
+    "url": "https://nivel20.com/games/dnd-5/races/728-wendigo",
+    "description": "",
+    "source_file": "Razas/Raza (23).html"
+  },
+  {
+    "name": "Yuan-Ti purasangre",
+    "url": "https://nivel20.com/games/dnd-5/races/418-yuan-ti-purasangre",
+    "description": "",
+    "source_file": "Razas/Raza (24).html"
+  },
+  {
+    "name": "Yuki Onna",
+    "url": "https://nivel20.com/games/dnd-5/races/740-yuki-onna",
+    "description": "",
+    "source_file": "Razas/Raza (25).html"
+  },
+  {
+    "name": "Yuki-Onna",
+    "url": "https://nivel20.com/games/dnd-5/races/4969-yuki-onna",
+    "description": "",
+    "source_file": "Razas/Raza (26).html"
+  },
+  {
+    "name": "Zozhkehy",
+    "url": "https://nivel20.com/games/dnd-5/races/1230-zozhkehy",
+    "description": "",
+    "source_file": "Razas/Raza (27).html"
+  },
+  {
+    "name": "Aasimar",
+    "url": "https://nivel20.com/games/dnd-5/races/406-aasimar",
+    "description": "",
+    "source_file": "Razas/Raza (28).html"
+  },
+  {
+    "name": "Aberración Oscura",
+    "url": "https://nivel20.com/games/dnd-5/races/727-aberracion-oscura",
+    "description": "",
+    "source_file": "Razas/Raza (29).html"
+  },
+  {
+    "name": "Tiefling",
+    "url": "https://nivel20.com/games/dnd-5/races/47-tiefling",
+    "description": "",
+    "source_file": "Razas/Raza (3).html"
+  },
+  {
+    "name": "Abominaciones",
+    "url": "https://nivel20.com/games/dnd-5/races/1469-abominaciones",
+    "description": "",
+    "source_file": "Razas/Raza (30).html"
+  },
+  {
+    "name": "Acompañante",
+    "url": "https://nivel20.com/games/dnd-5/races/4237-acompanante",
+    "description": "",
+    "source_file": "Razas/Raza (31).html"
+  },
+  {
+    "name": "Ainvir",
+    "url": "https://nivel20.com/games/dnd-5/races/1221-ainvir",
+    "description": "",
+    "source_file": "Razas/Raza (32).html"
+  },
+  {
+    "name": "Alicaído",
+    "url": "https://nivel20.com/games/dnd-5/races/3121-alicaido",
+    "description": "",
+    "source_file": "Razas/Raza (33).html"
+  },
+  {
+    "name": "Amazona",
+    "url": "https://nivel20.com/games/dnd-5/races/4967-amazona",
+    "description": "",
+    "source_file": "Razas/Raza (34).html"
+  },
+  {
+    "name": "Ángel",
+    "url": "https://nivel20.com/games/dnd-5/races/5990-angel",
+    "description": "",
+    "source_file": "Razas/Raza (35).html"
+  },
+  {
+    "name": "Ángel Caído",
+    "url": "https://nivel20.com/games/dnd-5/races/5991-angel-caido",
+    "description": "",
+    "source_file": "Razas/Raza (36).html"
+  },
+  {
+    "name": "Aracne",
+    "url": "https://nivel20.com/games/dnd-5/races/5560-aracne",
+    "description": "",
+    "source_file": "Razas/Raza (37).html"
+  },
+  {
+    "name": "Arak",
+    "url": "https://nivel20.com/games/dnd-5/races/6280-arak",
+    "description": "",
+    "source_file": "Razas/Raza (38).html"
+  },
+  {
+    "name": "Arpía",
+    "url": "https://nivel20.com/games/dnd-5/races/1263-arpia",
+    "description": "",
+    "source_file": "Razas/Raza (39).html"
+  },
+  {
+    "name": "Tiefling de Baalzebul",
+    "url": "https://nivel20.com/games/dnd-5/races/1150-tiefling-de-baalzebul",
+    "description": "",
+    "source_file": "Razas/Raza (4).html"
+  },
+  {
+    "name": "Azetta",
+    "url": "https://nivel20.com/games/dnd-5/races/5561-azetta",
+    "description": "",
+    "source_file": "Razas/Raza (40).html"
+  },
+  {
+    "name": "Azotamentes",
+    "url": "https://nivel20.com/games/dnd-5/races/2515-azotamentes",
+    "description": "",
+    "source_file": "Razas/Raza (41).html"
+  },
+  {
+    "name": "Banshee",
+    "url": "https://nivel20.com/games/dnd-5/races/4970-banshee",
+    "description": "",
+    "source_file": "Razas/Raza (42).html"
+  },
+  {
+    "name": "Baphomet",
+    "url": "https://nivel20.com/games/dnd-5/races/5191-baphomet",
+    "description": "",
+    "source_file": "Razas/Raza (43).html"
+  },
+  {
+    "name": "Bilmawen",
+    "url": "https://nivel20.com/games/dnd-5/races/5546-bilmawen",
+    "description": "",
+    "source_file": "Razas/Raza (44).html"
+  },
+  {
+    "name": "Bruja",
+    "url": "https://nivel20.com/games/dnd-5/races/6555-bruja",
+    "description": "",
+    "source_file": "Razas/Raza (45).html"
+  },
+  {
+    "name": "Bullywug",
+    "url": "https://nivel20.com/games/dnd-5/races/1832-bullywug",
+    "description": "",
+    "source_file": "Razas/Raza (46).html"
+  },
+  {
+    "name": "Cambiante",
+    "url": "https://nivel20.com/games/dnd-5/races/343-cambiante",
+    "description": "",
+    "source_file": "Razas/Raza (47).html"
+  },
+  {
+    "name": "Centzontli Totochtin",
+    "url": "https://nivel20.com/games/dnd-5/races/4975-centzontli-totochtin",
+    "description": "",
+    "source_file": "Razas/Raza (48).html"
+  },
+  {
+    "name": "Ceres",
+    "url": "https://nivel20.com/games/dnd-5/races/6251-ceres",
+    "description": "",
+    "source_file": "Razas/Raza (49).html"
+  },
+  {
+    "name": "Tiefling de Dispater",
+    "url": "https://nivel20.com/games/dnd-5/races/1151-tiefling-de-dispater",
+    "description": "",
+    "source_file": "Razas/Raza (5).html"
+  },
+  {
+    "name": "Ciclope",
+    "url": "https://nivel20.com/games/dnd-5/races/6194-ciclope",
+    "description": "",
+    "source_file": "Razas/Raza (50).html"
+  },
+  {
+    "name": "Cienomita",
+    "url": "https://nivel20.com/games/dnd-5/races/716-cienomita",
+    "description": "",
+    "source_file": "Razas/Raza (51).html"
+  },
+  {
+    "name": "Constructo Bélico",
+    "url": "https://nivel20.com/games/dnd-5/races/5339-constructo-belico",
+    "description": "",
+    "source_file": "Razas/Raza (52).html"
+  },
+  {
+    "name": "Dhamphiro",
+    "url": "https://nivel20.com/games/dnd-5/races/1314-dhamphiro",
+    "description": "",
+    "source_file": "Razas/Raza (53).html"
+  },
+  {
+    "name": "Dhampir",
+    "url": "https://nivel20.com/games/dnd-5/races/5967-dhampir",
+    "description": "",
+    "source_file": "Razas/Raza (54).html"
+  },
+  {
+    "name": "Dhampiro",
+    "url": "https://nivel20.com/games/dnd-5/races/185-dhampiro",
+    "description": "",
+    "source_file": "Razas/Raza (55).html"
+  },
+  {
+    "name": "Diablillo",
+    "url": "https://nivel20.com/games/dnd-5/races/5976-diablillo",
+    "description": "",
+    "source_file": "Razas/Raza (56).html"
+  },
+  {
+    "name": "Divinus",
+    "url": "https://nivel20.com/games/dnd-5/races/1388-divinus",
+    "description": "",
+    "source_file": "Razas/Raza (57).html"
+  },
+  {
+    "name": "Djinn",
+    "url": "https://nivel20.com/games/dnd-5/races/5564-djinn",
+    "description": "",
+    "source_file": "Razas/Raza (58).html"
+  },
+  {
+    "name": "Dracónido",
+    "url": "https://nivel20.com/games/dnd-5/races/48-draconido",
+    "description": "",
+    "source_file": "Razas/Raza (59).html"
+  },
+  {
+    "name": "Tiefling de Fierna",
+    "url": "https://nivel20.com/games/dnd-5/races/1152-tiefling-de-fierna",
+    "description": "",
+    "source_file": "Razas/Raza (6).html"
+  },
+  {
+    "name": "Draconido Cosmico",
+    "url": "https://nivel20.com/games/dnd-5/races/1345-draconido-cosmico",
+    "description": "",
+    "source_file": "Razas/Raza (60).html"
+  },
+  {
+    "name": "Dríade",
+    "url": "https://nivel20.com/games/dnd-5/races/5946-driade",
+    "description": "",
+    "source_file": "Razas/Raza (61).html"
+  },
+  {
+    "name": "Duater",
+    "url": "https://nivel20.com/games/dnd-5/races/5977-duater",
+    "description": "",
+    "source_file": "Razas/Raza (62).html"
+  },
+  {
+    "name": "Dullahan",
+    "url": "https://nivel20.com/games/dnd-5/races/696-dullahan",
+    "description": "",
+    "source_file": "Razas/Raza (63).html"
+  },
+  {
+    "name": "Dullahan",
+    "url": "https://nivel20.com/games/dnd-5/races/5988-dullahan",
+    "description": "",
+    "source_file": "Razas/Raza (64).html"
+  },
+  {
+    "name": "Dullahan",
+    "url": "https://nivel20.com/games/dnd-5/races/1400-dullahan",
+    "description": "",
+    "source_file": "Razas/Raza (65).html"
+  },
+  {
+    "name": "Elfo",
+    "url": "https://nivel20.com/games/dnd-5/races/11-elfo",
+    "description": "",
+    "source_file": "Razas/Raza (66).html"
+  },
+  {
+    "name": "Elfo (Thedas)",
+    "url": "https://nivel20.com/games/dnd-5/races/5957-elfo-thedas",
+    "description": "",
+    "source_file": "Razas/Raza (67).html"
+  },
+  {
+    "name": "Elfo Alfheim",
+    "url": "https://nivel20.com/games/dnd-5/races/6097-elfo-alfheim",
+    "description": "",
+    "source_file": "Razas/Raza (68).html"
+  },
+  {
+    "name": "Elfo Oscuro",
+    "url": "https://nivel20.com/games/dnd-5/races/5952-elfo-oscuro",
+    "description": "",
+    "source_file": "Razas/Raza (69).html"
+  },
+  {
+    "name": "Tiefling de Glasya",
+    "url": "https://nivel20.com/games/dnd-5/races/1153-tiefling-de-glasya",
+    "description": "",
+    "source_file": "Razas/Raza (7).html"
+  },
+  {
+    "name": "Enano",
+    "url": "https://nivel20.com/games/dnd-5/races/12-enano",
+    "description": "",
+    "source_file": "Razas/Raza (70).html"
+  },
+  {
+    "name": "Enano (Thedas)",
+    "url": "https://nivel20.com/games/dnd-5/races/5958-enano-thedas",
+    "description": "",
+    "source_file": "Razas/Raza (71).html"
+  },
+  {
+    "name": "Enenra",
+    "url": "https://nivel20.com/games/dnd-5/races/5987-enenra",
+    "description": "",
+    "source_file": "Razas/Raza (72).html"
+  },
+  {
+    "name": "Engendro Tenebroso",
+    "url": "https://nivel20.com/games/dnd-5/races/5961-engendro-tenebroso",
+    "description": "",
+    "source_file": "Razas/Raza (73).html"
+  },
+  {
+    "name": "Entwalkers",
+    "url": "https://nivel20.com/games/dnd-5/races/5612-entwalkers",
+    "description": "",
+    "source_file": "Razas/Raza (74).html"
+  },
+  {
+    "name": "Fantasma",
+    "url": "https://nivel20.com/games/dnd-5/races/6151-fantasma",
+    "description": "",
+    "source_file": "Razas/Raza (75).html"
+  },
+  {
+    "name": "Fantasma",
+    "url": "https://nivel20.com/games/dnd-5/races/6283-fantasma",
+    "description": "",
+    "source_file": "Razas/Raza (76).html"
+  },
+  {
+    "name": "Firbolg",
+    "url": "https://nivel20.com/games/dnd-5/races/410-firbolg",
+    "description": "",
+    "source_file": "Razas/Raza (77).html"
+  },
+  {
+    "name": "Forjado",
+    "url": "https://nivel20.com/games/dnd-5/races/348-forjado",
+    "description": "",
+    "source_file": "Razas/Raza (78).html"
+  },
+  {
+    "name": "Fuego Fatuo",
+    "url": "https://nivel20.com/games/dnd-5/races/5938-fuego-fatuo",
+    "description": "",
+    "source_file": "Razas/Raza (79).html"
+  },
+  {
+    "name": "Tiefling de Levistus",
+    "url": "https://nivel20.com/games/dnd-5/races/317-tiefling-de-levistus",
+    "description": "",
+    "source_file": "Razas/Raza (8).html"
+  },
+  {
+    "name": "Furia",
+    "url": "https://nivel20.com/games/dnd-5/races/5986-furia",
+    "description": "",
+    "source_file": "Razas/Raza (80).html"
+  },
+  {
+    "name": "Gannok",
+    "url": "https://nivel20.com/games/dnd-5/races/1231-gannok",
+    "description": "",
+    "source_file": "Razas/Raza (81).html"
+  },
+  {
+    "name": "Gárgola",
+    "url": "https://nivel20.com/games/dnd-5/races/8793-gargola",
+    "description": "",
+    "source_file": "Razas/Raza (82).html"
+  },
+  {
+    "name": "Garou",
+    "url": "https://nivel20.com/games/dnd-5/races/747-garou",
+    "description": "",
+    "source_file": "Razas/Raza (83).html"
+  },
+  {
+    "name": "Genasi",
+    "url": "https://nivel20.com/games/dnd-5/races/170-genasi",
+    "description": "",
+    "source_file": "Razas/Raza (84).html"
+  },
+  {
+    "name": "Gith",
+    "url": "https://nivel20.com/games/dnd-5/races/1147-gith",
+    "description": "",
+    "source_file": "Razas/Raza (85).html"
+  },
+  {
+    "name": "Gnoll",
+    "url": "https://nivel20.com/games/dnd-5/races/738-gnoll",
+    "description": "",
+    "source_file": "Razas/Raza (86).html"
+  },
+  {
+    "name": "Gnomo",
+    "url": "https://nivel20.com/games/dnd-5/races/13-gnomo",
+    "description": "",
+    "source_file": "Razas/Raza (87).html"
+  },
+  {
+    "name": "Goblin",
+    "url": "https://nivel20.com/games/dnd-5/races/339-goblin",
+    "description": "",
+    "source_file": "Razas/Raza (88).html"
+  },
+  {
+    "name": "Goblin",
+    "url": "https://nivel20.com/games/dnd-5/races/414-goblin",
+    "description": "",
+    "source_file": "Razas/Raza (89).html"
+  },
+  {
+    "name": "Tiefling de Mammon",
+    "url": "https://nivel20.com/games/dnd-5/races/316-tiefling-de-mammon",
+    "description": "",
+    "source_file": "Razas/Raza (9).html"
+  },
+  {
+    "name": "Goliat",
+    "url": "https://nivel20.com/games/dnd-5/races/169-goliat",
+    "description": "",
+    "source_file": "Razas/Raza (90).html"
+  },
+  {
+    "name": "Gorgona",
+    "url": "https://nivel20.com/games/dnd-5/races/5984-gorgona",
+    "description": "",
+    "source_file": "Razas/Raza (91).html"
+  },
+  {
+    "name": "Gorgona",
+    "url": "https://nivel20.com/games/dnd-5/races/5497-gorgona",
+    "description": "",
+    "source_file": "Razas/Raza (92).html"
+  },
+  {
+    "name": "Hada",
+    "url": "https://nivel20.com/games/dnd-5/races/6056-hada",
+    "description": "",
+    "source_file": "Razas/Raza (93).html"
+  },
+  {
+    "name": "Hada",
+    "url": "https://nivel20.com/games/dnd-5/races/1659-hada",
+    "description": "",
+    "source_file": "Razas/Raza (94).html"
+  },
+  {
+    "name": "Hada",
+    "url": "https://nivel20.com/games/dnd-5/races/1180-hada",
+    "description": "",
+    "source_file": "Razas/Raza (95).html"
+  },
+  {
+    "name": "Hada de Ávalon",
+    "url": "https://nivel20.com/games/dnd-5/races/6031-hada-de-avalon",
+    "description": "",
+    "source_file": "Razas/Raza (96).html"
+  },
+  {
+    "name": "Hada de Midgard",
+    "url": "https://nivel20.com/games/dnd-5/races/6165-hada-de-midgard",
+    "description": "",
+    "source_file": "Razas/Raza (97).html"
+  },
+  {
+    "name": "Hipogrífiles",
+    "url": "https://nivel20.com/games/dnd-5/races/7457-hipogrifiles",
+    "description": "",
+    "source_file": "Razas/Raza (98).html"
+  },
+  {
+    "name": "Hobgoblin",
+    "url": "https://nivel20.com/games/dnd-5/races/340-hobgoblin",
+    "description": "",
+    "source_file": "Razas/Raza (99).html"
+  }
+]
