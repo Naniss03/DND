@@ -1,0 +1,1526 @@
+[
+  {
+    "name": "Shantor de la Selva",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1237-shantor-de-la-selva",
+    "description": "",
+    "source_file": "Subrazas/Subraza (1).html"
+  },
+  {
+    "name": "Tamza",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5516-tamza",
+    "description": "",
+    "source_file": "Subrazas/Subraza (10).html"
+  },
+  {
+    "name": "Cuauhtli",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6540-cuauhtli",
+    "description": "",
+    "source_file": "Subrazas/Subraza (100).html"
+  },
+  {
+    "name": "De flora Diurna",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5613-de-flora-diurna",
+    "description": "",
+    "source_file": "Subrazas/Subraza (101).html"
+  },
+  {
+    "name": "De Flora Nocturna",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5614-de-flora-nocturna",
+    "description": "",
+    "source_file": "Subrazas/Subraza (102).html"
+  },
+  {
+    "name": "Descastados",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6048-descastados",
+    "description": "",
+    "source_file": "Subrazas/Subraza (103).html"
+  },
+  {
+    "name": "Djinn",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6192-djinn",
+    "description": "",
+    "source_file": "Subrazas/Subraza (104).html"
+  },
+  {
+    "name": "Djinn blanco",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5565-djinn-blanco",
+    "description": "",
+    "source_file": "Subrazas/Subraza (105).html"
+  },
+  {
+    "name": "Djinn gris",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5567-djinn-gris",
+    "description": "",
+    "source_file": "Subrazas/Subraza (106).html"
+  },
+  {
+    "name": "Djinn negro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5566-djinn-negro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (107).html"
+  },
+  {
+    "name": "Dominio",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6006-dominio",
+    "description": "",
+    "source_file": "Subrazas/Subraza (108).html"
+  },
+  {
+    "name": "Draconido Cometa",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1346-draconido-cometa",
+    "description": "",
+    "source_file": "Subrazas/Subraza (109).html"
+  },
+  {
+    "name": "Tevinterano",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6041-tevinterano",
+    "description": "",
+    "source_file": "Subrazas/Subraza (11).html"
+  },
+  {
+    "name": "Draconido de la Luna",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1347-draconido-de-la-luna",
+    "description": "",
+    "source_file": "Subrazas/Subraza (110).html"
+  },
+  {
+    "name": "Draconido Nebular",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1348-draconido-nebular",
+    "description": "",
+    "source_file": "Subrazas/Subraza (111).html"
+  },
+  {
+    "name": "Draconido Planetario (Gas)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1349-draconido-planetario-gas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (112).html"
+  },
+  {
+    "name": "Draconido Planetario (Helado)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2705-draconido-planetario-helado",
+    "description": "",
+    "source_file": "Subrazas/Subraza (113).html"
+  },
+  {
+    "name": "Draconido Solar",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1350-draconido-solar",
+    "description": "",
+    "source_file": "Subrazas/Subraza (114).html"
+  },
+  {
+    "name": "Draconido Terrestre",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2704-draconido-terrestre",
+    "description": "",
+    "source_file": "Subrazas/Subraza (115).html"
+  },
+  {
+    "name": "Dragon Acero",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2779-dragon-acero",
+    "description": "",
+    "source_file": "Subrazas/Subraza (116).html"
+  },
+  {
+    "name": "Dragon Amatista",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2795-dragon-amatista",
+    "description": "",
+    "source_file": "Subrazas/Subraza (117).html"
+  },
+  {
+    "name": "Dragon Azul",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1020-dragon-azul",
+    "description": "",
+    "source_file": "Subrazas/Subraza (118).html"
+  },
+  {
+    "name": "Dragon Blanco",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1028-dragon-blanco",
+    "description": "",
+    "source_file": "Subrazas/Subraza (119).html"
+  },
+  {
+    "name": "Tibicenas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5559-tibicenas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (12).html"
+  },
+  {
+    "name": "Dragon Bronce",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1022-dragon-bronce",
+    "description": "",
+    "source_file": "Subrazas/Subraza (120).html"
+  },
+  {
+    "name": "Dragon Cobre",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1023-dragon-cobre",
+    "description": "",
+    "source_file": "Subrazas/Subraza (121).html"
+  },
+  {
+    "name": "Dragon Cristal",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2798-dragon-cristal",
+    "description": "",
+    "source_file": "Subrazas/Subraza (122).html"
+  },
+  {
+    "name": "Dragon Esmeralda",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2797-dragon-esmeralda",
+    "description": "",
+    "source_file": "Subrazas/Subraza (123).html"
+  },
+  {
+    "name": "Dragon forjado",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1036-dragon-forjado",
+    "description": "",
+    "source_file": "Subrazas/Subraza (124).html"
+  },
+  {
+    "name": "Dragon Negro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1019-dragon-negro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (125).html"
+  },
+  {
+    "name": "Dragon Oro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1024-dragon-oro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (126).html"
+  },
+  {
+    "name": "Dragon Oropel",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1021-dragon-oropel",
+    "description": "",
+    "source_file": "Subrazas/Subraza (127).html"
+  },
+  {
+    "name": "Dragon Piedra Lunar",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2799-dragon-piedra-lunar",
+    "description": "",
+    "source_file": "Subrazas/Subraza (128).html"
+  },
+  {
+    "name": "Dragon Plata",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1027-dragon-plata",
+    "description": "",
+    "source_file": "Subrazas/Subraza (129).html"
+  },
+  {
+    "name": "Tlacuache",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6531-tlacuache",
+    "description": "",
+    "source_file": "Subrazas/Subraza (13).html"
+  },
+  {
+    "name": "Dragon Rojo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1026-dragon-rojo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (130).html"
+  },
+  {
+    "name": "Dragon Solar",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2777-dragon-solar",
+    "description": "",
+    "source_file": "Subrazas/Subraza (131).html"
+  },
+  {
+    "name": "Dragón Topacio",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2796-dragon-topacio",
+    "description": "",
+    "source_file": "Subrazas/Subraza (132).html"
+  },
+  {
+    "name": "Dragon Verde",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1025-dragon-verde",
+    "description": "",
+    "source_file": "Subrazas/Subraza (133).html"
+  },
+  {
+    "name": "Dragon Zafiro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2778-dragon-zafiro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (134).html"
+  },
+  {
+    "name": "Droide de Combate",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1706-droide-de-combate",
+    "description": "",
+    "source_file": "Subrazas/Subraza (135).html"
+  },
+  {
+    "name": "Droide de Reconocimiento",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1708-droide-de-reconocimiento",
+    "description": "",
+    "source_file": "Subrazas/Subraza (136).html"
+  },
+  {
+    "name": "Duergar",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1146-duergar",
+    "description": "",
+    "source_file": "Subrazas/Subraza (137).html"
+  },
+  {
+    "name": "Dul-ai",
+    "url": "https://nivel20.com/games/dnd-5/subraces/579-dul-ai",
+    "description": "",
+    "source_file": "Subrazas/Subraza (138).html"
+  },
+  {
+    "name": "Eladrin",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1143-eladrin",
+    "description": "",
+    "source_file": "Subrazas/Subraza (139).html"
+  },
+  {
+    "name": "Undine",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6065-undine",
+    "description": "",
+    "source_file": "Subrazas/Subraza (14).html"
+  },
+  {
+    "name": "Elfo Centinela",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6037-elfo-centinela",
+    "description": "",
+    "source_file": "Subrazas/Subraza (140).html"
+  },
+  {
+    "name": "Elfo Dalishano",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6033-elfo-dalishano",
+    "description": "",
+    "source_file": "Subrazas/Subraza (141).html"
+  },
+  {
+    "name": "Elfo de Ciudad",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6036-elfo-de-ciudad",
+    "description": "",
+    "source_file": "Subrazas/Subraza (142).html"
+  },
+  {
+    "name": "Elfo de la Nieve",
+    "url": "https://nivel20.com/games/dnd-5/subraces/697-elfo-de-la-nieve",
+    "description": "",
+    "source_file": "Subrazas/Subraza (143).html"
+  },
+  {
+    "name": "Elfo de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/subraces/699-elfo-de-la-sangre",
+    "description": "",
+    "source_file": "Subrazas/Subraza (144).html"
+  },
+  {
+    "name": "Elfo de los bosques",
+    "url": "https://nivel20.com/games/dnd-5/subraces/72-elfo-de-los-bosques",
+    "description": "",
+    "source_file": "Subrazas/Subraza (145).html"
+  },
+  {
+    "name": "Elfo Marca de Sombra",
+    "url": "https://nivel20.com/games/dnd-5/subraces/371-elfo-marca-de-sombra",
+    "description": "",
+    "source_file": "Subrazas/Subraza (146).html"
+  },
+  {
+    "name": "Elfo marino",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1144-elfo-marino",
+    "description": "",
+    "source_file": "Subrazas/Subraza (147).html"
+  },
+  {
+    "name": "Elfo oscuro (Drow)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/73-elfo-oscuro-drow",
+    "description": "",
+    "source_file": "Subrazas/Subraza (148).html"
+  },
+  {
+    "name": "Enano de las colinas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/40-enano-de-las-colinas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (149).html"
+  },
+  {
+    "name": "Unidad Oráculo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1707-unidad-oraculo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (15).html"
+  },
+  {
+    "name": "Enano de las montañas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/71-enano-de-las-montanas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (150).html"
+  },
+  {
+    "name": "Enano Marca de Protección",
+    "url": "https://nivel20.com/games/dnd-5/subraces/373-enano-marca-de-proteccion",
+    "description": "",
+    "source_file": "Subrazas/Subraza (151).html"
+  },
+  {
+    "name": "Escamas de acero",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1016-escamas-de-acero",
+    "description": "",
+    "source_file": "Subrazas/Subraza (152).html"
+  },
+  {
+    "name": "Escudo Bélico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5345-escudo-belico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (153).html"
+  },
+  {
+    "name": "Espada Bélica",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5340-espada-belica",
+    "description": "",
+    "source_file": "Subrazas/Subraza (154).html"
+  },
+  {
+    "name": "Esqueleto",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1189-esqueleto",
+    "description": "",
+    "source_file": "Subrazas/Subraza (155).html"
+  },
+  {
+    "name": "Fereldeno",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6039-fereldeno",
+    "description": "",
+    "source_file": "Subrazas/Subraza (156).html"
+  },
+  {
+    "name": "Fuego Fatuo Brillante",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5940-fuego-fatuo-brillante",
+    "description": "",
+    "source_file": "Subrazas/Subraza (157).html"
+  },
+  {
+    "name": "Fuego Fatuo Titilante",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5939-fuego-fatuo-titilante",
+    "description": "",
+    "source_file": "Subrazas/Subraza (158).html"
+  },
+  {
+    "name": "Genasi de agua",
+    "url": "https://nivel20.com/games/dnd-5/subraces/174-genasi-de-agua",
+    "description": "",
+    "source_file": "Subrazas/Subraza (159).html"
+  },
+  {
+    "name": "Verde",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4985-verde",
+    "description": "",
+    "source_file": "Subrazas/Subraza (16).html"
+  },
+  {
+    "name": "Genasi de aire",
+    "url": "https://nivel20.com/games/dnd-5/subraces/171-genasi-de-aire",
+    "description": "",
+    "source_file": "Subrazas/Subraza (160).html"
+  },
+  {
+    "name": "Genasi de fuego",
+    "url": "https://nivel20.com/games/dnd-5/subraces/173-genasi-de-fuego",
+    "description": "",
+    "source_file": "Subrazas/Subraza (161).html"
+  },
+  {
+    "name": "Genasi de tierra",
+    "url": "https://nivel20.com/games/dnd-5/subraces/172-genasi-de-tierra",
+    "description": "",
+    "source_file": "Subrazas/Subraza (162).html"
+  },
+  {
+    "name": "Genlock",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5963-genlock",
+    "description": "",
+    "source_file": "Subrazas/Subraza (163).html"
+  },
+  {
+    "name": "Githyanki",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1148-githyanki",
+    "description": "",
+    "source_file": "Subrazas/Subraza (164).html"
+  },
+  {
+    "name": "Githzerai",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1149-githzerai",
+    "description": "",
+    "source_file": "Subrazas/Subraza (165).html"
+  },
+  {
+    "name": "Gnome",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6069-gnome",
+    "description": "",
+    "source_file": "Subrazas/Subraza (166).html"
+  },
+  {
+    "name": "Gnomo de las rocas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/42-gnomo-de-las-rocas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (167).html"
+  },
+  {
+    "name": "Gnomo de los bosques",
+    "url": "https://nivel20.com/games/dnd-5/subraces/75-gnomo-de-los-bosques",
+    "description": "",
+    "source_file": "Subrazas/Subraza (168).html"
+  },
+  {
+    "name": "Gnomo Marca de Escritura",
+    "url": "https://nivel20.com/games/dnd-5/subraces/369-gnomo-marca-de-escritura",
+    "description": "",
+    "source_file": "Subrazas/Subraza (169).html"
+  },
+  {
+    "name": "Vindorde",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6016-vindorde",
+    "description": "",
+    "source_file": "Subrazas/Subraza (17).html"
+  },
+  {
+    "name": "Guardia Virtuoso",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6142-guardia-virtuoso",
+    "description": "",
+    "source_file": "Subrazas/Subraza (170).html"
+  },
+  {
+    "name": "Habitante de las tinieblas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1015-habitante-de-las-tinieblas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (171).html"
+  },
+  {
+    "name": "Hacha Bélica",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5342-hacha-belica",
+    "description": "",
+    "source_file": "Subrazas/Subraza (172).html"
+  },
+  {
+    "name": "Hada de los Animales",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6168-hada-de-los-animales",
+    "description": "",
+    "source_file": "Subrazas/Subraza (173).html"
+  },
+  {
+    "name": "Hadas de la Luz",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6171-hadas-de-la-luz",
+    "description": "",
+    "source_file": "Subrazas/Subraza (174).html"
+  },
+  {
+    "name": "Hadas de la Nieve",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6172-hadas-de-la-nieve",
+    "description": "",
+    "source_file": "Subrazas/Subraza (175).html"
+  },
+  {
+    "name": "Hadas de la Noche",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6170-hadas-de-la-noche",
+    "description": "",
+    "source_file": "Subrazas/Subraza (176).html"
+  },
+  {
+    "name": "Hadas de las Flores",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6167-hadas-de-las-flores",
+    "description": "",
+    "source_file": "Subrazas/Subraza (177).html"
+  },
+  {
+    "name": "Hadas del Río",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6191-hadas-del-rio",
+    "description": "",
+    "source_file": "Subrazas/Subraza (178).html"
+  },
+  {
+    "name": "Hadas del Viento",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6166-hadas-del-viento",
+    "description": "",
+    "source_file": "Subrazas/Subraza (179).html"
+  },
+  {
+    "name": "Volador",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1017-volador",
+    "description": "",
+    "source_file": "Subrazas/Subraza (18).html"
+  },
+  {
+    "name": "Hadas Guerreras",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6169-hadas-guerreras",
+    "description": "",
+    "source_file": "Subrazas/Subraza (180).html"
+  },
+  {
+    "name": "Hellhound",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5558-hellhound",
+    "description": "",
+    "source_file": "Subrazas/Subraza (181).html"
+  },
+  {
+    "name": "Holstaur Arcadiano",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2559-holstaur-arcadiano",
+    "description": "",
+    "source_file": "Subrazas/Subraza (182).html"
+  },
+  {
+    "name": "Holstaur Catoblepas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2560-holstaur-catoblepas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (183).html"
+  },
+  {
+    "name": "Holstaur Cuerno de Niebla",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2561-holstaur-cuerno-de-niebla",
+    "description": "",
+    "source_file": "Subrazas/Subraza (184).html"
+  },
+  {
+    "name": "Holstaur Urbos",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2562-holstaur-urbos",
+    "description": "",
+    "source_file": "Subrazas/Subraza (185).html"
+  },
+  {
+    "name": "Homúnculo Mágico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5555-homunculo-magico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (186).html"
+  },
+  {
+    "name": "Hoz Bélica",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5346-hoz-belica",
+    "description": "",
+    "source_file": "Subrazas/Subraza (187).html"
+  },
+  {
+    "name": "Humano",
+    "url": "https://nivel20.com/games/dnd-5/subraces/14-humano",
+    "description": "",
+    "source_file": "Subrazas/Subraza (188).html"
+  },
+  {
+    "name": "Humano (alternativo)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/217-humano-alternativo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (189).html"
+  },
+  {
+    "name": "VTuber Anime",
+    "url": "https://nivel20.com/games/dnd-5/subraces/725-vtuber-anime",
+    "description": "",
+    "source_file": "Subrazas/Subraza (19).html"
+  },
+  {
+    "name": "Hurlock",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5962-hurlock",
+    "description": "",
+    "source_file": "Subrazas/Subraza (190).html"
+  },
+  {
+    "name": "Igniz de fuego",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1392-igniz-de-fuego",
+    "description": "",
+    "source_file": "Subrazas/Subraza (191).html"
+  },
+  {
+    "name": "Igniz de hielo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1389-igniz-de-hielo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (192).html"
+  },
+  {
+    "name": "Igniz de la Luz",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1390-igniz-de-la-luz",
+    "description": "",
+    "source_file": "Subrazas/Subraza (193).html"
+  },
+  {
+    "name": "Igniz de relámpago",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1391-igniz-de-relampago",
+    "description": "",
+    "source_file": "Subrazas/Subraza (194).html"
+  },
+  {
+    "name": "Igniz oscuro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1387-igniz-oscuro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (195).html"
+  },
+  {
+    "name": "Imp",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6066-imp",
+    "description": "",
+    "source_file": "Subrazas/Subraza (196).html"
+  },
+  {
+    "name": "Invasores de la tierra prometida",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4990-invasores-de-la-tierra-prometida",
+    "description": "",
+    "source_file": "Subrazas/Subraza (197).html"
+  },
+  {
+    "name": "Kami",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4964-kami",
+    "description": "",
+    "source_file": "Subrazas/Subraza (198).html"
+  },
+  {
+    "name": "Laneshi Guerrero",
+    "url": "https://nivel20.com/games/dnd-5/subraces/3096-laneshi-guerrero",
+    "description": "",
+    "source_file": "Subrazas/Subraza (199).html"
+  },
+  {
+    "name": "Shantor de las Montañas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1235-shantor-de-las-montanas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (2).html"
+  },
+  {
+    "name": "VTuber Bot",
+    "url": "https://nivel20.com/games/dnd-5/subraces/724-vtuber-bot",
+    "description": "",
+    "source_file": "Subrazas/Subraza (20).html"
+  },
+  {
+    "name": "Laneshi Místico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/3097-laneshi-mistico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (200).html"
+  },
+  {
+    "name": "Lanza Bélica",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5341-lanza-belica",
+    "description": "",
+    "source_file": "Subrazas/Subraza (201).html"
+  },
+  {
+    "name": "Laortita",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6014-laortita",
+    "description": "",
+    "source_file": "Subrazas/Subraza (202).html"
+  },
+  {
+    "name": "Leprechaun",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6070-leprechaun",
+    "description": "",
+    "source_file": "Subrazas/Subraza (203).html"
+  },
+  {
+    "name": "Linaje de la Mente",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8128-linaje-de-la-mente",
+    "description": "",
+    "source_file": "Subrazas/Subraza (204).html"
+  },
+  {
+    "name": "Linaje de la Plaga",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8106-linaje-de-la-plaga",
+    "description": "",
+    "source_file": "Subrazas/Subraza (205).html"
+  },
+  {
+    "name": "Linaje de Servidumbre",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8046-linaje-de-servidumbre",
+    "description": "",
+    "source_file": "Subrazas/Subraza (206).html"
+  },
+  {
+    "name": "Linaje Elemental",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8328-linaje-elemental",
+    "description": "",
+    "source_file": "Subrazas/Subraza (207).html"
+  },
+  {
+    "name": "Linaje Etéreo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8063-linaje-etereo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (208).html"
+  },
+  {
+    "name": "Linaje Hemomante",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8043-linaje-hemomante",
+    "description": "",
+    "source_file": "Subrazas/Subraza (209).html"
+  },
+  {
+    "name": "Webdroid",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1711-webdroid",
+    "description": "",
+    "source_file": "Subrazas/Subraza (21).html"
+  },
+  {
+    "name": "Linaje Hipnótico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8044-linaje-hipnotico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (210).html"
+  },
+  {
+    "name": "Linaje Mágico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8327-linaje-magico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (211).html"
+  },
+  {
+    "name": "Linaje Perdido",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8130-linaje-perdido",
+    "description": "",
+    "source_file": "Subrazas/Subraza (212).html"
+  },
+  {
+    "name": "Linaje Salvaje",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8045-linaje-salvaje",
+    "description": "",
+    "source_file": "Subrazas/Subraza (213).html"
+  },
+  {
+    "name": "Luciferian",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6012-luciferian",
+    "description": "",
+    "source_file": "Subrazas/Subraza (214).html"
+  },
+  {
+    "name": "Marcado por las hadas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6554-marcado-por-las-hadas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (215).html"
+  },
+  {
+    "name": "Mediano Fornido",
+    "url": "https://nivel20.com/games/dnd-5/subraces/74-mediano-fornido",
+    "description": "",
+    "source_file": "Subrazas/Subraza (216).html"
+  },
+  {
+    "name": "Mediano Marca de Curación",
+    "url": "https://nivel20.com/games/dnd-5/subraces/365-mediano-marca-de-curacion",
+    "description": "",
+    "source_file": "Subrazas/Subraza (217).html"
+  },
+  {
+    "name": "Mediano Marca de la Hospitalidad",
+    "url": "https://nivel20.com/games/dnd-5/subraces/366-mediano-marca-de-la-hospitalidad",
+    "description": "",
+    "source_file": "Subrazas/Subraza (218).html"
+  },
+  {
+    "name": "Mediano Piesligeros",
+    "url": "https://nivel20.com/games/dnd-5/subraces/44-mediano-piesligeros",
+    "description": "",
+    "source_file": "Subrazas/Subraza (219).html"
+  },
+  {
+    "name": "Xcaret",
+    "url": "https://nivel20.com/games/dnd-5/subraces/580-xcaret",
+    "description": "",
+    "source_file": "Subrazas/Subraza (22).html"
+  },
+  {
+    "name": "Medusa",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5514-medusa",
+    "description": "",
+    "source_file": "Subrazas/Subraza (220).html"
+  },
+  {
+    "name": "Neko Doméstico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1240-neko-domestico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (221).html"
+  },
+  {
+    "name": "Neko Salvaje",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1241-neko-salvaje",
+    "description": "",
+    "source_file": "Subrazas/Subraza (222).html"
+  },
+  {
+    "name": "Océlotl",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6539-ocelotl",
+    "description": "",
+    "source_file": "Subrazas/Subraza (223).html"
+  },
+  {
+    "name": "Orlesiano",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6040-orlesiano",
+    "description": "",
+    "source_file": "Subrazas/Subraza (224).html"
+  },
+  {
+    "name": "Papalotl",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6541-papalotl",
+    "description": "",
+    "source_file": "Subrazas/Subraza (225).html"
+  },
+  {
+    "name": "Pino",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5950-pino",
+    "description": "",
+    "source_file": "Subrazas/Subraza (226).html"
+  },
+  {
+    "name": "Pooka",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6071-pooka",
+    "description": "",
+    "source_file": "Subrazas/Subraza (227).html"
+  },
+  {
+    "name": "Potestad",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6005-potestad",
+    "description": "",
+    "source_file": "Subrazas/Subraza (228).html"
+  },
+  {
+    "name": "Principado",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6004-principado",
+    "description": "",
+    "source_file": "Subrazas/Subraza (229).html"
+  },
+  {
+    "name": "Xoloitzcuintle",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6532-xoloitzcuintle",
+    "description": "",
+    "source_file": "Subrazas/Subraza (23).html"
+  },
+  {
+    "name": "Protector aasimar",
+    "url": "https://nivel20.com/games/dnd-5/subraces/408-protector-aasimar",
+    "description": "",
+    "source_file": "Subrazas/Subraza (230).html"
+  },
+  {
+    "name": "Querubín",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6007-querubin",
+    "description": "",
+    "source_file": "Subrazas/Subraza (231).html"
+  },
+  {
+    "name": "Renegados",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6099-renegados",
+    "description": "",
+    "source_file": "Subrazas/Subraza (232).html"
+  },
+  {
+    "name": "Replicante",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1709-replicante",
+    "description": "",
+    "source_file": "Subrazas/Subraza (233).html"
+  },
+  {
+    "name": "Revolver Bélico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5347-revolver-belico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (234).html"
+  },
+  {
+    "name": "Roble",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5949-roble",
+    "description": "",
+    "source_file": "Subrazas/Subraza (235).html"
+  },
+  {
+    "name": "Rojo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4984-rojo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (236).html"
+  },
+  {
+    "name": "Salamander",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6072-salamander",
+    "description": "",
+    "source_file": "Subrazas/Subraza (237).html"
+  },
+  {
+    "name": "Salamandras de pantano (Agua)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5943-salamandras-de-pantano-agua",
+    "description": "",
+    "source_file": "Subrazas/Subraza (238).html"
+  },
+  {
+    "name": "Salamandras dracónidas (Fuego)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5942-salamandras-draconidas-fuego",
+    "description": "",
+    "source_file": "Subrazas/Subraza (239).html"
+  },
+  {
+    "name": "Yako Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6202-yako-kitsune",
+    "description": "",
+    "source_file": "Subrazas/Subraza (24).html"
+  },
+  {
+    "name": "Salamandras feéricas (Planta)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5944-salamandras-feericas-planta",
+    "description": "",
+    "source_file": "Subrazas/Subraza (240).html"
+  },
+  {
+    "name": "Salamandras subterráneas (Tierra)",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5945-salamandras-subterraneas-tierra",
+    "description": "",
+    "source_file": "Subrazas/Subraza (241).html"
+  },
+  {
+    "name": "Sangre Azul",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6023-sangre-azul",
+    "description": "",
+    "source_file": "Subrazas/Subraza (242).html"
+  },
+  {
+    "name": "Satanita",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6018-satanita",
+    "description": "",
+    "source_file": "Subrazas/Subraza (243).html"
+  },
+  {
+    "name": "Sátiro de las tierras altas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/188-satiro-de-las-tierras-altas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (244).html"
+  },
+  {
+    "name": "Sátiro del bosque",
+    "url": "https://nivel20.com/games/dnd-5/subraces/189-satiro-del-bosque",
+    "description": "",
+    "source_file": "Subrazas/Subraza (245).html"
+  },
+  {
+    "name": "Sauce",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5951-sauce",
+    "description": "",
+    "source_file": "Subrazas/Subraza (246).html"
+  },
+  {
+    "name": "Semi Ciclope",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6196-semi-ciclope",
+    "description": "",
+    "source_file": "Subrazas/Subraza (247).html"
+  },
+  {
+    "name": "Semi-Alfheim",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6100-semi-alfheim",
+    "description": "",
+    "source_file": "Subrazas/Subraza (248).html"
+  },
+  {
+    "name": "Semi-dios de la Tierra",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8030-semi-dios-de-la-tierra",
+    "description": "",
+    "source_file": "Subrazas/Subraza (249).html"
+  },
+  {
+    "name": "Yokai",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4963-yokai",
+    "description": "",
+    "source_file": "Subrazas/Subraza (25).html"
+  },
+  {
+    "name": "Semi-dios de los cielos",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4973-semi-dios-de-los-cielos",
+    "description": "",
+    "source_file": "Subrazas/Subraza (250).html"
+  },
+  {
+    "name": "Semi-dios de los Infiernos",
+    "url": "https://nivel20.com/games/dnd-5/subraces/8034-semi-dios-de-los-infiernos",
+    "description": "",
+    "source_file": "Subrazas/Subraza (251).html"
+  },
+  {
+    "name": "Semi-dios de los oceános",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4972-semi-dios-de-los-oceanos",
+    "description": "",
+    "source_file": "Subrazas/Subraza (252).html"
+  },
+  {
+    "name": "Sha-Brytol",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6049-sha-brytol",
+    "description": "",
+    "source_file": "Subrazas/Subraza (253).html"
+  },
+  {
+    "name": "Shadar-Kai",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1145-shadar-kai",
+    "description": "",
+    "source_file": "Subrazas/Subraza (254).html"
+  },
+  {
+    "name": "Yuki Onna Compasiva",
+    "url": "https://nivel20.com/games/dnd-5/subraces/742-yuki-onna-compasiva",
+    "description": "",
+    "source_file": "Subrazas/Subraza (26).html"
+  },
+  {
+    "name": "Yuki Onna Vengativa",
+    "url": "https://nivel20.com/games/dnd-5/subraces/741-yuki-onna-vengativa",
+    "description": "",
+    "source_file": "Subrazas/Subraza (27).html"
+  },
+  {
+    "name": "Yumeko Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6203-yumeko-kitsune",
+    "description": "",
+    "source_file": "Subrazas/Subraza (28).html"
+  },
+  {
+    "name": "Zekyl",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1037-zekyl",
+    "description": "",
+    "source_file": "Subrazas/Subraza (29).html"
+  },
+  {
+    "name": "Shantor de las Praderas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1238-shantor-de-las-praderas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (3).html"
+  },
+  {
+    "name": "Zenko Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6201-zenko-kitsune",
+    "description": "",
+    "source_file": "Subrazas/Subraza (30).html"
+  },
+  {
+    "name": "Zombi",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1188-zombi",
+    "description": "",
+    "source_file": "Subrazas/Subraza (31).html"
+  },
+  {
+    "name": "Aasimar caído",
+    "url": "https://nivel20.com/games/dnd-5/subraces/407-aasimar-caido",
+    "description": "",
+    "source_file": "Subrazas/Subraza (32).html"
+  },
+  {
+    "name": "Acechador",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6024-acechador",
+    "description": "",
+    "source_file": "Subrazas/Subraza (33).html"
+  },
+  {
+    "name": "Acorazado",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6026-acorazado",
+    "description": "",
+    "source_file": "Subrazas/Subraza (34).html"
+  },
+  {
+    "name": "Ainvir de Aire",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1228-ainvir-de-aire",
+    "description": "",
+    "source_file": "Subrazas/Subraza (35).html"
+  },
+  {
+    "name": "Ainvir de Cieno",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1227-ainvir-de-cieno",
+    "description": "",
+    "source_file": "Subrazas/Subraza (36).html"
+  },
+  {
+    "name": "Ainvir de Fuego",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1225-ainvir-de-fuego",
+    "description": "",
+    "source_file": "Subrazas/Subraza (37).html"
+  },
+  {
+    "name": "Ainvir de Hielo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1226-ainvir-de-hielo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (38).html"
+  },
+  {
+    "name": "Ainvir de Hierro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1223-ainvir-de-hierro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (39).html"
+  },
+  {
+    "name": "Sharlock",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5964-sharlock",
+    "description": "",
+    "source_file": "Subrazas/Subraza (4).html"
+  },
+  {
+    "name": "Ainvir de Rayo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1229-ainvir-de-rayo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (40).html"
+  },
+  {
+    "name": "Ainvir de Tierra",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1222-ainvir-de-tierra",
+    "description": "",
+    "source_file": "Subrazas/Subraza (41).html"
+  },
+  {
+    "name": "Ainvir Mortal",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1224-ainvir-mortal",
+    "description": "",
+    "source_file": "Subrazas/Subraza (42).html"
+  },
+  {
+    "name": "Alfheim puro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6098-alfheim-puro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (43).html"
+  },
+  {
+    "name": "Alfs",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6067-alfs",
+    "description": "",
+    "source_file": "Subrazas/Subraza (44).html"
+  },
+  {
+    "name": "Alicaído de Aurelia",
+    "url": "https://nivel20.com/games/dnd-5/subraces/3122-alicaido-de-aurelia",
+    "description": "",
+    "source_file": "Subrazas/Subraza (45).html"
+  },
+  {
+    "name": "Alicaído de Galt",
+    "url": "https://nivel20.com/games/dnd-5/subraces/3124-alicaido-de-galt",
+    "description": "",
+    "source_file": "Subrazas/Subraza (46).html"
+  },
+  {
+    "name": "Alicaído de Maligant",
+    "url": "https://nivel20.com/games/dnd-5/subraces/3123-alicaido-de-maligant",
+    "description": "",
+    "source_file": "Subrazas/Subraza (47).html"
+  },
+  {
+    "name": "Alicaído de Ulmyr",
+    "url": "https://nivel20.com/games/dnd-5/subraces/3125-alicaido-de-ulmyr",
+    "description": "",
+    "source_file": "Subrazas/Subraza (48).html"
+  },
+  {
+    "name": "Alto elfo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/41-alto-elfo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (49).html"
+  },
+  {
+    "name": "Sombra",
+    "url": "https://nivel20.com/games/dnd-5/subraces/2293-sombra",
+    "description": "",
+    "source_file": "Subrazas/Subraza (5).html"
+  },
+  {
+    "name": "Androide",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1705-androide",
+    "description": "",
+    "source_file": "Subrazas/Subraza (50).html"
+  },
+  {
+    "name": "Ángel Guardián",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6088-angel-guardian",
+    "description": "",
+    "source_file": "Subrazas/Subraza (51).html"
+  },
+  {
+    "name": "Apogeo del Homúnculo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5556-apogeo-del-homunculo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (52).html"
+  },
+  {
+    "name": "Arcángel",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6003-arcangel",
+    "description": "",
+    "source_file": "Subrazas/Subraza (53).html"
+  },
+  {
+    "name": "Arco Bélico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5343-arco-belico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (54).html"
+  },
+  {
+    "name": "Arpía Ala de Guerra",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1264-arpia-ala-de-guerra",
+    "description": "",
+    "source_file": "Subrazas/Subraza (55).html"
+  },
+  {
+    "name": "Arpía Llamadora de Almas",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1265-arpia-llamadora-de-almas",
+    "description": "",
+    "source_file": "Subrazas/Subraza (56).html"
+  },
+  {
+    "name": "Axolotl",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6530-axolotl",
+    "description": "",
+    "source_file": "Subrazas/Subraza (57).html"
+  },
+  {
+    "name": "Azote aasimar",
+    "url": "https://nivel20.com/games/dnd-5/subraces/409-azote-aasimar",
+    "description": "",
+    "source_file": "Subrazas/Subraza (58).html"
+  },
+  {
+    "name": "Azúl",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4986-azul",
+    "description": "",
+    "source_file": "Subrazas/Subraza (59).html"
+  },
+  {
+    "name": "Spriggan",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6073-spriggan",
+    "description": "",
+    "source_file": "Subrazas/Subraza (6).html"
+  },
+  {
+    "name": "Ballesta Bélica",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5344-ballesta-belica",
+    "description": "",
+    "source_file": "Subrazas/Subraza (60).html"
+  },
+  {
+    "name": "Baloriano",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6021-baloriano",
+    "description": "",
+    "source_file": "Subrazas/Subraza (61).html"
+  },
+  {
+    "name": "Baobab",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5947-baobab",
+    "description": "",
+    "source_file": "Subrazas/Subraza (62).html"
+  },
+  {
+    "name": "Baphomet de la Fraternidad",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5198-baphomet-de-la-fraternidad",
+    "description": "",
+    "source_file": "Subrazas/Subraza (63).html"
+  },
+  {
+    "name": "Baphomet del Susurro",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5197-baphomet-del-susurro",
+    "description": "",
+    "source_file": "Subrazas/Subraza (64).html"
+  },
+  {
+    "name": "Bestia Gigante",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5936-bestia-gigante",
+    "description": "",
+    "source_file": "Subrazas/Subraza (65).html"
+  },
+  {
+    "name": "Bestia Mediana",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5935-bestia-mediana",
+    "description": "",
+    "source_file": "Subrazas/Subraza (66).html"
+  },
+  {
+    "name": "Bestia Pequeña",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5934-bestia-pequena",
+    "description": "",
+    "source_file": "Subrazas/Subraza (67).html"
+  },
+  {
+    "name": "Bruja de la Noche",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6558-bruja-de-la-noche",
+    "description": "",
+    "source_file": "Subrazas/Subraza (68).html"
+  },
+  {
+    "name": "Bruja del Bosque",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6556-bruja-del-bosque",
+    "description": "",
+    "source_file": "Subrazas/Subraza (69).html"
+  },
+  {
+    "name": "Supercomputadora",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1710-supercomputadora",
+    "description": "",
+    "source_file": "Subrazas/Subraza (7).html"
+  },
+  {
+    "name": "Bruja Urbana",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6875-bruja-urbana",
+    "description": "",
+    "source_file": "Subrazas/Subraza (70).html"
+  },
+  {
+    "name": "Bruto",
+    "url": "https://nivel20.com/games/dnd-5/subraces/1014-bruto",
+    "description": "",
+    "source_file": "Subrazas/Subraza (71).html"
+  },
+  {
+    "name": "Burzgulino",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6017-burzgulino",
+    "description": "",
+    "source_file": "Subrazas/Subraza (72).html"
+  },
+  {
+    "name": "Cait Sith",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6068-cait-sith",
+    "description": "",
+    "source_file": "Subrazas/Subraza (73).html"
+  },
+  {
+    "name": "Cambiante Cazador Salvaje",
+    "url": "https://nivel20.com/games/dnd-5/subraces/347-cambiante-cazador-salvaje",
+    "description": "",
+    "source_file": "Subrazas/Subraza (74).html"
+  },
+  {
+    "name": "Cambiante Dientes Largos",
+    "url": "https://nivel20.com/games/dnd-5/subraces/345-cambiante-dientes-largos",
+    "description": "",
+    "source_file": "Subrazas/Subraza (75).html"
+  },
+  {
+    "name": "Cambiante Pelaje Bestial",
+    "url": "https://nivel20.com/games/dnd-5/subraces/344-cambiante-pelaje-bestial",
+    "description": "",
+    "source_file": "Subrazas/Subraza (76).html"
+  },
+  {
+    "name": "Cambiante Zancada Ligera",
+    "url": "https://nivel20.com/games/dnd-5/subraces/346-cambiante-zancada-ligera",
+    "description": "",
+    "source_file": "Subrazas/Subraza (77).html"
+  },
+  {
+    "name": "Caminante Diurno",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6022-caminante-diurno",
+    "description": "",
+    "source_file": "Subrazas/Subraza (78).html"
+  },
+  {
+    "name": "Casta Artesana",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6045-casta-artesana",
+    "description": "",
+    "source_file": "Subrazas/Subraza (79).html"
+  },
+  {
+    "name": "Sylph",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6074-sylph",
+    "description": "",
+    "source_file": "Subrazas/Subraza (8).html"
+  },
+  {
+    "name": "Casta Cait Sith",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6054-casta-cait-sith",
+    "description": "",
+    "source_file": "Subrazas/Subraza (80).html"
+  },
+  {
+    "name": "Casta de Danann",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6050-casta-de-danann",
+    "description": "",
+    "source_file": "Subrazas/Subraza (81).html"
+  },
+  {
+    "name": "Casta Guerrera",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6043-casta-guerrera",
+    "description": "",
+    "source_file": "Subrazas/Subraza (82).html"
+  },
+  {
+    "name": "Casta Herrera",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6044-casta-herrera",
+    "description": "",
+    "source_file": "Subrazas/Subraza (83).html"
+  },
+  {
+    "name": "Casta Ly Erg",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6053-casta-ly-erg",
+    "description": "",
+    "source_file": "Subrazas/Subraza (84).html"
+  },
+  {
+    "name": "Casta Mercante",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6047-casta-mercante",
+    "description": "",
+    "source_file": "Subrazas/Subraza (85).html"
+  },
+  {
+    "name": "Casta Minera",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6046-casta-minera",
+    "description": "",
+    "source_file": "Subrazas/Subraza (86).html"
+  },
+  {
+    "name": "Casta Noble",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6042-casta-noble",
+    "description": "",
+    "source_file": "Subrazas/Subraza (87).html"
+  },
+  {
+    "name": "Casta Salamander",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6051-casta-salamander",
+    "description": "",
+    "source_file": "Subrazas/Subraza (88).html"
+  },
+  {
+    "name": "Casta Spriggan",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6055-casta-spriggan",
+    "description": "",
+    "source_file": "Subrazas/Subraza (89).html"
+  },
+  {
+    "name": "Taiyari",
+    "url": "https://nivel20.com/games/dnd-5/subraces/581-taiyari",
+    "description": "",
+    "source_file": "Subrazas/Subraza (9).html"
+  },
+  {
+    "name": "Casta Undine",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6052-casta-undine",
+    "description": "",
+    "source_file": "Subrazas/Subraza (90).html"
+  },
+  {
+    "name": "Cerezo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/5948-cerezo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (91).html"
+  },
+  {
+    "name": "Ciclope mítico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6195-ciclope-mitico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (92).html"
+  },
+  {
+    "name": "Cienomita Adhesivo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/717-cienomita-adhesivo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (93).html"
+  },
+  {
+    "name": "Cienomita Corrosivo",
+    "url": "https://nivel20.com/games/dnd-5/subraces/718-cienomita-corrosivo",
+    "description": "",
+    "source_file": "Subrazas/Subraza (94).html"
+  },
+  {
+    "name": "Cienomita Elástico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/719-cienomita-elastico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (95).html"
+  },
+  {
+    "name": "Cienomita Gelatinoso",
+    "url": "https://nivel20.com/games/dnd-5/subraces/720-cienomita-gelatinoso",
+    "description": "",
+    "source_file": "Subrazas/Subraza (96).html"
+  },
+  {
+    "name": "Cienomita Psíquico",
+    "url": "https://nivel20.com/games/dnd-5/subraces/721-cienomita-psiquico",
+    "description": "",
+    "source_file": "Subrazas/Subraza (97).html"
+  },
+  {
+    "name": "Circulos del infierno",
+    "url": "https://nivel20.com/games/dnd-5/subraces/4989-circulos-del-infierno",
+    "description": "",
+    "source_file": "Subrazas/Subraza (98).html"
+  },
+  {
+    "name": "Corruptor",
+    "url": "https://nivel20.com/games/dnd-5/subraces/6025-corruptor",
+    "description": "",
+    "source_file": "Subrazas/Subraza (99).html"
+  }
+]
