@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Guerrero Alado",
+    "url": "https://nivel20.com/games/dnd-5/professions/7557-guerrero-alado",
+    "description": "",
+    "source_file": "Clases/Clase (1).html"
+  },
+  {
+    "name": "Medium Espiritual",
+    "url": "https://nivel20.com/games/dnd-5/professions/1758-medium-espiritual",
+    "description": "",
+    "source_file": "Clases/Clase (10).html"
+  },
+  {
+    "name": "Médium Espiritual",
+    "url": "https://nivel20.com/games/dnd-5/professions/8466-medium-espiritual",
+    "description": "",
+    "source_file": "Clases/Clase (11).html"
+  },
+  {
+    "name": "Mentor",
+    "url": "https://nivel20.com/games/dnd-5/professions/8648-mentor",
+    "description": "",
+    "source_file": "Clases/Clase (12).html"
+  },
+  {
+    "name": "Mercader",
+    "url": "https://nivel20.com/games/dnd-5/professions/1755-mercader",
+    "description": "",
+    "source_file": "Clases/Clase (13).html"
+  },
+  {
+    "name": "Monje",
+    "url": "https://nivel20.com/games/dnd-5/professions/80-monje",
+    "description": "",
+    "source_file": "Clases/Clase (14).html"
+  },
+  {
+    "name": "Nigromante",
+    "url": "https://nivel20.com/games/dnd-5/professions/8266-nigromante",
+    "description": "",
+    "source_file": "Clases/Clase (15).html"
+  },
+  {
+    "name": "Onmyoji",
+    "url": "https://nivel20.com/games/dnd-5/professions/8581-onmyoji",
+    "description": "",
+    "source_file": "Clases/Clase (16).html"
+  },
+  {
+    "name": "Paladín",
+    "url": "https://nivel20.com/games/dnd-5/professions/82-paladin",
+    "description": "",
+    "source_file": "Clases/Clase (17).html"
+  },
+  {
+    "name": "Pícaro",
+    "url": "https://nivel20.com/games/dnd-5/professions/84-picaro",
+    "description": "",
+    "source_file": "Clases/Clase (18).html"
+  },
+  {
+    "name": "Pistolero",
+    "url": "https://nivel20.com/games/dnd-5/professions/1275-pistolero",
+    "description": "",
+    "source_file": "Clases/Clase (19).html"
+  },
+  {
+    "name": "Hechicero",
+    "url": "https://nivel20.com/games/dnd-5/professions/76-hechicero",
+    "description": "",
+    "source_file": "Clases/Clase (2).html"
+  },
+  {
+    "name": "Poseído",
+    "url": "https://nivel20.com/games/dnd-5/professions/8523-poseido",
+    "description": "",
+    "source_file": "Clases/Clase (20).html"
+  },
+  {
+    "name": "Psíquico",
+    "url": "https://nivel20.com/games/dnd-5/professions/1304-psiquico",
+    "description": "",
+    "source_file": "Clases/Clase (21).html"
+  },
+  {
+    "name": "Rompejuramento",
+    "url": "https://nivel20.com/games/dnd-5/professions/8534-rompejuramento",
+    "description": "",
+    "source_file": "Clases/Clase (22).html"
+  },
+  {
+    "name": "Ronin",
+    "url": "https://nivel20.com/games/dnd-5/professions/8299-ronin",
+    "description": "",
+    "source_file": "Clases/Clase (23).html"
+  },
+  {
+    "name": "Samurái",
+    "url": "https://nivel20.com/games/dnd-5/professions/8295-samurai",
+    "description": "",
+    "source_file": "Clases/Clase (24).html"
+  },
+  {
+    "name": "Segador",
+    "url": "https://nivel20.com/games/dnd-5/professions/8484-segador",
+    "description": "",
+    "source_file": "Clases/Clase (25).html"
+  },
+  {
+    "name": "Soberano",
+    "url": "https://nivel20.com/games/dnd-5/professions/749-soberano",
+    "description": "",
+    "source_file": "Clases/Clase (26).html"
+  },
+  {
+    "name": "Tirador",
+    "url": "https://nivel20.com/games/dnd-5/professions/8298-tirador",
+    "description": "",
+    "source_file": "Clases/Clase (27).html"
+  },
+  {
+    "name": "Vagabundo",
+    "url": "https://nivel20.com/games/dnd-5/professions/8453-vagabundo",
+    "description": "",
+    "source_file": "Clases/Clase (28).html"
+  },
+  {
+    "name": "Valkyria",
+    "url": "https://nivel20.com/games/dnd-5/professions/1752-valkyria",
+    "description": "",
+    "source_file": "Clases/Clase (29).html"
+  },
+  {
+    "name": "Hemomante",
+    "url": "https://nivel20.com/games/dnd-5/professions/1290-hemomante",
+    "description": "",
+    "source_file": "Clases/Clase (3).html"
+  },
+  {
+    "name": "Vampiro",
+    "url": "https://nivel20.com/games/dnd-5/professions/8528-vampiro",
+    "description": "",
+    "source_file": "Clases/Clase (30).html"
+  },
+  {
+    "name": "Alquimista",
+    "url": "https://nivel20.com/games/dnd-5/professions/8162-alquimista",
+    "description": "",
+    "source_file": "Clases/Clase (31).html"
+  },
+  {
+    "name": "Anomalía",
+    "url": "https://nivel20.com/games/dnd-5/professions/8600-anomalia",
+    "description": "",
+    "source_file": "Clases/Clase (32).html"
+  },
+  {
+    "name": "Artífice",
+    "url": "https://nivel20.com/games/dnd-5/professions/622-artifice",
+    "description": "",
+    "source_file": "Clases/Clase (33).html"
+  },
+  {
+    "name": "Artífice",
+    "url": "https://nivel20.com/games/dnd-5/professions/3250-artifice",
+    "description": "",
+    "source_file": "Clases/Clase (34).html"
+  },
+  {
+    "name": "Asistente",
+    "url": "https://nivel20.com/games/dnd-5/professions/8637-asistente",
+    "description": "",
+    "source_file": "Clases/Clase (35).html"
+  },
+  {
+    "name": "Astrólogo",
+    "url": "https://nivel20.com/games/dnd-5/professions/8630-astrologo",
+    "description": "",
+    "source_file": "Clases/Clase (36).html"
+  },
+  {
+    "name": "Autor",
+    "url": "https://nivel20.com/games/dnd-5/professions/8451-autor",
+    "description": "",
+    "source_file": "Clases/Clase (37).html"
+  },
+  {
+    "name": "Bailarina",
+    "url": "https://nivel20.com/games/dnd-5/professions/8219-bailarina",
+    "description": "",
+    "source_file": "Clases/Clase (38).html"
+  },
+  {
+    "name": "Bárbaro",
+    "url": "https://nivel20.com/games/dnd-5/professions/62-barbaro",
+    "description": "",
+    "source_file": "Clases/Clase (39).html"
+  },
+  {
+    "name": "Hombre Lobo",
+    "url": "https://nivel20.com/games/dnd-5/professions/8475-hombre-lobo",
+    "description": "",
+    "source_file": "Clases/Clase (4).html"
+  },
+  {
+    "name": "Bardo",
+    "url": "https://nivel20.com/games/dnd-5/professions/64-bardo",
+    "description": "",
+    "source_file": "Clases/Clase (40).html"
+  },
+  {
+    "name": "Bruja",
+    "url": "https://nivel20.com/games/dnd-5/professions/9221-bruja",
+    "description": "",
+    "source_file": "Clases/Clase (41).html"
+  },
+  {
+    "name": "Bruja",
+    "url": "https://nivel20.com/games/dnd-5/professions/8337-bruja",
+    "description": "",
+    "source_file": "Clases/Clase (42).html"
+  },
+  {
+    "name": "Brujo",
+    "url": "https://nivel20.com/games/dnd-5/professions/66-brujo",
+    "description": "",
+    "source_file": "Clases/Clase (43).html"
+  },
+  {
+    "name": "Bufón",
+    "url": "https://nivel20.com/games/dnd-5/professions/8322-bufon",
+    "description": "",
+    "source_file": "Clases/Clase (44).html"
+  },
+  {
+    "name": "Caballero",
+    "url": "https://nivel20.com/games/dnd-5/professions/8584-caballero",
+    "description": "",
+    "source_file": "Clases/Clase (45).html"
+  },
+  {
+    "name": "Caballero de la Muerte",
+    "url": "https://nivel20.com/games/dnd-5/professions/5760-caballero-de-la-muerte",
+    "description": "",
+    "source_file": "Clases/Clase (46).html"
+  },
+  {
+    "name": "Cazador de Brujas",
+    "url": "https://nivel20.com/games/dnd-5/professions/383-cazador-de-brujas",
+    "description": "",
+    "source_file": "Clases/Clase (47).html"
+  },
+  {
+    "name": "Cazador de Demonios",
+    "url": "https://nivel20.com/games/dnd-5/professions/1970-cazador-de-demonios",
+    "description": "",
+    "source_file": "Clases/Clase (48).html"
+  },
+  {
+    "name": "Cazador de Magos",
+    "url": "https://nivel20.com/games/dnd-5/professions/8596-cazador-de-magos",
+    "description": "",
+    "source_file": "Clases/Clase (49).html"
+  },
+  {
+    "name": "Inquisidor",
+    "url": "https://nivel20.com/games/dnd-5/professions/8297-inquisidor",
+    "description": "",
+    "source_file": "Clases/Clase (5).html"
+  },
+  {
+    "name": "Cetrero",
+    "url": "https://nivel20.com/games/dnd-5/professions/8294-cetrero",
+    "description": "",
+    "source_file": "Clases/Clase (50).html"
+  },
+  {
+    "name": "Chica Mágica",
+    "url": "https://nivel20.com/games/dnd-5/professions/8254-chica-magica",
+    "description": "",
+    "source_file": "Clases/Clase (51).html"
+  },
+  {
+    "name": "Clérigo",
+    "url": "https://nivel20.com/games/dnd-5/professions/68-clerigo",
+    "description": "",
+    "source_file": "Clases/Clase (52).html"
+  },
+  {
+    "name": "Convergente Mítico",
+    "url": "https://nivel20.com/games/dnd-5/professions/11468-convergente-mitico",
+    "description": "",
+    "source_file": "Clases/Clase (53).html"
+  },
+  {
+    "name": "Cronolegionario",
+    "url": "https://nivel20.com/games/dnd-5/professions/16437-cronolegionario",
+    "description": "",
+    "source_file": "Clases/Clase (54).html"
+  },
+  {
+    "name": "Cyborg Ninja",
+    "url": "https://nivel20.com/games/dnd-5/professions/2222-cyborg-ninja",
+    "description": "",
+    "source_file": "Clases/Clase (55).html"
+  },
+  {
+    "name": "Demonólogo",
+    "url": "https://nivel20.com/games/dnd-5/professions/8301-demonologo",
+    "description": "",
+    "source_file": "Clases/Clase (56).html"
+  },
+  {
+    "name": "Desperado",
+    "url": "https://nivel20.com/games/dnd-5/professions/8234-desperado",
+    "description": "",
+    "source_file": "Clases/Clase (57).html"
+  },
+  {
+    "name": "Despertar Bélico",
+    "url": "https://nivel20.com/games/dnd-5/professions/7567-despertar-belico",
+    "description": "",
+    "source_file": "Clases/Clase (58).html"
+  },
+  {
+    "name": "Dracomante",
+    "url": "https://nivel20.com/games/dnd-5/professions/8293-dracomante",
+    "description": "",
+    "source_file": "Clases/Clase (59).html"
+  },
+  {
+    "name": "Maestro del escudo",
+    "url": "https://nivel20.com/games/dnd-5/professions/7278-maestro-del-escudo",
+    "description": "",
+    "source_file": "Clases/Clase (6).html"
+  },
+  {
+    "name": "Druida",
+    "url": "https://nivel20.com/games/dnd-5/professions/70-druida",
+    "description": "",
+    "source_file": "Clases/Clase (60).html"
+  },
+  {
+    "name": "El Brujo",
+    "url": "https://nivel20.com/games/dnd-5/professions/1369-el-brujo",
+    "description": "",
+    "source_file": "Clases/Clase (61).html"
+  },
+  {
+    "name": "Elementalista",
+    "url": "https://nivel20.com/games/dnd-5/professions/7156-elementalista",
+    "description": "",
+    "source_file": "Clases/Clase (62).html"
+  },
+  {
+    "name": "Elementalista",
+    "url": "https://nivel20.com/games/dnd-5/professions/8300-elementalista",
+    "description": "",
+    "source_file": "Clases/Clase (63).html"
+  },
+  {
+    "name": "Esgrimago",
+    "url": "https://nivel20.com/games/dnd-5/professions/8306-esgrimago",
+    "description": "",
+    "source_file": "Clases/Clase (64).html"
+  },
+  {
+    "name": "Espía",
+    "url": "https://nivel20.com/games/dnd-5/professions/1299-espia",
+    "description": "",
+    "source_file": "Clases/Clase (65).html"
+  },
+  {
+    "name": "Estratega",
+    "url": "https://nivel20.com/games/dnd-5/professions/8517-estratega",
+    "description": "",
+    "source_file": "Clases/Clase (66).html"
+  },
+  {
+    "name": "Explorador",
+    "url": "https://nivel20.com/games/dnd-5/professions/72-explorador",
+    "description": "",
+    "source_file": "Clases/Clase (67).html"
+  },
+  {
+    "name": "Faraón",
+    "url": "https://nivel20.com/games/dnd-5/professions/7509-faraon",
+    "description": "",
+    "source_file": "Clases/Clase (68).html"
+  },
+  {
+    "name": "Gobernante",
+    "url": "https://nivel20.com/games/dnd-5/professions/11497-gobernante",
+    "description": "",
+    "source_file": "Clases/Clase (69).html"
+  },
+  {
+    "name": "Mago",
+    "url": "https://nivel20.com/games/dnd-5/professions/78-mago",
+    "description": "",
+    "source_file": "Clases/Clase (7).html"
+  },
+  {
+    "name": "Guardían",
+    "url": "https://nivel20.com/games/dnd-5/professions/2135-guardian",
+    "description": "",
+    "source_file": "Clases/Clase (70).html"
+  },
+  {
+    "name": "Guardián",
+    "url": "https://nivel20.com/games/dnd-5/professions/1885-guardian",
+    "description": "",
+    "source_file": "Clases/Clase (71).html"
+  },
+  {
+    "name": "Guerrero",
+    "url": "https://nivel20.com/games/dnd-5/professions/74-guerrero",
+    "description": "",
+    "source_file": "Clases/Clase (72).html"
+  },
+  {
+    "name": "Mago de Sangre",
+    "url": "https://nivel20.com/games/dnd-5/professions/8227-mago-de-sangre",
+    "description": "",
+    "source_file": "Clases/Clase (8).html"
+  },
+  {
+    "name": "Médico",
+    "url": "https://nivel20.com/games/dnd-5/professions/8296-medico",
+    "description": "",
+    "source_file": "Clases/Clase (9).html"
+  }
+]
