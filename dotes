@@ -1,0 +1,1829 @@
+[
+  {
+    "name": "Apresador",
+    "source": "Reglas básicas",
+    "prerequisite": "Fuerza 13",
+    "description": "Tienes ventaja en las tiradas de ataque contra una criatura a la que estés agarrando. Puedes usar tu acción para intentar someter a un objetivo al que estés agarrando. Para ello, haz otra prueba de agarrar. Si tienes éxito, tanto tú como la criatura estaréis apresados hasta que el agarre finalice.",
+    "url": "https://nivel20.com/games/dnd-5/feats/354-apresador"
+  },
+  {
+    "name": "Apresador Diestro",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "No desperdicias un sólo segundo a la hora de aprehender criminales, monstruos, o una combinación de ambos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1390-apresador-diestro"
+  },
+  {
+    "name": "Apresador Experto",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Dote \"Apresador Diestro\" y competencia con Atletismo; Apresador Diestro",
+    "description": "Cada parte de tu cuerpo es un arma, y sabes como usarlas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1396-apresador-experto"
+  },
+  {
+    "name": "Ardilla Voladora",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Si estás a gran altura, puedes planear y reducir por completo el daño, aterrizando de forma segura.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7287-ardilla-voladora"
+  },
+  {
+    "name": "Arma de Aliento Mejorada",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza: Semidragón o Dracónido",
+    "description": "Tras mantener un entrenamiento extenso y exhaustivo con tu energía dracónica se te ha otorgado un mayor control sobre tu arma de aliento, lo que te permite mejorar su cadencia, poder y velocidad. Obtienes una cantidad de d6 igual a tu Modificador de Constitución (minimo 1) para recargar tu arma...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1207-arma-de-aliento-mejorada"
+  },
+  {
+    "name": "Armadura Coagulante",
+    "source": "Manual Necrético",
+    "prerequisite": "Sangre, la posibilidad de sangrar",
+    "description": "Tu sangre ha adquirido una propiedad mágica que la hace convertirse en acero rojo tan pronto como deja tu cuerpo, otorgándote los siguientes beneficios: Tu puntuación de Constitución se incrementa en 1, hasta un máximo de 20. Por cada 20 puntos de daño físico (cortante, contundente, perforante ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7315-armadura-coagulante"
+  },
+  {
+    "name": "Arquería Superior",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Competencia con Arco Corto o Arco Largo",
+    "description": "Obtienes acceso a ciertas habilidades de las cuales solo puedes hacer uso con un arco \"Oleada\", \"Danza de Valor\" y \"Retirada\". Posees tantos usos como tu MOD de DES. Una vez uses una, debes esperar hasta el comienzo de tu siguiente turno. Recuperas los usos tras completar un descanso prolongado.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1734-arqueria-superior"
+  },
+  {
+    "name": "Arremetida",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Grande",
+    "description": "Con la furia de un Toro o la majestuosidad de un Alce. Puedes cargar contra una o varias criaturas. Realiza un ataque cuerpo a cuerpo, si impacta, las criaturas que sean de tamaños menores a ti, serán lanzadas por los aires y recibirán daño contundente por caída. Si es de tu mismo tamaño o superi...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7283-arremetida"
+  },
+  {
+    "name": "Artillero",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Eres rápido y preciso con las armas de fuego, lo que te otorga los siguientes beneficios:",
+    "description": "Aumenta tu puntuación de Destreza en 1, hasta un máximo de 20. Obtienes competencia con armas de fuego (consulta la sección \"Armas de fuego\" en la Dungeon Master's Guide). Ignoras la propiedad \"recarga\" de...",
+    "url": "https://nivel20.com/games/dnd-5/feats/688-artillero"
+  },
+  {
+    "name": "Asesino Brutal",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "\"Estás bien pinche feo, y eso da miedo, cabrón\". Tales fueron las últimas palabras de un cazador antes de ser brutalmente destripado vivo por un asesino en serie, que permanece aún sin identificar, en la Colonia Lunar de Neo Chapultepec, Dimensión Sanctuary.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1378-asesino-brutal"
+  },
+  {
+    "name": "Astuto como un Zorro",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Se te conoce por tu inteligencia y la forma en que escapas de los problemas. Obtienes ventaja en TS de Sabiduría. y puedes sumar tu bono de Sabiduría a las PH de Atletismo. Además, si viajas solo, puedes moverte con sigilo a un ritmo normal.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7304-astuto-como-un-zorro"
+  },
+  {
+    "name": "Atacante a la carga",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Cuando utilizas tu acción para Correr, puedes usar una acción adicional para hacer un ataque con arma cuerpo a cuerpo o empujar a una criatura. Si te mueves al menos 10 pies en línea recta justo antes, puedes obtener un +5 al daño de ataque o empujar al objetivo hasta 10 pies en dirección contraria.",
+    "url": "https://nivel20.com/games/dnd-5/feats/360-atacante-a-la-carga"
+  },
+  {
+    "name": "Atacante salvaje",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Una vez por turno, cuando tiras el daño de un ataque con arma cuerpo a cuerpo, puedes repetir los dados de daño del arma y usar el resultado que prefieras.",
+    "url": "https://nivel20.com/games/dnd-5/feats/361-atacante-salvaje"
+  },
+  {
+    "name": "Ataque Trascendental",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Has dominado el arte de acarrear la fuerza de tu movimiento directamente en un ataque.",
+    "description": "Cuando te muevas al menos 15 pies hacia un enemigo y realices un ataque cuerpo a cuerpo, puedes escoger entre tener ventaja en el ataque o añadir un daño adicional del daño del arma en caso de impactar.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1101-ataque-trascendental"
+  },
+  {
+    "name": "Atleta",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tu Fuerza o Destreza aumenta en 1. Solo te cuesta 5 pies de movimiento levantarte cuando estás derribado. No necesitas invertir movimiento adicional para trepar. Puedes hacer un salto con carrerilla, tanto de altura como de longitud, tras haberte movido tan solo 5 pies (en lugar de 10).",
+    "url": "https://nivel20.com/games/dnd-5/feats/362-atleta"
+  },
+  {
+    "name": "Atracción sexual",
+    "source": "Crónicas de Urantia (En desarrollo)",
+    "prerequisite": "Carisma 15",
+    "description": "Eres realmente bello, hermoso, radiante. Nacste con el don de los dioses o quizás fuiste premiado con ser bendecido o hasta eres hijo de uno de ellos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1146-atraccion-sexual"
+  },
+  {
+    "name": "Aura del Crepúsculo",
+    "source": "Manual Necrético",
+    "prerequisite": "Raza Fuego fatuo",
+    "description": "Como acción, puedes cubrirte con un aura de crepúsculo. Durante el próximo minuto, el área dentro de un radio de 10 pies a tu alrededor se convierte en luz tenue. Cuando formas el aura y como acción adicional en cada uno de tus turnos, puedes infligir a cada otra criatura en el aura un daño radi...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7356-aura-del-crepusculo"
+  },
+  {
+    "name": "Azote de magos",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Puedes utilizar tu reacción para atacar cuerpo a cuerpo a una criatura que lance un conjuro hasta a 5 pies de ti. Si infliges daño a una criatura concentrada, tendrá deventaja en la TS para mantener la concentración. Tienes ventaja en las TS contra los conjuros lanzados por criaturas hasta a 5 pies.",
+    "url": "https://nivel20.com/games/dnd-5/feats/363-azote-de-magos"
+  },
+  {
+    "name": "Baluarte Corpulento",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Holstaur y puntuación de Constitución de 13 o más.",
+    "description": "Te mantienes erguido junto a tus camaradas, determinado a no dejar que les suceda ningún daño.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1757-baluarte-corpulento"
+  },
+  {
+    "name": "Bestia de las Sombras",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Elige de manera permanente una de las siguientes bestias: \"Gato\", \"Búho\" o \"Chacal\". Puedes usar tu acción adicional para asumir la forma de la criatura que elegiste. Al determinar sus PG, restas esa cantidad a tus propios PG. Vuelves a tu verdadera forma si los PG de la criatura se reducen a 0.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1742-bestia-de-las-sombras"
+  },
+  {
+    "name": "Blindaje psiónico",
+    "source": "Bóveda de secretos dracónicos de Fizban",
+    "prerequisite": "Te has entrenado en la protección psiónica, ganando los beneficios siguientes:",
+    "description": "Incrementa tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Ganas una bonificación de 1 a tu CA mientras no estás vistiendo armadura.",
+    "url": "https://nivel20.com/games/dnd-5/feats/11064-blindaje-psionico"
+  },
+  {
+    "name": "Camaleón",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Adquieres una lengua pegajosa y retráctil, la cual puedes usar para tomar objetos, como acción, realiza una tirada de ataque a distancia para apresar una criatura con tu lengua, como parte de la misma acción, puedes realizar una PH de Atletismo para derribarla o arrastrarla a tí. Además, como acc...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7311-camaleon"
+  },
+  {
+    "name": "Caminante de la Bruma",
+    "source": "Manual Necrético",
+    "prerequisite": "Tus estudios de la magia te han llevado a comprender ampliamente la teletransportación y a poder aprovechar las áreas entre planos al momento de teletransportarte. Ganas los siguientes beneficios:",
+    "description": "Incrementa tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprende...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7278-caminante-de-la-bruma"
+  },
+  {
+    "name": "Carismático",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Las habitaciones nunca son desalertadas de tu presencia. Los conjuros y otros efectos raramente anulan tu poderosa fuerza de voluntad.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1380-carismatico"
+  },
+  {
+    "name": "Carroñero",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Cuando busques por partes de animales o monstruos, obtienes el doble.",
+    "description": "Puedes ingerir alimentos en mal estado sin repercusiones, no puedes contraer enfermedades ni envenenarte por los mismos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/997-carronero"
+  },
+  {
+    "name": "Centinela",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Reduces a 0 la velocidad de las criaturas a las que impactes con un ataque de oportunidad. Puedes hacer ataques de oportunidad contra criaturas que han usado Destrabarse. Puedes usar tu reacción para atacar cuerpo a cuerpo a una criatura hasta a 5 pies que ataque a un objetivo que no seas tú.",
+    "url": "https://nivel20.com/games/dnd-5/feats/364-centinela"
+  },
+  {
+    "name": "Chef",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "El tiempo invertido en dominar las artes culinarias ha dado sus frutos, otorgándote los siguientes beneficios:",
+    "description": "Aumenta tu puntuación de Constitución o Sabiduría en 1, hasta un máximo de 20. También obtienes competencia con útiles de cocinero si aún no la tienes. Como parte de un descanso corto,...",
+    "url": "https://nivel20.com/games/dnd-5/feats/683-chef"
+  },
+  {
+    "name": "Combatiente con dos armas",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Ganas +1 a tu CA cuando estás empuñando varias armas cuerpo a cuerpo, una en cada mano. Puedes combatir con dos armas aunque no sean ligeras. Puedes envainar y desenvainar dos armas a una mano en aquellas circunstancias en las que antes solo podías hacerlo con una.",
+    "url": "https://nivel20.com/games/dnd-5/feats/365-combatiente-con-dos-armas"
+  },
+  {
+    "name": "Combatiente montado",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Al ir montado: Tienes ventaja en las tiradas de ataque cuerpo a cuerpo contra criaturas no montadas y menores que tu montura. Puedes dirigir hacia ti un ataque contra tu montura. Y si ésta sufre un efecto que permita TS de Des para mitad de daño, no recibe daño si la supera y solo la mitad si falla.",
+    "url": "https://nivel20.com/games/dnd-5/feats/366-combatiente-montado"
+  },
+  {
+    "name": "Combustión Espontanea",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Nivel 4 o superior",
+    "description": "Una vez por turno, cuando inflijas daño por fuego a una criatura, lanza un d20. Si el resultado es un 20 tu objetivo recibe un daño adicional por fuego equivalente a 2 veces tu nivel.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1150-combustion-espontanea"
+  },
+  {
+    "name": "Comerciante",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Carisma 13 o más",
+    "description": "Obtienes ventaja en las pruebas de carisma que realices para negociar precios. Cuando hagas una compra, puedes hacer una prueba de Perspicacia dificultad 15 para determinar si el precio es justo o no. Puedes determinar si un objeto es falso o no a través de una prueba de Investigación dificultad 15.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1162-comerciante"
+  },
+  {
+    "name": "Conjurador en la Sombra",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Extraes tu magia desde los planos de la sombra y has elegido complacer a tus oscuros patrones. Tu apariencia física se asemeja mucho a los entes de la Oscuridad.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1419-conjurador-en-la-sombra"
+  },
+  {
+    "name": "Conjuro de Tesis",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Has invertido una buena cantidad de tu tiempo investigando y perfeccionando un solo conjuro. Asigna un solo conjuro de Nivel 3 o menor que puedas lanzar como tu Conjuro de Tesis.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1429-conjuro-de-tesis"
+  },
+  {
+    "name": "Constitución Infernal",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Tiefling",
+    "description": "La sangre demoníaca corre abundantemente por tus venas, otorgándote una resistencia similar a la de algunos infernales. Obtienes los beneficios siguientes: Tu puntuación de Constitución aumenta en 1, hasta un máximo de 20. Posees resistencia al daño de frío y al daño de veneno. Tienes ventaja e...",
+    "url": "https://nivel20.com/games/dnd-5/feats/451-constitucion-infernal"
+  },
+  {
+    "name": "Cortaalas",
+    "source": "Bóveda de secretos dracónicos de Fizban",
+    "prerequisite": "Tienes entrenamiento extensivo contra combatientes aéreos, ganando los siguientes beneficios:",
+    "description": "Tienes ventaja en las tiradas de salvación hechas contra enemigos aéreos. Tienes resistencia al daño realizado por armas de aliento. Tienes un bonificador +1 a tu CA contra enemigos aéreos. Eres un mae...",
+    "url": "https://nivel20.com/games/dnd-5/feats/11065-cortaalas"
+  },
+  {
+    "name": "Depósito de Metamagia",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Tu pozo de metamagia aumenta en tamaño o ganas un pozo de metamagia si no tenías uno.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1404-deposito-de-metamagia"
+  },
+  {
+    "name": "Derviche",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "¡Permanecer quieto es para nenas! Por eso estás siempre en movimiento.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1389-derviche"
+  },
+  {
+    "name": "Desvanecerse",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Gnomo",
+    "description": "Tu pueblo es inteligente y posee facilidad para la magia de ilusionismo. Has aprendido un truco para desvanecerte cuando recibes daño. Obtienes los beneficios siguientes: Tu puntuación de Inteligencia o Destreza aumenta en 1, hasta un máximo de 20. Inmediatamente después de recibir daño, puedes...",
+    "url": "https://nivel20.com/games/dnd-5/feats/452-desvanecerse"
+  },
+  {
+    "name": "Devorador de Esencia",
+    "source": "Manual Necrético",
+    "prerequisite": "Bailarina o Monje de nivel 4",
+    "description": "Has adquirido disciplina en el arte de la esencia de la vida, lo que te permite obtener fuerza de la muerte de tus enemigos. Cada vez que una criatura que puedas ver muere dentro de 60 pies de ti, puedes tirar un d20. Con un resultado de 11 o más, puedes ver la esencia de la vida de la criatura a...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7363-devorador-de-esencia"
+  },
+  {
+    "name": "Devoto del Pacto",
+    "source": "Manual Necrético",
+    "prerequisite": "Tener al menos 4 niveles en Brujo, no ser un Rompepactos",
+    "description": "Tu notable devoción hacia tu Patrón y tu búsqueda incesante de poder te han hecho acreedor a un vínculo reforzado con tu Patrón de Otro Mundo. Las consecuencias que esto acarrea pueden ser inesperadas, para bien o para mal. Ganas los siguientes beneficios: Incrementa tu puntuación de Carisma en...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7321-devoto-del-pacto"
+  },
+  {
+    "name": "Disciplina Técnica",
+    "source": "Manual Necrético",
+    "prerequisite": "Tienes un entrenamiento especial que te permite realizar técnicas de combate únicas. Obtienes los siguientes beneficios:",
+    "description": "Obtienes 2 espacios de técnica. Puedes usar los espacios para aprender una técnica de tu elección de entre las disponibles en la clase de la Bailarina. Consulta las reglas de ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7361-disciplina-tecnica"
+  },
+  {
+    "name": "Disciplina Zero",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "4 Niveles en Monje",
+    "description": "Recuperas un punto de Ki por cada impacto critico que realices a una criatura hostil con ataques de arma cuerpo a cuerpo.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1151-disciplina-zero"
+  },
+  {
+    "name": "Duelista",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Uno Contra Uno, es el nombre del juego. Y eres el amo de este juego.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1393-duelista"
+  },
+  {
+    "name": "Duelista defensivo",
+    "source": "Manual del Jugador",
+    "prerequisite": "Destreza 13",
+    "description": "Cuando estás empuñando un arma sutil con la que seas competente y otra criatura te impacte con un ataque cuerpo a cuerpo, podrás utilizar tu reacción para sumar tu bonificador por competencia a tu CA a efectos de este ataque. Con suerte, conseguirás que falle.",
+    "url": "https://nivel20.com/games/dnd-5/feats/367-duelista-defensivo"
+  },
+  {
+    "name": "Dueño de Taberna",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Dote \"Habitual de Taberna\"; Habitual de Taberna",
+    "description": "Sabes cómo deshacerte de los más molestos y rebeldes clientes de tu bar, ya sea usando la fuerza o sin ella.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1374-dueno-de-taberna"
+  },
+  {
+    "name": "Duro",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tus puntos de golpe máximos aumentan en dos veces tu nivel en el momento en que eliges esta dote. A partir de ese momento, cada vez que alcances un nuevo nivel tus puntos de golpe máximos aumentarán en 2 más.",
+    "url": "https://nivel20.com/games/dnd-5/feats/368-duro"
+  },
+  {
+    "name": "Duro como un Tejón",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Mientras no lleves armadura, suma tu bono de Destreza a tu CA. Puedes ver en una oscuridad no mágica de hasta 60 pies, pero no puedes discernir diferentes colores y sólo puedes ver en tonos de gris.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7293-duro-como-un-tejon"
+  },
+  {
+    "name": "Duro de Matar",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Nunca es tu momento. Simplemente te rehúsas a morir.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1391-duro-de-matar"
+  },
+  {
+    "name": "Ejecución",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Competencia con un arma simple o marcial",
+    "description": "Cuando impactes con un arma cuerpo a cuerpo un golpe que reduzca los PG de una criatura a 0, has una prueba de intimidación. Todas las criaturas hostiles que puedan verte deberán realizar una TS SAB cuya dificultad es igual al resultado de tu prueba de habilidad. En un fallo, quedan asustadas de ti.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1433-ejecucion"
+  },
+  {
+    "name": "Embaucador",
+    "source": "Manual Necrético",
+    "prerequisite": "Carisma 15",
+    "description": "Tu voz tiende a ser tomada en cuenta. Sea por tu amigable aura o por tu capacidad de endulzar mentiras para engatuzar a otros, te has hecho de una reputación de saber qué decir y cuándo decirlo. Ganas los siguientes beneficios: Incrementa tu puntuación de Carisma en 1, hasta un máximo de 20. Ap...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7316-embaucador"
+  },
+  {
+    "name": "Marca aberrante de dragón",
+    "source": "Eberron",
+    "prerequisite": "Ninguna otra marca de dragón",
+    "description": "Desarrollas una marca aberrante de dragón. Determina su apariencia y el defecto asociado a ella.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1099-marca-aberrante-de-dragon"
+  },
+  {
+    "name": "Matón de taberna",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Obtienes +1 en Fuerza o Constitución. Eres competente con armas improvisadas. Tus ataques sin armas infligen 1d4 de daño. Cuando impactas a una criatura con un ataque sin armas o un arma improvisada durante tu turno, puedes utilizar una acción adicional para intentar agarrar al objetivo.",
+    "url": "https://nivel20.com/games/dnd-5/feats/385-maton-de-taberna"
+  },
+  {
+    "name": "Médico de Campo",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Te consideras un experto en salvar vidas, incluso en las más duras circunstancias.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1397-medico-de-campo"
+  },
+  {
+    "name": "Mejora del arma de aliento",
+    "source": "Draconomicon",
+    "prerequisite": "Semi Dragon",
+    "description": "Un entrenamiento exhaustivo te ha otorgado un mayor control sobre tu Arma de Aliento, permitiéndote mejorar su velocidad, potencia y alcance.",
+    "url": "https://nivel20.com/games/dnd-5/feats/953-mejora-del-arma-de-aliento"
+  },
+  {
+    "name": "Melancolía",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Holstaur Catoblepas",
+    "description": "Se dice que ciertos Catoblepas que sufrieron verdaderos desengaños y penas son capaces de descargar su melancolía en el mundo.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1759-melancolia"
+  },
+  {
+    "name": "Memoria Sobresaliente",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Lanzador de conjuros o Pacto de magia",
+    "description": "Aprendes un numero de conjuros adicionales equivalentes a tu bonificador por competencia. Si los preparas, en su lugar estos conjuros se consideran siempre preparados para ti. Estos deben ser de una lista de conjuros la cual poseas acceso y de un nivel que puedas lanzar",
+    "url": "https://nivel20.com/games/dnd-5/feats/1735-memoria-sobresaliente"
+  },
+  {
+    "name": "Mente aguda",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tu puntuación de Inteligencia aumenta en 1, hasta un máximo de 20. Siempre distingues dónde está el norte. Siempre sabes cuántas horas faltan para el siguiente amanecer o anochecer. Puedes recordar con exactitud todo lo que hayas visto u oído durante el último mes.",
+    "url": "https://nivel20.com/games/dnd-5/feats/386-mente-aguda"
+  },
+  {
+    "name": "Mente Fría",
+    "source": "Manual Necrético",
+    "prerequisite": "Inteligencia 15 o superior",
+    "description": "Es hora de pensar, hora de medir, hora de planear. Tus habilidades en todos los caminos de la vida mejoran dramáticamente si puedes pensar en todos los factores. Ganas los siguientes beneficios: Incrementa tu puntuación de Inteligencia en 1, hasta un máximo de 20. Si tienes 1 minuto para analiz...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7317-mente-fria"
+  },
+  {
+    "name": "Metamágico",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Tienes una profunda comprensión del funcionamiento de la Metamagia",
+    "url": "https://nivel20.com/games/dnd-5/feats/1403-metamagico"
+  },
+  {
+    "name": "Miedo Dracónico",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Dracónido",
+    "description": "Cuando te enfureces, puedes irradiar amenaza pura. Obtienes los beneficios siguientes: Tu puntuación de Fuerza, Constitución o Carisma aumenta en 1, hasta un máximo de 20. En vez de exhalar energía destructiva, puedes gastar un uso de tu atributo Ataque de Aliento para rugir, forzando a cada c...",
+    "url": "https://nivel20.com/games/dnd-5/feats/457-miedo-draconico"
+  },
+  {
+    "name": "Mitosis",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza: Cienomita o Slime",
+    "description": "A partir de ahora posees una segunda oportunidad de uso limitado. Si un ataque o conjuro te lleva a la muerte, tu núcleo se divide y burla las condiciones mágicas de objetivo eliminado al ser otro ser. Al usar la habilidad tu salud máxima se divide a la mitad (redondeado hacia arriba) y te levant...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1206-mitosis"
+  },
+  {
+    "name": "Moderadamente acorazado",
+    "source": "Manual del Jugador",
+    "prerequisite": "competencia con armaduras ligeras",
+    "description": "Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. Ganas competencia con armaduras medias y escudos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/387-moderadamente-acorazado"
+  },
+  {
+    "name": "Monje Aprendiz",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Destreza 13 o mas",
+    "description": "Obtienes tantos puntos de ki como tu bonif por competencia. Puedes usar Destreza para tus ataques desarmados, estos infligen 1d4 de daño. Usa una acción adicional y 1 punto de ki para hacer 1 ataque desarmado después de atacar o 2 puntos de ki para usar la acción de Correr, Destrabarte o Esquivar.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1463-monje-aprendiz"
+  },
+  {
+    "name": "Móvil",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tu velocidad aumenta en 10 pies. Al realizar una acción de Correr, el terreno difícil no te cuesta movimiento adicional durante este turno. Tras atacar cuerpo a cuerpo a una criatura (impactes o no), no provocarás ataques de oportunidad de esa criatura durante el resto del turno.",
+    "url": "https://nivel20.com/games/dnd-5/feats/388-movil"
+  },
+  {
+    "name": "Muy acorazado",
+    "source": "Manual del Jugador",
+    "prerequisite": "competencia con armaduras medias",
+    "description": "Tu puntuación de Fuerza aumenta en 1, hasta un máximo de 20. Ganas competencia con armaduras pesadas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/389-muy-acorazado"
+  },
+  {
+    "name": "Nadar como Nutria",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Tu velocidad de nado no se ve afectada, además puedes respirar bajo el agua por 10 minutos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7292-nadar-como-nutria"
+  },
+  {
+    "name": "Némesis",
+    "source": "Manual Necrético",
+    "prerequisite": "Sientes una profunda aversión por cierto tipo de criatura, sea por malas experiencias pasadas o porque se te inculcó este odio.",
+    "description": "Elige un tipo de criatura: Humanoide, Bestia, Infernal, Constructo, No-Muerto, Feérico, Gigante, Monstruosidad, etc. Obtienes los siguientes beneficios: Puedes añadir ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7314-nemesis"
+  },
+  {
+    "name": "Nigromántico",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Recientemente te has puesto en contacto con tu lado muerto. Aunque bueno, aparte de que te estás pudriendo de a poco, lo estás haciendo genial.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1406-nigromantico"
+  },
+  {
+    "name": "Nocturno",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Debido a la extensa exposición a la oscuridad, y posibles habilidades sobrenaturales, tienes una habilidad incomparable para luchar contra adversarios en la oscuridad. Obtienes los siguientes beneficios:",
+    "description": "Tienes Visión en la Oscuridad a 60 pies. Si ya tienes Visión en la Oscuridad, el rango de l...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1105-nocturno"
+  },
+  {
+    "name": "Observador",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Obtienes +1 a Inteligencia o Sabiduría. Podrás saber lo que dice, leyendo sus labios, cualquier criatura que esté hablando un idioma que conozcas y cuya boca puedas ver. Tienes +5 a tus puntuaciones de Sabiduría (Percepción) e Inteligencia (Investigación) pasivas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/390-observador"
+  },
+  {
+    "name": "Ojo de Halcón",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Tu alcance visual se duplica, además. Siempre que vayas a realizar una tirada de ataque, obtienes ventaja si te encuentras a 10 o más pies de altura respecto a tu objetivo. Cuentas con un par de alas, las cuales te permiten volar el doble de tus pies, además que puedes cargar algo que no pese más...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7307-ojo-de-halcon"
+  },
+  {
+    "name": "Oportunista",
+    "source": "Manual Necrético",
+    "prerequisite": "El Rasgo “Ataque adicional” o similares",
+    "description": "Has aprendido a explotar los puntos débiles de tus oponentes. Ganas los siguientes beneficios: Incrementa tu puntuación de Fuerza o Destreza en 1, hasta un máximo de 20. Cuando una criatura provoca un ataque de oportunidad tuyo, puedes realizar tantos ataques como te permita tu Rasgo Ataque Ad...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7440-oportunista"
+  },
+  {
+    "name": "Pacto Menor",
+    "source": "Manual Necrético",
+    "prerequisite": "Has hecho un pequeño trato con un Patrón de Otro Mundo (tu DM debe determinar su naturaleza): A cambio de un favor menor de tu parte, recibes un mínimo fragmento de su poder:",
+    "description": "Aprendes un Truco de la lista de conjuros de Brujo, usando tu Carisma como tu característica para lanzar conjuros. Apren...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7302-pacto-menor"
+  },
+  {
+    "name": "Paso de Árbol",
+    "source": "Manual Necrético",
+    "prerequisite": "Dríade",
+    "description": "Aumenta tu puntuación de Fuerza, Destreza, Constitución o Sabiduría en 1, hasta un máximo de 20. Una vez en cada uno de tus turnos, puedes utilizar 10 pies de tu movimiento para entrar mágicamente en un árbol vivo al alcance y emerger desde un segundo árbol vivo dentro de 60 pies del primer árbol...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7359-paso-de-arbol"
+  },
+  {
+    "name": "Paso Etéreo",
+    "source": "Manual Necrético",
+    "prerequisite": "Raza Fuego Fatuo",
+    "description": "Aumenta tu puntuación de Constitución en 1, hasta un máximo de 20. El número de veces que puedes lanzar Paso brumoso con tu rasgo Intangibilidad Menor antes de necesitar un descanso largo se incrementa en 2.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7357-paso-etereo"
+  },
+  {
+    "name": "Frio Permeable",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Una vez por turno, cuando inflijas daño por frio a una criatura, lanza un d20. Si el resultado es un 20 tu objetivo obtiene desventaja en todas las tiradas de salvación que realice hasta el comienzo de su siguiente turno.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1733-frio-permeable"
+  },
+  {
+    "name": "Fuerza Firme",
+    "source": "Manual Necrético",
+    "prerequisite": "Fuerza 16",
+    "description": "Al golpear con un arma con la propiedad \"Pesada\", puedes elegir empujar a la criatura con la fuerza del impacto, la criatura deberá realizar una TS de Constitución, si la supera es empujado 5 pies, si la falla es empujado 20 pies y es derribado, si la criatura choca contra algun obstaculo recibe ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7346-fuerza-firme"
+  },
+  {
+    "name": "Furia Orca",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Semiorco",
+    "description": "Tu furia interior arde sin fin. Obtienes los beneficios siguientes: Tu puntuación de Fuerza o Constitución aumenta en 1, hasta un máximo de 20. Cuando impactas con un ataque utilizando un arma marcial o sencilla, puedes tirar uno de los dados de daño del arma una vez más y añadírlo como daño ad...",
+    "url": "https://nivel20.com/games/dnd-5/feats/454-furia-orca"
+  },
+  {
+    "name": "Golpe de Venganza",
+    "source": "Manual Necrético",
+    "prerequisite": "Dañarte a ti o a tus aliados es un error que se paga con sangre. Ganas los siguientes beneficios:",
+    "description": "Incrementa tu puntuación de Fuerza o Destreza en 1, hasta un máximo de 20. Como reacción, cuando una criatura que puedas ver hasta a 60 pies de ti acierta un golpe crítico contra una criatura aliad...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7318-golpe-de-venganza"
+  },
+  {
+    "name": "Gran Maestro de las Armas",
+    "source": "Manual Necrético",
+    "prerequisite": "Fuerza de 13 o superior",
+    "description": "Has aprendido a aprovechar el peso de un arma a tu favor, permitiendo que su momentum potencie tus golpes. En tu turno, cuando obtienes un golpe crítico con un arma cuerpo a cuerpo o reduces los puntos de golpe de una criatura a 0 con una, puedes realizar un ataque adicional con un arma cuerpo ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7352-gran-maestro-de-las-armas"
+  },
+  {
+    "name": "Gran Rugido del Dragón",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Ser de Raza Semidragón de linaje directo de la Familia Real, tener la dote \"Arma de Aliento Mejorada\" y ser de Nivel 12",
+    "description": "Has sido bendecido por Bahamut o Tiamat, otorgándote una forma de dragón menor de los elegidos por tu linaje directo de la familia real de los dragones. Mientras que todos los Semi Dragones aspiran a asumir su verdadera forma de dragón, solo aquellos con suficiente experiencia pueden ser bendecid...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1208-gran-rugido-del-dragon"
+  },
+  {
+    "name": "Grito de Guerra",
+    "source": "Manual Necrético",
+    "prerequisite": "Fuerza o Constitución 15",
+    "description": "Ahora puedes canalizar el poder desenfrenado de tu voz para soltar inspiradores o temibles gritos de guerra. Obtienes los siguientes beneficios: Aumenta tu puntuación de Constitución o Carisma en 1, hasta un máximo de 20. Obtienes competencia en las habilidades de Intimidación o Interpretación, a...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7360-grito-de-guerra"
+  },
+  {
+    "name": "Guerrero en la Sombra",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Has firmado un pacto con los seres de la Oscuridad o el Vacío, entregándote una fuerza sobrenatural en combate a cambio de las almas de tus víctimas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1421-guerrero-en-la-sombra"
+  },
+  {
+    "name": "Guerrero Mágico",
+    "source": "Manual Necrético",
+    "prerequisite": "Bailarina o Monje",
+    "description": "Aprendes dos trucos a elección que estén en la lista de hechizos de hechicero o mago. Tu habilidad para lanzar conjuros con estos hechizos es Sabiduría o Carisma, a tu elección. Cada vez que obtengas un nivel de clase, puedes reemplazar uno de los trucos que hayas aprendido por otro truco diferen...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7362-guerrero-magico"
+  },
+  {
+    "name": "Habilidoso",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Ganas competencia en cualquier combinación de tres habilidades o herramientas de tu elección.",
+    "url": "https://nivel20.com/games/dnd-5/feats/371-habilidoso"
+  },
+  {
+    "name": "Habitual de Taberna",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Dote \"Matón de Taberna\"; Matón de taberna",
+    "description": "Frecuentas tabernas más que un luchador común y has aprendido más que alguna útil técnica.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1373-habitual-de-taberna"
+  },
+  {
+    "name": "Hablando del Diablo",
+    "source": "Manual Necrético",
+    "prerequisite": "Raza: Diablillo, Duater, Dullahan, Enenra, Furia, Gorgona, Íncubo, Infragólem, Oni, Rakshasa, Súcubo, Tiefling o Vampiro abisal.",
+    "description": "Cuando escuches una criatura hasta a 30 pies de ti decir tu nombre o referirse a ti, puedes usar tu reacción para teletransportarte a un espacio desocupado a 5 pies de esta criatura. Puedes hacer esto hasta tantas veces como tu Modificador de Carisma, y recuperas todos sus usos al terminar un des...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7313-hablando-del-diablo"
+  },
+  {
+    "name": "Hechizo de Golpe Menor",
+    "source": "Manual Necrético",
+    "prerequisite": "",
+    "description": "Has aprendido algún pequeño encantamiento mágico forjado a través de la práctica o la suerte. Esta magia, manifestándose a través de tu arma, te ha otorgado la capacidad de desgarrar a tus enemigos con el poder mágico y marcial en conjunto.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7349-hechizo-de-golpe-menor"
+  },
+  {
+    "name": "Hemofóbico",
+    "source": "Multiverso Conocido",
+    "prerequisite": "No ser inmune a efectos de miedo",
+    "description": "Tienes un largo número de fobias y miedos, pero tu más grande miedo es el de ver tu propia sangre.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1399-hemofobico"
+  },
+  {
+    "name": "Heraldo Solar",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Tu puntuación de Inteligencia, Sabiduría o Carisma aumenta en 1, hasta un máximo de 20. Aprendes los trucos \"Luz\" y \"Luces danzantes\", puedes lanzar ambos sin necesidad de utilizar componentes materiales. Desde ahora, la zona de iluminación de ambos conjuros es considerada luz solar.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1160-heraldo-solar"
+  },
+  {
+    "name": "Heredero Divino",
+    "source": "Manual Necrético",
+    "prerequisite": "Tener al menos 12 niveles en Clérigo",
+    "description": "Tienes mejores chances de que tu deidad responda a tus plegarias. Cuando lances un d100 para determinar si tu deidad interviene para efectos de tu Rasgo Intervención divina, puedes elegir lanzar de nuevo una vez por descanso largo. Además, cuando tu deidad responde a tu llamado, puedes lanzar 1d4...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7284-heredero-divino"
+  },
+  {
+    "name": "Herencia Draconida",
+    "source": "Draconomicon",
+    "prerequisite": "Draconido",
+    "description": "Estas bendecido por Bahamut o Tiamat, este te otorga un pequeño fragmento de lo que es el verdadero poder de un dragon. Puedes escoger esta dote hasta tres veces Aumenta tu puntuacion de Constitucion en 1 hasta un maximo de 20 El daño de tu aliento aumenta 1d6 Cuando escoges esta dote obtien...",
+    "url": "https://nivel20.com/games/dnd-5/feats/952-herencia-draconida"
+  },
+  {
+    "name": "Hermano Oso",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Grande",
+    "description": "Tienes resistencia a las bajas temperaturas. Tu velocidad de movimiento aumenta 10 pies, y la velocidad de escalada no se ve penalizada. Puedes infundir terror con un feroz rugido. las criaturas en un cono de 15 pies frente a ti deben realizar una TS de Sabiduría o quedar aterradas de ti, y hui...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7280-hermano-oso"
+  },
+  {
+    "name": "Ilusionista Encantador",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Haz desbloqueado el verdadero potencial de mezclar los efectos de la magia de Ilusión y Encantamiento.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1394-ilusionista-encantador"
+  },
+  {
+    "name": "Ilusionista Mortal",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Tus ilusiones invaden hasta la grieta más profunda en la mente de tus enemigos, dejándolos con serias secuelas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1381-ilusionista-mortal"
+  },
+  {
+    "name": "Influencia Arcana",
+    "source": "Manual Necrético",
+    "prerequisite": "La capacidad de lanzar al menos un conjuro",
+    "description": "Cuando lances un conjuro, puedes elegir a una criatura que esté hasta a 30 pies de ti y que puedas ver: El próximo conjuro que lance dicha criatura será un nivel superior al que elija lanzarlo, hasta un máximo de nivel 9. Puedes usar este Dote tantas veces como tu Bonificador por Competencia, rec...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7285-influencia-arcana"
+  },
+  {
+    "name": "Ingeniero Natural",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Puedes construir tan bien como un Castor. Adquieres competencia con herramientas de artesano, y obtienes competencia en pruebas de habilidad de Investigación. Si tienes los componentes necesarios, puedes tomarte una hora del día para construir una estructura simple, por ejemplo una cobertura impr...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7291-ingeniero-natural"
+  },
+  {
+    "name": "Ingenioso",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Las grandes ideas vienen a ti de forma natural, a menudo cuando podrían salvarte la vida.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1410-ingenioso"
+  },
+  {
+    "name": "Ingenioso",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Obtienes ventaja desarmando trampas y otros mecanismos similares. Como parte de un descanso corto o largo, puedes elaborar un arma arrojadiza, un objeto de carácter simple o 1d10 de munición. Debes disponer de los materiales adecuados y de al menos 30 minutos de trabajo ininterrumpido.",
+    "url": "https://nivel20.com/games/dnd-5/feats/999-ingenioso"
+  },
+  {
+    "name": "Iniciado Artífice",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Has adquirido parte de la inventiva de un artífice:",
+    "description": "Aprendes un truco de tu elección escogido de entre los de la lista de conjuros de artífice y aprendes un conjuro de nivel 1 de tu elección de esa lista. La Inteligencia es tu aptitud mágica para estos conjuros. Puedes lanzar el conjuro de nive...",
+    "url": "https://nivel20.com/games/dnd-5/feats/682-iniciado-artifice"
+  },
+  {
+    "name": "Enciclopedia de Combate",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Cuando realices una prueba de habilidad para recordar información acerca de una criatura, obtienes ventaja. Si posees competencia en dicha prueba de habilidad y el resultado de la tirada es un 9 o menos, puedes considerar esta como si fuera 10.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1154-enciclopedia-de-combate"
+  },
+  {
+    "name": "Enseñanzas Mágicas",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Holstaur Cuerno de la Niebla y ser capaz de lanzar al menos un conjuro",
+    "description": "Tu pasión por la educación ha llevado tu capacidad de enseñar a niveles sobrenaturales. Puedes enseñar años de teoría mágica a otros en cuestión de horas, lo que les permite servir como conducto de tu magia.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1758-ensenanzas-magicas"
+  },
+  {
+    "name": "Entrenamiento en Combate",
+    "source": "Manual Necrético",
+    "prerequisite": "Fuerza o Destreza de 13 o superior",
+    "description": "(Sustituye a Iniciado en el Combate, Maestro en armaduras ligeras/medias/pesadas y Maestro de Armas) Puedes elegir este dote varias veces. Has practicado extensamente con una variedad de armas. Obtienes competencia en todas las armas simples y puedes elegir dos de los siguientes beneficios: ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7350-entrenamiento-en-combate"
+  },
+  {
+    "name": "Envenenador",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Puedes preparar y suministrar venenos letales, lo que te proporciona los siguientes beneficios:",
+    "description": "Cuando hagas una tirada de daño que cause daño de veneno, esta ignorará la resistencia a ese daño. Puedes aplicar veneno a un arma o munición como acción adicional, en vez de como acción. También ga...",
+    "url": "https://nivel20.com/games/dnd-5/feats/690-envenenador"
+  },
+  {
+    "name": "Erudito Científico",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Has descubierto un don natural en una sola habilidad.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1411-erudito-cientifico"
+  },
+  {
+    "name": "Escapista",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Tus perseguidores juran que estás bañado en grasa; nadie puede tenerte en sus manos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1395-escapista"
+  },
+  {
+    "name": "Escaramuzador",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Tu misteriosa destreza se impregna a través de tu estilo de combate.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1423-escaramuzador"
+  },
+  {
+    "name": "Esencia de Baphomet",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Holstaur",
+    "description": "Ya sea a través de un linaje mixto, ganando el favor de una entidad demoníaca, o mediante un rito prohibido; has obtenido una parte de la esencia de Baphomet.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1755-esencia-de-baphomet"
+  },
+  {
+    "name": "Estilo Aegis",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Lanzador de conjuros o Pacto de magia",
+    "description": "Tus golpes sin armas infligen un daño por fuerza igual a 1d6 + tu modificador por característica para lanzar conjuros en cada golpe. Puedes utilizar el mismo modificador por característica para estas tiradas de ataque sin arma en lugar de lo habitual.",
+    "url": "https://nivel20.com/games/dnd-5/feats/992-estilo-aegis"
+  },
+  {
+    "name": "Experto en ballestas",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Ignora la propiedad \"recarga\" de las ballestas con las que eres competente. Estar a 5 pies o menos de una criatura hostil no te causa desventaja en las tiradas de ataque a distancia. Tras atacar con arma a 1 mano, puedes utilizar tu acción adicional para atacar con una ballesta de mano que sujetes.",
+    "url": "https://nivel20.com/games/dnd-5/feats/369-experto-en-ballestas"
+  },
+  {
+    "name": "Experto en Espadón",
+    "source": "Crónicas de Urantia (En desarrollo)",
+    "prerequisite": "Fuerza 16 o más",
+    "description": "Has entrenado toda tu vida con el espadón, un arma eficaz y gigante que, es impresionante lo que has logrado: usarla con tan solo una mano.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1141-experto-en-espadon"
+  },
+  {
+    "name": "Experto en Habilidades",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Has perfeccionado tu competencia en determinadas habilidades, lo que te concede los siguientes beneficios:",
+    "description": "Aumenta una puntuación de característica de tu elección en 1, hasta un máximo de 20. Ganas competencia en una habilidad de tu elección. Elige una habilidad en la que tengas competencia. Ga...",
+    "url": "https://nivel20.com/games/dnd-5/feats/693-experto-en-habilidades"
+  },
+  {
+    "name": "Experto en Hachas",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Eres un maestro en el uso de las hachas y tus pesados golpes pueden atravesar a tus enemigos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1375-experto-en-hachas"
+  },
+  {
+    "name": "Explorador de mazmorras",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tienes ventaja en las pruebas de Percepción e Investigación para detectar puertas secretas y en las TS para evitar o resistir trampas. Tienes resistencia al daño causado por trampas. Puedes buscar trampas mientras viajas a un ritmo normal, sin tener que hacerlo a un ritmo lento.",
+    "url": "https://nivel20.com/games/dnd-5/feats/370-explorador-de-mazmorras"
+  },
+  {
+    "name": "Explotar Debilidad",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Cuando una criatura que puedas ver sufra un impacto critico que no provenga de ti, puedes usar tu reacción para realizar un ataque de arma contra esa misma criatura.",
+    "url": "https://nivel20.com/games/dnd-5/feats/998-explotar-debilidad"
+  },
+  {
+    "name": "Fiel Corcel",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Grande",
+    "description": "Como si fueses un ilustre caballo como una mula de carga, el peso que puedes cargar y empujar se duplica. Tu velocidad de movimiento aumenta 15 pies. Tienes una patada que inflige 1d8 de daño contundente, una criatura de menor tamaño al tuyo es empujada 5 pies en dirección contraria a ti y es d...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7282-fiel-corcel"
+  },
+  {
+    "name": "Figura Descomunal",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Fuerza 13 o superior",
+    "description": "Posees una amplia y formidable altura para tu raza, obtenida ya sea a través de duro entrenamiento o la complexión natural de tu cuerpo. Obtienes los siguientes beneficios: Cuentas como si fueras de una categoría de tamaño mayor (con el límite de tamaño Grande), a la hora de determinar el peso ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1106-figura-descomunal"
+  },
+  {
+    "name": "Filo renacido",
+    "source": "Eberron",
+    "prerequisite": "Elfo",
+    "description": "Incrementas tu Destreza o tu Fuerza en 1. Mientras blandes una cimitarra doble ganas un +1 a la clase de armadura. Una cimitarra doble posee la característica Sutil cuando tú la blandes.",
+    "url": "https://nivel20.com/games/dnd-5/feats/448-filo-renacido"
+  },
+  {
+    "name": "Físico Ágil",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Destreza 13 o mayor",
+    "description": "Eres pequeño y delgado para tu raza. Tienes una misteriosa y consistente habilidad para evadir el peligro. Esta dote te otorga los siguientes beneficios: Mientras no estés usando armadura, puedes usar la acción de Esquivar como acción adicional. Puedes utilizar este rasgo un número de veces igu...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1104-fisico-agil"
+  },
+  {
+    "name": "Forma Acorazada",
+    "source": "Manual Necrético",
+    "prerequisite": "Al menos 4 niveles en Druida",
+    "description": "Tu rechazo natural hacia la metalurgia ya no es un problema. Ganas los siguientes beneficios: Eres competente con armas simples, armas marciales y armadura pesada. Cuando te transformas mediante Forma Salvaje, puedes incorporar cualquier armadura o escudo que estuvieses llevando como placas me...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7488-forma-acorazada"
+  },
+  {
+    "name": "Forma Dragon",
+    "source": "Draconomicon",
+    "prerequisite": "Semi Dragon; Mejora del arma de aliento",
+    "description": "Has sido bendecido por tu dios dragon, el cual te otorga una forma de dragón menor para que despiertes parte del poder latente de tu ascendente dragon.",
+    "url": "https://nivel20.com/games/dnd-5/feats/954-forma-dragon"
+  },
+  {
+    "name": "Forma Verdadera de Dragón",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Semidragón del Linaje Real, tener la dote \"Gran Rugido del Dragón\" y ser de Nivel 16; Gran Rugido del Dragón",
+    "description": "Como acción, puedes transformarte en tu dragón de linaje en versión adulta como si hubiera lanzado el conjuro de cambio de forma. A diferencia del conjuro normal, solo puedes usar tu acción para asumir tu forma original, o volver a tu forma dragón. Tu verdadera forma de dragón no obstaculiza el...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1209-forma-verdadera-de-dragon"
+  },
+  {
+    "name": "Fortaleza Enana",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Enano",
+    "description": "La sangre de héroes enanos corre por tus venas. Obtienes los beneficios siguientes: Tu puntuación de Constitución aumenta en 1, hasta un máximo de 20. Siempre que utilizas la acción de Esquivar en combate, puedes gastar un Dado de Golpe para curarte. Tira el dado, añade tu modificador de Consti...",
+    "url": "https://nivel20.com/games/dnd-5/feats/453-fortaleza-enana"
+  },
+  {
+    "name": "Francotirador",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Si se te da el tiempo de alinear tu tiro, eres capaz de infligir graves heridas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1424-francotirador"
+  },
+  {
+    "name": "Francotirador",
+    "source": "Manual Necrético",
+    "prerequisite": "Destreza de 13 o superior",
+    "description": "Has dominado las armas a distancia y puedes realizar disparos que otros consideran imposibles. Cada vez que realizas un ataque con un arma a distancia con la que tienes competencia, obtienes los siguientes beneficios: Atacar a larga distancia no impone desventaja en tus tiradas de ataque con ar...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7355-francotirador"
+  },
+  {
+    "name": "Pata de Conejo",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Tu altura de salto aumenta una cantidad de pies igual a tu Mod. de Destreza. Además, si en alguna tirada con un d20 obtienes un 1, tienes la oportunidad de volver a tirar un d20, pero debes utilizar el nuevo resultado, incluso si es un 1, puedes hacer esto una vez por día.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7288-pata-de-conejo"
+  },
+  {
+    "name": "Perforador",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Has conseguido una precisión perforadora en combate, que te concede los siguientes beneficios:",
+    "description": "Aumenta tu Fuerza o tu Destreza en 1, hasta un máximo de 20. Una vez por turno, cuando impactes a una criatura con un ataque que cause daño perforante, podrás volver a tirar uno de los dados de daño d...",
+    "url": "https://nivel20.com/games/dnd-5/feats/691-perforador"
+  },
+  {
+    "name": "Perfume Francés",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Cual zorrillo, puedes dar una prueba de algún perfume natural que expulsa tu cuerpo. Aprendes el Truco “Rociada Venenosa”",
+    "url": "https://nivel20.com/games/dnd-5/feats/7294-perfume-frances"
+  },
+  {
+    "name": "Piel Dracónica",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Dracónido",
+    "description": "Manifiestas escamas y garras que recuerdan a tus ancestros dracónidos. Obtienes los beneficios siguientes: Tu puntuación de Fuerza, Carisma o Constitución aumenta en 1, hasta un máximo de 20. Tus escamas se endurecen. Mientras no lleves armadura, puedes calcular tu CA como 13 + tu modificador p...",
+    "url": "https://nivel20.com/games/dnd-5/feats/458-piel-draconica"
+  },
+  {
+    "name": "Piel y huesos duros",
+    "source": "Crónicas de Urantia (En desarrollo)",
+    "prerequisite": "Constitución 16 o más",
+    "description": "Tu piel y huesos son tan resistentes que te ayudan a reducir diferentes tipos de daños.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1131-piel-y-huesos-duros"
+  },
+  {
+    "name": "Pistolero Iniciado",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Has obtenido un estricto entrenamiento en el uso de armas de fuego, lo que te ha permitido adaptarte a un estilo específico de combate con este tipo de armas. Obtienes los siguientes beneficios:",
+    "description": "Obtienes competencia con un tipo de arma de fuego a elegir entre: Pistolas, Revólveres, Escopetas, R...",
+    "url": "https://nivel20.com/games/dnd-5/feats/15143-pistolero-iniciado"
+  },
+  {
+    "name": "Poder Latente",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Posees una reserva de \"Dados de Poder\" la cual es un d4. Añades 1d4 a tu reserva cuando falles una tirada de ataque contra una criatura hostil. Al impactar un ataque, puedes gastar todos tus dados de poder de una vez y añadirlos a la tirada de daño, tu elijes el tipo de daño si hay mas de 1.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1480-poder-latente"
+  },
+  {
+    "name": "Portador de Escudo",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Tener competencia con escudo y tenerlo equipado",
+    "description": "A veces otros pueden salir beneficiados de tu habilidad con un escudo más de lo que te imaginas...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1422-portador-de-escudo"
+  },
+  {
+    "name": "Portaestandartes",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Pasada o actual afiliación con una notable facción militar",
+    "description": "Tienes el honor de cargar contigo la bandera de tu unidad, regimiento, o ejército. La bandera inspira a aquellos que luchan a su alrededor con las historias de sus leales guerreros.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1428-portaestandartes"
+  },
+  {
+    "name": "Potenciación Fundamental",
+    "source": "Manual Necrético",
+    "prerequisite": "",
+    "description": "Has adquirido una comprensión básica de las potenciaciones de un hechicero de espada, ya sea practicando con uno, descubriendo una página rasgada de un libro de hechicería de espada o por pura habilidad innata.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7348-potenciacion-fundamental"
+  },
+  {
+    "name": "Precisión Élfica",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Elfo o Semielfo",
+    "description": "La precisión de los elfos es legendaria, especialmente la de sus arqueros y lanzadores de conjuros. Tienes una puntería insólita con aquellos ataques que dependen de la precisión más que de la fuerza bruta. Obtienes los beneficios siguientes: Incrementa tu puntuación de Carisma, Destreza, Intel...",
+    "url": "https://nivel20.com/games/dnd-5/feats/459-precision-elfica"
+  },
+  {
+    "name": "Prodigio",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Humano, Semielfo o Semiorco",
+    "description": "Tienes facilidad para aprender cosas nuevas. Obtienes los beneficios siguientes: Ganas competencia con una habilidad de tu elección y unas herramientas que escojas y, además, aprendes un idioma de tu elección. Elige una habilidad en la que seas competente. Ganas pericia con esa habilidad, lo qu...",
+    "url": "https://nivel20.com/games/dnd-5/feats/460-prodigio"
+  },
+  {
+    "name": "Protector de los Mansos",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Holstaur Urbos",
+    "description": "Robustos y poderosos son los ideales de los Urbos que manifiestas. Ningún daño vendrá a los débiles mientras respires.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1760-protector-de-los-mansos"
+  },
+  {
+    "name": "Puntería Absoluta",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Usa una acción adicional para entrar en un estado de concentración por hasta minuto. Mientras mantengas este estado, puedes sumar tu bonif por competencia a todas las tiradas de daño con armas a distancia que realices. Debes terminar un descanso breve o prolongado para volver a usar este rasgo.",
+    "url": "https://nivel20.com/games/dnd-5/feats/995-punteria-absoluta"
+  },
+  {
+    "name": "Radar",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Como Búho, tu corona de plumas proporciona vista ciega hasta 5 veces tu bono de competencia, además puedes escuchar el doble de la capacidad normal. Cuentas con un par de alas, las cuales te permiten volar el doble de tus pies, además que puedes cargar algo que no pese más de la mitad de tu prop...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7308-radar"
+  },
+  {
+    "name": "Rama del Viaje Lejano",
+    "source": "Manual Necrético",
+    "prerequisite": "Dríade",
+    "description": "Puedes realizar un ritual de una hora a menos de 5 pies de un árbol vivo para formar un vínculo mágico con él. Si el árbol es aquel del cual naciste, puedes realizar este ritual a cualquier distancia de él. Una vez termines el ritual, obtendrás una rama mágica. Como acción, puedes tocar la rama y...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7358-rama-del-viaje-lejano"
+  },
+  {
+    "name": "Ratón de Biblioteca",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Puedes añadir tu Mod. de inteligencia a las pruebas de habilidad de Sigilo y Atletismo. Además, siempre que un ataque se dirija hacia ti, puedes usar tu reacción para sumar tu bono de competencia redondeado hacia abajo a tu CA.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7289-raton-de-biblioteca"
+  },
+  {
+    "name": "Reactivo",
+    "source": "Manual Necrético",
+    "prerequisite": "Sabes la importancia de una acción bien pensada. Ganas los siguientes beneficios:",
+    "description": "Ganas un bonificador de +2 a tus tiradas de Iniciativa. En tu turno, puedes gastar tu acción adicional para ganar una reacción adicional hasta el inicio de tu próximo turno.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7298-reactivo"
+  },
+  {
+    "name": "Rebanador",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Has aprendido dónde cortar para obtener los mejores resultados, lo que te concede los siguientes beneficios:",
+    "description": "Aumenta tu Fuerza o tu Destreza en 1, hasta un máximo de 20. Una vez por turno, cuando impactes a una criatura con un ataque que cause daño cortante, podrás reducir la velocidad del obje...",
+    "url": "https://nivel20.com/games/dnd-5/feats/694-rebanador"
+  },
+  {
+    "name": "Reforestador Profesional",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Cual Cacomixtle, aprendes el conjuro Bendecir cosechas, y puedes utilizarlo tantas veces como tu bono de competencia. Además, como si fueras un Mapache, puedes encontrar alimentos para ti y hasta 5 criaturas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7286-reforestador-profesional"
+  },
+  {
+    "name": "Reforzar el Corazón",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Holstaur y puntuación de Carisma de 13 o más",
+    "description": "Con el ánimo correcto puedes ser capaz de desbloquear un gran potencial.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1754-reforzar-el-corazon"
+  },
+  {
+    "name": "Regalo de los dragones cosmicos",
+    "source": "Draconomicon",
+    "prerequisite": "Has manifestado parte del poder de los Dragones Cosmicos, obteniendo los siguientes beneficios:",
+    "description": "Infusión Cosmica. Como acción adicional, puedes tocar un arma e infundirla con uno de los siguientes daños: fuego, frio, psiquico, veneno, radiante. Durante el proximo minuto, el arma hace 1d4 puntos ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1840-regalo-de-los-dragones-cosmicos"
+  },
+  {
+    "name": "Regeneración Recesiva",
+    "source": "Manual Necrético",
+    "prerequisite": "Muchas individuos sobrenaturales regeneran sus heridas a un ritmo acelerado cuando la adrenalina recorre sus cuerpos. Ganas los siguientes beneficios:",
+    "description": "Incrementas tu puntuación de Constitución en 1, hasta un máximo de 20. Cuando estás en combate, al inicio de tu primer turno luego de que recib...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7373-regeneracion-recesiva"
+  },
+  {
+    "name": "Regeneración Titánica",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Semioni",
+    "description": "Si tienes algún miembro u otra parte de tu cuerpo amputada o destruida. Esta se restaura después de un d4 días. Como acción adicional, gasta 2 usos de tu rasgo de \"Regeneración\" para curarte de una enfermedad o veneno. Te recuperas de los efectos de un nivel de cansancio tras un descanso breve.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1015-regeneracion-titanica"
+  },
+  {
+    "name": "Resiliente",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Elige una característica. Tu puntuación aumenta en 1, hasta un máximo de 20 y obtienes competencia en las Tiradas de Salvación de la característica elegida.",
+    "url": "https://nivel20.com/games/dnd-5/feats/391-resiliente"
+  },
+  {
+    "name": "Llamador",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar conjuros de Nivel 3",
+    "description": "Eres bastante aventajado en lo que se refiere a los estudios de la magia de conjuración.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1379-llamador"
+  },
+  {
+    "name": "Llamas de Phlegethos",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Tiefling",
+    "description": "Aprendes a convocar el fuego infernal y ponerlo a tu servicio. Obtienes los beneficios siguientes: Tu puntuación de Carisma o Inteligencia aumenta en 1, hasta un máximo de 20. Cuando haces una tirada para calcular el daño de fuego de un conjuro que lances, puedes volver a tirar cualquier result...",
+    "url": "https://nivel20.com/games/dnd-5/feats/455-llamas-de-phlegethos"
+  },
+  {
+    "name": "Maestría de lo Salvaje",
+    "source": "Manual Necrético",
+    "prerequisite": "Tener al menos 4 niveles en Druida",
+    "description": "Tu dominio sobre la Forma salvaje te permite acceder a una mayor variedad de transformaciones. Ganas los siguientes beneficios: Ganas 1 uso adicional de Forma salvaje entre descansos. Puedes usar Forma salvaje para transformarte en bestias cuyo Valor de Desafío sea 1 nivel mayor de tu límite no...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7319-maestria-de-lo-salvaje"
+  },
+  {
+    "name": "Maestría Psiónica",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza: Azotamentes",
+    "description": "Te acostumbras más a las capacidades de tu cuerpo y mente. Obtienes los siguientes beneficios: Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20. Obtienes acceso a una habilidad psiónica adicional de tu elección.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1728-maestria-psionica"
+  },
+  {
+    "name": "Maestro de armas",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. Ganas competencia con cuatro armas de tu elección. Podrás escoger cualquier arma sencilla o marcial.",
+    "url": "https://nivel20.com/games/dnd-5/feats/379-maestro-de-armas"
+  },
+  {
+    "name": "Maestro de la Alabarda",
+    "source": "Manual Necrético",
+    "prerequisite": "Fuerza o Destreza de 13 o superior",
+    "description": "Puedes mantener a raya a tus enemigos con armas de alcance. Obtienes los siguientes beneficios: Cuando empuñas una jabalina, bastón, lanza o tridente con una mano, el arma obtiene la propiedad de alcance. Mientras empuñas un arma con la propiedad de alcance, otras criaturas provocan un ataque d...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7354-maestro-de-la-alabarda"
+  },
+  {
+    "name": "Maestro de la Doble Empuñadura",
+    "source": "Manual Necrético",
+    "prerequisite": "Fuerza o Destreza de 13 o superior",
+    "description": "Dominas la lucha con dos armas, obteniendo los siguientes beneficios: Aprendes el Estilo de Lucha de Doble Empuñadura o puedes aumentar tu puntuación de Fuerza o Destreza en 1, hasta un máximo de 20. Siempre que se te permita sacar o guardar un arma, puedes sacar o guardar dos en su lugar. Obti...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7351-maestro-de-la-doble-empunadura"
+  },
+  {
+    "name": "Maestro en Armaduras Ligeras",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Competencia con Armaduras Ligeras",
+    "description": "Sabes cómo sacarle el mayor provecho a esa armadura delgada que te protege.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1400-maestro-en-armaduras-ligeras"
+  },
+  {
+    "name": "Maestro en armaduras medias",
+    "source": "Manual del Jugador",
+    "prerequisite": "competente con armaduras medias",
+    "description": "Te has acostumbrado a moverte con armaduras medias. Llevar armadura media no te da desventaja en las pruebas de Destreza (Sigilo) y puedes sumar 3, en lugar de 2, a tu CA si tienes Destreza 16 o más.",
+    "url": "https://nivel20.com/games/dnd-5/feats/380-maestro-en-armaduras-medias"
+  },
+  {
+    "name": "Maestro en armaduras pesadas",
+    "source": "Manual del Jugador",
+    "prerequisite": "competencia con armaduras pesadas",
+    "description": "Eres capaz de emplear tu armadura para desviar golpes que matarían a otros. Tu puntuación de Fuerza aumenta en 1, hasta un máximo de 20. Mientras estás llevando armadura pesada, el daño contundente, cortante y perforante de armas no mágicas que recibas se reduce en 3.",
+    "url": "https://nivel20.com/games/dnd-5/feats/381-maestro-en-armaduras-pesadas"
+  },
+  {
+    "name": "Maestro en Armas Arrojadizas",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Eres diestro especialmente con las armas arrojadizas, obteniendo los siguientes beneficios:",
+    "description": "Cuando realices la acción de atacar arrojando un arma que posea la propiedad \"Arrojadiza\", puedes inmediatamente usar una acción adicional para realizar dos ataques más con arma arrojadiza. Estos ataques...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1107-maestro-en-armas-arrojadizas"
+  },
+  {
+    "name": "Maestro en Armas Contundentes",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Eres un experto en el uso de armas contundentes y sabes exactamente cómo y donde impactar con tus pesados golpes.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1376-maestro-en-armas-contundentes"
+  },
+  {
+    "name": "Maestro en armas de asta",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Al usar tu acción para atacar únicamente con una alabarda, bastón o guja, puedes usar tu acción adicional para atacar con el lado opuesto del arma (mismo modificador y daño 1d4 contundente). Puedes hacer un ataque de oportunidad contra aquellas criaturas que entren dentro del alcance del arma.",
+    "url": "https://nivel20.com/games/dnd-5/feats/382-maestro-en-armas-de-asta"
+  },
+  {
+    "name": "Maestro en Armas de Gancho",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Haz encontrado la forma de que la pica, la guadaña y la hoz se ajusten de manera perfecta a tu modo de pelear.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1408-maestro-en-armas-de-gancho"
+  },
+  {
+    "name": "Maestro en Armas Ligeras",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Las armas ligeras no te pesan en las manos, permitiéndoles que estén exactamente donde tú las necesitas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1401-maestro-en-armas-ligeras"
+  },
+  {
+    "name": "Maestro en armas pesadas",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Una vez por turno, al hacer un crítico o reducir los PG de una criatura a 0 con un arma cuerpo a cuerpo, podrás usar tu acción adicional para realizar un ataque con arma cuerpo a cuerpo. Con un arma cuerpo a cuerpo pesada y competencia, antes de atacar puedes elegir tener -5 al ataque y +10 al daño.",
+    "url": "https://nivel20.com/games/dnd-5/feats/383-maestro-en-armas-pesadas"
+  },
+  {
+    "name": "Maestro en escudos",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Al atacar en tu turno, puedes usar una acción adicional para empujar a una criatura hasta a 5 pies de ti con tu escudo. Añade tu CA del escudo a las TS de Destreza contra efectos que te tienen como objetivo. Usa tu reacción para no recibir daño al tener éxito en una TS de Des, en lugar de la mitad.",
+    "url": "https://nivel20.com/games/dnd-5/feats/384-maestro-en-escudos"
+  },
+  {
+    "name": "Maestro en Látigos",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Un látigo en tus manos se convierte en un arma mortal.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1430-maestro-en-latigos"
+  },
+  {
+    "name": "Maestro en Látigos",
+    "source": "Manual Necrético",
+    "prerequisite": "",
+    "description": "En tus manos, un látigo es un arma mortal.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7394-maestro-en-latigos"
+  },
+  {
+    "name": "Maestro Espadachín",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Tu expertiz con la espada no tiene igual y muy pocos son capaces de rivalizar con tu habilidad.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1402-maestro-espadachin"
+  },
+  {
+    "name": "Magia de los Elfos de los Bosques",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Elfo de los bosques",
+    "description": "Asimilas la magia de los bosques primordiales, adorados y protegidos por tu raza. Aprendes un truco de druida a tu elección. También adquieres los conjuros de zancada prodigiosa y pasar sin rastro y, además, puedes lanzar cada uno de ellos una vez sin utilizar un espacio de conjuro. Recuperas la ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/456-magia-de-los-elfos-de-los-bosques"
+  },
+  {
+    "name": "Magia Primordial Oni (Linaje Azul)",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Semioni",
+    "description": "Aprendes el conjuro Oscuridad el cual puedes lanzar a voluntad, sin gastar un espacio de conjuro. También adquieres Relámpago y dormir, cada uno de los cuales puedes utilizar una vez sin emplear un espacio de conjuro. Tu aptitud mágica estos conjuros es Carisma.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1013-magia-primordial-oni-linaje-azul"
+  },
+  {
+    "name": "Magia Primordial Oni (Linaje Rojo)",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Semioni",
+    "description": "Aprendes el conjuro Invisibilidad el cual puedes lanzar a voluntad, sin gastar un espacio de conjuro. También adquieres Bola de Fuego y Hechizar Persona, cada uno de los cuales puedes utilizar una vez sin emplear un espacio de conjuro. Tu aptitud mágica para estos conjuros es Carisma.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1014-magia-primordial-oni-linaje-rojo"
+  },
+  {
+    "name": "Magia Salvaje Inestable",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Homuncúlo de Adan",
+    "description": "En tu turno puedes activar los efectos de la magia salvaje a voluntad, lanza un d100 para determinar el efecto. Como acción adicional, activas el efecto adquirido cuando estimes conveniente una vez por un periodo de 1 hora. Debes terminar un descanso prolongado para usar esta dote nuevamente.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1051-magia-salvaje-inestable"
+  },
+  {
+    "name": "Mantener la Posición",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Cuando mantienes la posición, tus defensas se acercan a la definición de impenetrable.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1427-mantener-la-posicion"
+  },
+  {
+    "name": "Tocado por el Cielo",
+    "source": "Manual Necrético",
+    "prerequisite": "Has sido expuesto a los planos superiores y a sus habitantes, lo que ha dejado una marca en tu alma. Obtienes los siguientes beneficios:",
+    "description": "Incrementa tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes los conjuros “Restablecimiento menor”, “Saeta guiada” y un...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7299-tocado-por-el-cielo"
+  },
+  {
+    "name": "Tocado por el Infierno",
+    "source": "Manual Necrético",
+    "prerequisite": "Has sido expuesto a los Nueve Infiernos y a sus habitantes, lo que ha dejado una marca en tu alma. Obtienes los siguientes beneficios:",
+    "description": "Incrementa tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes los conjuros “Oscuridad”, “Reprensión infernal” y un conjuro...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7300-tocado-por-el-infierno"
+  },
+  {
+    "name": "Tocado por el Vacío",
+    "source": "Manual Necrético",
+    "prerequisite": "Has sido expuesto a planos insondables y a sus habitantes alienígenas, lo que ha dejado una marca en tu alma. Obtienes los siguientes beneficios:",
+    "description": "Incrementa tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes los conjuros “Clavo mental”, “Brazos de Hadar” y ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7301-tocado-por-el-vacio"
+  },
+  {
+    "name": "Tocado por la Sangre",
+    "source": "Manual Necrético",
+    "prerequisite": "Has sido expuesto a una magia oscura que permeó tu sangre, lo que ha dejado una marca en tu cuerpo y tu alma. Obtienes los siguientes beneficios:",
+    "description": "Incrementa tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes los conjuros “Asistencia Sanguinaria” y “Búsqueda...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7487-tocado-por-la-sangre"
+  },
+  {
+    "name": "Toque Feérico",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Tu exposición a la magia de Feywild te ha cambiado, otorgándote los siguientes beneficios:",
+    "description": "Aumenta tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes el conjuro Paso brumoso y un conjuro de nivel 1 de tu elección. El conjuro de nivel 1 debe ser de la escuel...",
+    "url": "https://nivel20.com/games/dnd-5/feats/686-toque-feerico"
+  },
+  {
+    "name": "Toque Sombrío",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Tu exposición a la magia de Shadowfell te ha cambiado, otorgándote los siguientes beneficios:",
+    "description": "Aumenta tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes el conjuro Invisibilidad y un conjuro de nivel 1 de tu elección. El conjuro de nivel 1 debe ser de la es...",
+    "url": "https://nivel20.com/games/dnd-5/feats/692-toque-sombrio"
+  },
+  {
+    "name": "Triturador",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Tienes experiencia en el arte de triturar a tus enemigos, lo que te otorga los siguientes beneficios:",
+    "description": "Aumenta tu Fuerza o tu Constitución en 1, hasta un máximo de 20. Una vez por turno, cuando impactes a una criatura con un ataque que cause daño contundente, podrás moverla 5 pies hasta un espac...",
+    "url": "https://nivel20.com/games/dnd-5/feats/684-triturador"
+  },
+  {
+    "name": "Última Esperanza",
+    "source": "Manual Necrético",
+    "prerequisite": "Raza: Humano",
+    "description": "Tu gran apego a la vida y tu última fe en la salvación te salva de las situaciones mas dificiles. Una vez por descanso largo, tienes ventaja en las tiradas de salvación de muerte, y si te estabilizas, obtienes un d6 adicional para cualquier tirada una vez por turno, durante 3 turnos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7345-ultima-esperanza"
+  },
+  {
+    "name": "Un Paso Adelante",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Eres veloz y listo; no sólo puedes predecir los movimientos de tus enemigos, sino que también puedes actuar en consecuencia.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1407-un-paso-adelante"
+  },
+  {
+    "name": "Versado en las armas",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Aprendes dos maniobras a tu elección del arquetipo Maestro del Combate de la clase guerrero. La CD para resistir efectos será 8 + tu modificador por competencia + tu modificador por Fuerza o Destreza (tú eliges). Ganas un dado de supremacía (d6) para ejecutar maniobras por descanso corto o largo.",
+    "url": "https://nivel20.com/games/dnd-5/feats/395-versado-en-las-armas"
+  },
+  {
+    "name": "Versado en un elemento",
+    "source": "Manual del Jugador",
+    "prerequisite": "la capacidad de lanzar al menos un conjuro",
+    "description": "Elige uno de los siguientes tipos de daño: ácido, frío, fuego, relámpago o trueno. Los conjuros que lances ignoran la resistencia al daño del tipo elegido. Cuando tires el daño de uno de tus conjuros que inflija ese tipo de daño, puedes considerar cualquier 1 en los dados de daño como 2.",
+    "url": "https://nivel20.com/games/dnd-5/feats/396-versado-en-un-elemento"
+  },
+  {
+    "name": "Resistente",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tu puntuación de Constitución aumenta en 1, hasta un máximo de 20. Cuando tiras un Dado de Golpe para recuperar puntos de golpe, el número mínimo que recuperas con esta tirada es dos veces tu modificador por Constitución (como mínimo 2).",
+    "url": "https://nivel20.com/games/dnd-5/feats/392-resistente"
+  },
+  {
+    "name": "Revestimento Reforzado",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Forjado o ser semiconstructo. Ser de nivel mayor a 5",
+    "description": "Has conseguido mejorar tu cuerpo y ahora estás mucho mas preparado para la pelea. Obtienes los siguientes beneficios: Tu CA base aumenta en 1d4 permanentemente. Obtienes ventaja en las TS contra conjuros y efectos mentales y resistencia al daño psíquico.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1180-revestimento-reforzado"
+  },
+  {
+    "name": "Rey de la Selva",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Puedes infundir terror con un feroz rugido. las criaturas en un cono de 15 pies frente a ti deben realizar una TS de Sabiduría o quedar aterradas de ti, y huir todo su movimiento en dirección contraria a ti, la CD es de 10+ Bono de competencia + Mod. de Carisma.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7305-rey-de-la-selva"
+  },
+  {
+    "name": "Rompe Hechizos",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Tu tolerancia a la magia es notable y los conjuros no pueden mantenerte atado por mucho tiempo.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1426-rompe-hechizos"
+  },
+  {
+    "name": "Rompedor de Mentes",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un conjuro",
+    "description": "Tus encantamientos hacen mella en la mente de tus víctimas. La herida que dejas atrás es fácilmente reconocible por aquellos que saben dónde mirar.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1405-rompedor-de-mentes"
+  },
+  {
+    "name": "Sabueso",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Sabiduría 13 o mayor",
+    "description": "Tus sentidos agudos se elevan más allá de lo que cualquier persona podría tener. Puede que esos sentidos se eleven por medio de duro entrenamiento o por la pérdida de otros, o simplemente maduraron al igual que tú, obtienes los siguientes beneficios: Mientras estés consciente, siempre que una c...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1102-sabueso"
+  },
+  {
+    "name": "Sabueso",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Si pasas al menos 1 minuto en proximidad de una criatura, puedes memorizar su aroma lo que te otorga ciertos beneficios. Puedes usar tu acción adicional para percibir en un radio de 15 pies el estado de animo aproximado de una criatura a través de los aromas en el aire. Opcionalmente, también puedes",
+    "url": "https://nivel20.com/games/dnd-5/feats/1467-sabueso"
+  },
+  {
+    "name": "Sanador",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Al estabilizar a una criatura que está agonizando utilizando unos útiles de sanador, también recupera 1 PG. Como acción, puedes gastar uno de los usos de unos útiles de sanador para atender a una criatura y hacerla recuperar 1d6 + 4 + tantos PG como su número de Dados de Golpe máximos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/393-sanador"
+  },
+  {
+    "name": "Sangre de dragón",
+    "source": "Bóveda de secretos dracónicos de Fizban",
+    "prerequisite": "Tienes ascendencia dracónica. Escoge un tipo de dragón entre los disponibles en la tabla de ascendencias dracónicas. Ganas los siguientes beneficios:",
+    "description": "Incrementas tu puntuación de Fuerza o Constitución en 1, hasta un máximo de 20. Cuando tomas la acción de atacar en tu turno, puedes reemplazar u...",
+    "url": "https://nivel20.com/games/dnd-5/feats/11063-sangre-de-dragon"
+  },
+  {
+    "name": "Sangre Fría",
+    "source": "Crónicas de Urantia (En desarrollo)",
+    "prerequisite": "Sabiduría 15 o más",
+    "description": "Has visto los horrores más grande del mundo, te has adaptado a ellos y es por eso es que eres resistente al verlos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1147-sangre-fria"
+  },
+  {
+    "name": "Sanguinario",
+    "source": "Manual Necrético",
+    "prerequisite": "",
+    "description": "Si estas empuñando una arma cuerpo a cuerpo con la propiedad \"Dos manos\" puedes atacar a 2 criaturas que estén juntas y dentro de tu alcance. Si la tirada de ataque es suficiente para golpear a los 2 objetivos, la tirada de daño será igual para ambos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7343-sanguinario"
+  },
+  {
+    "name": "Segunda Oportunidad",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Mediano",
+    "description": "La fortuna te favorece cuando alguien intenta atacarte. Obtienes los beneficios siguientes: Tu puntuación de Carisma, Constitución o Destreza aumenta en 1, hasta un máximo de 20. Cuando una criatura que puedas ver te impacta con una tirada de ataque, puedes usar tu reacción para forzarla a repe...",
+    "url": "https://nivel20.com/games/dnd-5/feats/461-segunda-oportunidad"
+  },
+  {
+    "name": "Señuelo al Tacto",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Como rana, tu piel es de colores llamativos. Si una criatura realiza un ataque desarmado hacia ti, recibe daño por veneno igual a tu bono de Destreza. Además, cuentas con una lengua pegajosa y retráctil, la cual puedes usar para tomar objetos, como acción, realiza una tirada de ataque a distancia...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7295-senuelo-al-tacto"
+  },
+  {
+    "name": "Sexto Sentido",
+    "source": "Manual Necrético",
+    "prerequisite": "Alerta",
+    "description": "Tus instintos y tu análisis situacional están afinados hasta el punto de parecer sobrenaturales. Ganas los siguientes beneficios: Incrementa tu puntuación de Destreza o Inteligencia en 1, hasta un máximo de 20. Añade tu Bonificador de Inteligencia a tus tiradas de Iniciativa. A discreción de tu...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7486-sexto-sentido"
+  },
+  {
+    "name": "Sirena",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Adquieres la capacidad de respirar tanto en tierra como en agua. Tu velocidad de nado se duplica. Por semana, necesitas pasar al menos una hora sumergida en agua, sino sufrirás de deshidratación, tus PG máximos se verán reducidos 1d6 por cada hora que pase hasta que puedas rehidratarte. Puede...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7310-sirena"
+  },
+  {
+    "name": "Sobrecarga de Eidolon",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza: Forjado",
+    "description": "Tu alta capacidad energética puede surgir en cualquier momento. Como acción gratuita en tu turno, puedes escoger tener una acción bonus adicional en tu turno. Una vez que lo hagas, obtienes 1d2+1 niveles de agotamiento.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1100-sobrecarga-de-eidolon"
+  },
+  {
+    "name": "Soñador Despreocupado",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "4 Niveles en Explorador",
+    "description": "Cada vez que finalices un descanso corto, puedes recuperar un espacio de conjuro de tu elección si este es de al menos nivel 1 y de un nivel que puedas lanzar (Máximo nivel 3). Puedes sumar tu modificador de Sabiduría a tus dados de golpe a la hora de recuperarte durante descansos cortos.",
+    "url": "https://nivel20.com/games/dnd-5/feats/993-sonador-despreocupado"
+  },
+  {
+    "name": "Suerte Abundante",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Mediano",
+    "description": "Tu gente tiene una suerte extraordinaria, que has aprendido a ceder místicamente a tus compañeros cuando los ves flaquear. No sabes cómo lo haces: simplemente lo deseas y sucede. ¡Sin duda un signo de que la fortuna te favorece! Cuando un aliado que puedes ver y que se encuentre a 30 pies o menos...",
+    "url": "https://nivel20.com/games/dnd-5/feats/462-suerte-abundante"
+  },
+  {
+    "name": "Telepático",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Despiertas la capacidad de conectar mentalmente con los demás, lo que te concede los siguientes beneficios:",
+    "description": "Aumenta tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Puedes hablar telepáticamente con cualquier criatura que puedas ver a 60 pies o menos de ti. Hablas...",
+    "url": "https://nivel20.com/games/dnd-5/feats/696-telepatico"
+  },
+  {
+    "name": "Telequinético",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "Aprendes a mover cosas con tu mente, lo que te concede los siguientes beneficios:",
+    "description": "Aumenta tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes el truco Mano de mago. Puedes lanzarlo sin componentes verbales ni somáticos y puedes hacer invisible la mano espect...",
+    "url": "https://nivel20.com/games/dnd-5/feats/695-telequinetico"
+  },
+  {
+    "name": "Teletransportación Feérica",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Alto Elfo",
+    "description": "Tu estudio del conocimiento tradicional alto elfo ha liberado un poder feérico que pocos de tu raza poseen, excepto tus primos eladrines. Recurriendo a tu linaje feérico, puedes atravesar momentáneamente el Feywild para acortar tu trayecto entre un sitio y otro. Obtienes los beneficios siguientes...",
+    "url": "https://nivel20.com/games/dnd-5/feats/463-teletransportacion-feerica"
+  },
+  {
+    "name": "Tiburones",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Grande",
+    "description": "Adquieres la capacidad de respirar tanto en tierra como en agua. Tu velocidad de nado se triplica. Por semana, necesitas pasar al menos una hora sumergida en agua, sino sufrirás de deshidratación, tus PG máximos se verán reducidos 1d6 por cada hora que pase hasta que puedas rehidratarte. Tu pie...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7281-tiburones"
+  },
+  {
+    "name": "Tirador a Quemarropa",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Has estado en situaciones bastante estrechas y la falta de rango de tiro nunca evitó que seas capaz de hacer una buena cantidad de daño.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1409-tirador-a-quemarropa"
+  },
+  {
+    "name": "Tirador Bajito",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Solo razas pequeñas",
+    "description": "Puedes sumar tu MOD de Fuerza a tus tiradas de ataque y daño que realices durante tu turno con una Honda. Usa tu acción adicional para atacar con tu honda después de atacar con esta usando tu acción. Usa tu reacción para atacar a una criatura a 15 pies la cual haga una tirada de ataque a distancia.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1466-tirador-bajito"
+  },
+  {
+    "name": "Tirador de primera",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "No tienes desventaja en las tiradas de ataque con armas a distancia a alcance largo. Tus ataques con armas a distancia ignoran las coberturas media y tres cuartos. Con un arma a distancia y competencia, antes de atacar puedes elegir tener -5 al ataque y +10 al daño.",
+    "url": "https://nivel20.com/games/dnd-5/feats/394-tirador-de-primera"
+  },
+  {
+    "name": "9 Vidas",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Un gato siempre cae en sus 4 patas. Si eres derribado, puedes utilizar tu reacción para estabilizarte y permanecer de pie. Al caer de gran altura, realiza una TS de Destreza para controlar el daño de una caída, si tienes éxito, nulificas por completo el daño, en un fallo, recibes la mitad del dañ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7306-9-vidas"
+  },
+  {
+    "name": "Acechador",
+    "source": "Manual del Jugador",
+    "prerequisite": "Destreza 13",
+    "description": "Puedes intentar esconderte simplemente con estar en una zona ligeramente oscura. No revelas tu posición al fallar un ataque con arma a distancia estando escondido. La luz tenue no te provoca desventaja en las pruebas de Sabiduría (Percepción) que dependen de la vista.",
+    "url": "https://nivel20.com/games/dnd-5/feats/356-acechador"
+  },
+  {
+    "name": "Acróbata",
+    "source": "Manual Necrético",
+    "prerequisite": "Destreza 15 o superior",
+    "description": "Tu Destreza excepcional te vuelve increíblemente difícil de golpear. Ganas los siguientes beneficios: Incrementa tu puntuación de Destreza, hasta un máximo de 20. Cuando un ataque que puedes ver acierta contra ti, puedes usar tu reacción para realizar una prueba de habilidad de Destreza (Acrob...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7485-acrobata"
+  },
+  {
+    "name": "Actor",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tienes ventaja en las pruebas de Engaño e Interpretación que hagas para hacerte pasar por otra persona. Puedes imitar el habla de otra persona o los sonidos que hacen otras criaturas. Superar una prueba de Sabiduría (Perspicacia) enfrentada a tu prueba de Carisma (Engaño) revelará el engaño.",
+    "url": "https://nivel20.com/games/dnd-5/feats/357-actor"
+  },
+  {
+    "name": "Adaptarse a la Oscuridad",
+    "source": "Manual Necrético",
+    "prerequisite": "Raza: Humano",
+    "description": "No podrás ver en la oscuridad pero de la vista no siempre se puede depender. Utilizando el oido, tienes ventaja en las Tirasas de Salvación de Destreza al estar en la oscuridad, y te permites oir todo lo que esta a tu alrededor, todo lo que genere ruido, en un rango de la mitad de tu movimiento.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7347-adaptarse-a-la-oscuridad"
+  },
+  {
+    "name": "Adepto a la Danza",
+    "source": "Manual Necrético",
+    "prerequisite": "Mínimo de 13 en Destreza y Carisma",
+    "description": "Tu práctica en las artes de la danza y la música te ha otorgado los siguientes beneficios: Aumenta tu puntuación de Destreza o Carisma en 1, hasta un máximo de 20. Obtienes proficiencia en la habilidad de Acrobacias o Interpretación, a tu elección. Obtienes 2 usos de la característica Baile y a...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7364-adepto-a-la-danza"
+  },
+  {
+    "name": "Adepto cromático",
+    "source": "Bóveda de secretos dracónicos de Fizban",
+    "prerequisite": "Te has entrenado en magia de evocación menor, ganando los beneficios siguientes:",
+    "description": "Incrementa tu puntuación de Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20. Aprendes el truco saeta cromática y un conjuro de nivel 1 de tu elección. El conjuro debe de pertenecer a la escuela de evo...",
+    "url": "https://nivel20.com/games/dnd-5/feats/11061-adepto-cromatico"
+  },
+  {
+    "name": "Adepto Marcial",
+    "source": "Manual Necrético",
+    "prerequisite": "Fuerza o Destreza de 13 o superior",
+    "description": "Tienes entrenamiento marcial que te permite realizar maniobras de combate especiales. Obtienes los siguientes beneficios: Si ya tienes dados de superioridad, obtienes dos adicionales; de lo contrario, tienes dos dados de superioridad, que son d4. Consulta la función de Superioridad Marcial del ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7353-adepto-marcial"
+  },
+  {
+    "name": "Adepto Metamágico",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "rasgo Lanzamiento de Conjuros o Magia del Pacto",
+    "description": "Has aprendido a ejercer tu voluntad sobre tus conjuros para modificar el modo en que funcionan: Aprendes dos opciones de Metamagia de tu elección escogidas de entre las de la clase hechicero. Solo puedes usar una opción de Metamagia en un conjuro cuando lo lanzas, a menos que dicha opción diga ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/689-adepto-metamagico"
+  },
+  {
+    "name": "Adepto Sobrenatural",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "rasgo Lanzamiento de Conjuros o Magia del Pacto",
+    "description": "Gracias al estudio de conocimientos ocultos, has liberado un poder sobrenatural en tu interior: aprendes una opción de Invocación Sobrenatural de tu elección de la clase brujo. Si la invocación tiene requisitos de cualquier tipo, solo podrás elegirla si eres un brujo que los cumpla. Siempre que ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/685-adepto-sobrenatural"
+  },
+  {
+    "name": "Adorable",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Pequeña",
+    "description": "Eres característicamente tierno como un Hámster o extrañamente agradable como un capibara, obtienes ventaja en pruebas de habilidad de Persuasión.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7290-adorable"
+  },
+  {
+    "name": "Aficionado Nigromante",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Lanzador de conjuros o Pacto de magia",
+    "description": "Siempre que lances un conjuro de la escuela de Nigromancia de nivel 1 o superior obtienes tantos puntos de golpe temporales como tu bonif por competencia + nivel del conjuro. Una vez por descansó prolongado, puedes usar esta dote para lanzar un conjuro de nigromancia que conozcas o tengas preparado.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1432-aficionado-nigromante"
+  },
+  {
+    "name": "Afinidad Acuática",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Obtienes una velocidad de nado de 30 pies. Puedes aguantar la respiración por 10 minutos adicionales a tu tiempo normal (Acorde al Manual del Jugador PG 183).",
+    "url": "https://nivel20.com/games/dnd-5/feats/1156-afinidad-acuatica"
+  },
+  {
+    "name": "Afortunado",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tienes 3 puntos de suerte, que recuperas tras un descanso largo. Puedes gastar 1 punto de suerte después de hacer una tirada de ataque, prueba de característica o TS o de que se haga una tirada de ataque contra ti. Puedes tirar 1d20 adicional y elegir cuál de los dos dados determina el resultado.",
+    "url": "https://nivel20.com/games/dnd-5/feats/358-afortunado"
+  },
+  {
+    "name": "Agente Veloz",
+    "source": "Manual Necrético",
+    "prerequisite": "Destreza 15 o superior",
+    "description": "Es mejor saber cuándo tomar qué acciones, y la economía de las acciones es un juego que entiendes. Ganas los siguientes beneficios: En tu turno, puedes renunciar a tu acción para tomar una acción adicional más, o para incrementar tu velocidad de movimiento tanto como la mitad de sí misma. En tu...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7484-agente-veloz"
+  },
+  {
+    "name": "Agilidad de los Bajitos",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Enano o raza Pequeña",
+    "description": "Eres extrañamente ágil para tu raza. Obtienes los beneficios siguientes: Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. Tu velocidad caminando aumenta en 5 pies. Consigues competencia en la habilidad Acrobacias o Atletismo, a tu elección. Tienes ventaja en cualquier ti...",
+    "url": "https://nivel20.com/games/dnd-5/feats/449-agilidad-de-los-bajitos"
+  },
+  {
+    "name": "Agilidad Distante",
+    "source": "Manual Necrético",
+    "prerequisite": "Destreza 14",
+    "description": "Al realizar un ataque a distancia con un arma de munición y que no tenga la propiedad \"De carga\" tu gran destreza te permite atacar a un mismo enemigo 2 veces en una acción, solo se puede realizar una vez por turno.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7344-agilidad-distante"
+  },
+  {
+    "name": "Aikido",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Destreza 13 o mayor",
+    "description": "Has dominado esquivar golpes individuales de tus oponentes mientras estás en combate. Tienes los siguientes beneficios: Aumenta tu puntuación de Destreza en 1, hasta un máximo de 20. Cuando seas el objetivo de un ataque cuerpo a cuerpo, puedes usar tu reacción para lanzar a tu atacante. Haz un...",
+    "url": "https://nivel20.com/games/dnd-5/feats/1179-aikido"
+  },
+  {
+    "name": "Alborotador",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Posees unos puños de hierro, y tus enemigos no olvidarán eso tan pronto.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1377-alborotador"
+  },
+  {
+    "name": "Alerta",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Siempre estás atento al peligro. Ganas un bonificador de +5 a la iniciativa. Mientras estés consciente no puedes ser sorprendido. Las criaturas que te ataquen sin que puedas verlas no reciben ventaja en sus tiradas de ataque por este motivo.",
+    "url": "https://nivel20.com/games/dnd-5/feats/359-alerta"
+  },
+  {
+    "name": "Aliento de dragón intensificado",
+    "source": "Draconomicon",
+    "prerequisite": "Draconido",
+    "description": "Tu poder dracónico interior se ve amplificado mejorando las capacidades de tu arma de aliento.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1839-aliento-de-dragon-intensificado"
+  },
+  {
+    "name": "Alta Magia Drow",
+    "source": "Guia del Xanathar para todo",
+    "prerequisite": "Elfo (Drow)",
+    "description": "Asimilas más de la magia típica de los elfos oscuros. Aprendes el conjuro de detectar magia y puedes lanzarlo a voluntad, sin gastar un espacio de conjuro. También adquieres levitar y disipar magia, cada uno de los cuales puedes utilizar una vez sin emplear un espacio de conjuro. Recuperas la cap...",
+    "url": "https://nivel20.com/games/dnd-5/feats/450-alta-magia-drow"
+  },
+  {
+    "name": "Alto Voltaje",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Nivel 4 o Superior",
+    "description": "Una vez por turno, cuando inflijas daño por relámpago a una criatura, lanza un d20. Si el resultado es un 20 tu objetivo es \"Paralizado\" hasta el el final de su siguiente turno.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1149-alto-voltaje"
+  },
+  {
+    "name": "Amigo de lo Salvaje",
+    "source": "Manual Necrético",
+    "prerequisite": "Sabiduría 14 o superior",
+    "description": "Tu presencia tranquilizante te permite comunicarte incluso con la más salvaje de las bestias. Ganas los siguientes beneficios: Obtienes un bonificador de +5 a tus pruebas de habilidad de Sabiduría (Trato con animales). Puedes comunicarte con las bestias mediante señas y sonidos. Como acción en ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7392-amigo-de-lo-salvaje"
+  },
+  {
+    "name": "Anticipación",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "",
+    "description": "Te tornas inmune al daño extra de golpes críticos provenientes de armas a distancia. Una vez en cada uno de tus turnos, puedes sumar 1d4 a una tirada de ataque de arma con la propiedad \"Distancia\" o \"Alcance\".",
+    "url": "https://nivel20.com/games/dnd-5/feats/994-anticipacion"
+  },
+  {
+    "name": "Iniciado dracónico",
+    "source": "Bóveda de secretos dracónicos de Fizban",
+    "prerequisite": "Has estudiado a los dragones de forma extensiva, ganando los siguientes beneficios:",
+    "description": "Aprendes el lenguaje dracónico, u otro lenguaje de tu elección si ya lo conocías. Ganas competencia en una de las siguientes habilidades de tu elección: arcanos, engañar, historia, perspicacia, intimidación o pe...",
+    "url": "https://nivel20.com/games/dnd-5/feats/11062-iniciado-draconico"
+  },
+  {
+    "name": "Iniciado en Combate",
+    "source": "Caldero de Tasha para todo",
+    "prerequisite": "competencia con un arma marcial",
+    "description": "Tu entrenamiento marcial te ha ayudado a desarrollar un estilo de combate particular. Como resultado, aprendes una opción de Estilo de Combate de tu elección de la clase guerrero. Si ya tienes un estilo, el que elijas debe ser diferente. Cuando alcanzas un nivel que otorga el rasgo Mejora de Car...",
+    "url": "https://nivel20.com/games/dnd-5/feats/687-iniciado-en-combate"
+  },
+  {
+    "name": "Iniciado en el Sable Demoniaco",
+    "source": "Manual Necrético",
+    "prerequisite": "No tener ningún nivel en Demonólogo",
+    "description": "Has aprendido a emplear los Sables Demoniacos que utilizan los Demonólogos, y aunque no seas uno de ellos, conoces algunos de sus trucos. Ganas los siguientes beneficios: Tu puntuación de Carisma aumenta en 1, hasta un máximo de 20. Adquieres un Sable Demoniaco y decide cuál será su elemento: F...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7463-iniciado-en-el-sable-demoniaco"
+  },
+  {
+    "name": "Iniciado en el Sable Elemental",
+    "source": "Manual Necrético",
+    "prerequisite": "No tener ningún nivel en Elementalista",
+    "description": "Has aprendido a emplear los Sables Elementales que utilizan los Elementalistas, y aunque no seas uno de ellos, conoces algunos de sus trucos. Ganas los siguientes beneficios: Tu puntuación de Inteligencia aumenta en 1, hasta un máximo de 20. Adquieres un Sable Elemental y decide cuál será su el...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7462-iniciado-en-el-sable-elemental"
+  },
+  {
+    "name": "Iniciado en la Hemomancia",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Has comenzado a explorar los secretos de la hemomancia, y tu propia sangre responde a tu voluntad. Ganas los siguientes beneficios:",
+    "description": "Trucos de hemomancia: Elige dos trucos de la Lista de Conjuros del Hemomante. Puedes lanzarlos a voluntad. La tirada de ataque y la CD de salvación de estos trucos...",
+    "url": "https://nivel20.com/games/dnd-5/feats/15114-iniciado-en-la-hemomancia"
+  },
+  {
+    "name": "Iniciado en la magia",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Elige una clase: bardo, brujo, clérigo, druida, hechicero o mago. Aprendes dos trucos de tu elección escogidos de la lista de conjuros de esa clase. También un conjuro de nivel 1, que puedes lanzar a su nivel más bajo una vez por descanso prolongado. La aptitud mágica depende de la clase elegida.",
+    "url": "https://nivel20.com/games/dnd-5/feats/372-iniciado-en-la-magia"
+  },
+  {
+    "name": "Iniciado en la magia de sangre",
+    "source": "Manual del Guarda Gris para Thedas",
+    "prerequisite": "",
+    "description": "Aprendes dos trucos y un conjuro de nivel 1 de tu elección de entre los de la lista de conjuros de mago de sangre. Podrás emplear esta dote para lanzar una vez el conjuro a su nivel más bajo. Deberás finalizar un descanso largo para poder lanzarlo otra vez.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7342-iniciado-en-la-magia-de-sangre"
+  },
+  {
+    "name": "Insomne",
+    "source": "Manual Necrético",
+    "prerequisite": "Has pasado muchas noches en vela, ganando los siguientes beneficios:",
+    "description": "Incrementa tu puntuación de Inteligencia o Sabiduría en 1, hasta un máximo de 20. Durante un descanso largo, puedes pasar hasta 4 horas realizando tareas ligeras como leer, conversar, comer o hacer guardia. Cuando sufras de ag...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7312-insomne"
+  },
+  {
+    "name": "Instinto de Horda",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "No-Muerto Inferior (Zombie)",
+    "description": "Como reacción, si una criatura amistosa que puedas ver utiliza su movimiento en un radio de 10 pies de ti, puedes moverte hasta 20 pies en una dirección que elijas. Infliges el doble de daño a objetos y estructuras.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1050-instinto-de-horda"
+  },
+  {
+    "name": "Juramento Reforzado",
+    "source": "Manual Necrético",
+    "prerequisite": "Tener al menos 3 niveles en Paladín",
+    "description": "Ganas los siguientes beneficios: Incrementa tu puntuación de Carisma en 1, hasta un máximo de 20. Puedes utilizar Canalizar divinidad una vez más entre descansos",
+    "url": "https://nivel20.com/games/dnd-5/feats/7279-juramento-reforzado"
+  },
+  {
+    "name": "Ladrón en la Sombra",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Has firmado un pacto con los entes de la Oscuridad o el Vacío. Ellos te dan poder, tú les entregas las almas de tus víctimas.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1420-ladron-en-la-sombra"
+  },
+  {
+    "name": "Lancero",
+    "source": "Multiverso Conocido",
+    "prerequisite": "",
+    "description": "Puedes realizar rápidos y precisos pinchazos con lanzas que a menudo dejan a tus oponentes con la guardia baja.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1425-lancero"
+  },
+  {
+    "name": "Lanzador del Relámpago",
+    "source": "Multiverso Conocido",
+    "prerequisite": "La habilidad para lanzar al menos un truco",
+    "description": "Tu estilo de fuego rápido para lanzar te permite tejer la magia a una velocidad asombrosa, otorgándote el siguiente beneficio: Siempre que lances un truco que sólo afecte a un enemigo, puedes usar tu acción adicional para intentar acertarle a dos enemigos que estén a 5 pies el uno del otro.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1103-lanzador-del-relampago"
+  },
+  {
+    "name": "Lanzador en combate",
+    "source": "Manual del Jugador",
+    "prerequisite": "la capacidad de lanzar al menos un conjuro",
+    "description": "Tienes ventaja en las TS de Constitución para mantener la concentración al recibir daño. Puedes ejecutar los componentes somáticos incluso empuñando armas o escudo en ambas manos. Puedes lanzar un conjuro (con tiempo de lanzamiento 1 acción y objetivo una única criatura) como ataque de oportunidad.",
+    "url": "https://nivel20.com/games/dnd-5/feats/373-lanzador-en-combate"
+  },
+  {
+    "name": "Lanzador Móvil",
+    "source": "Manual Necrético",
+    "prerequisite": "La capacidad de lanzar al menos 1 conjuro",
+    "description": "Inmediatamente después de lanzar un conjuro de nivel 1 o superior, puedes moverte hasta la mitad de tu velocidad sin gastar tu movimiento.",
+    "url": "https://nivel20.com/games/dnd-5/feats/7320-lanzador-movil"
+  },
+  {
+    "name": "Lanzador Obstinado",
+    "source": "Manual Necrético",
+    "prerequisite": "La capacidad de lanzar al menos 1 conjuro",
+    "description": "Sin importar lo mucho que intenten detenerte, tienes éxito al momento de lanzar un conjuro. Cuando un conjuro de nivel 5 o inferior que lances sea contrarrestado (con Contrahechizo o similares) en el turno en el que lo lanzas, puedes lanzar un conjuro de nivel inferior que tenga el mismo tiempo ...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7297-lanzador-obstinado"
+  },
+  {
+    "name": "Lanzador preciso",
+    "source": "Manual del Jugador",
+    "prerequisite": "la capacidad de lanzar al menos un conjuro",
+    "description": "Cuando lances un conjuro que precise de una tirada de ataque, su alcance se duplica e ignora cobertura media y tres cuartos. Aprendes un truco que requiera de una tirada de ataque. Escógelo de entre las listas de bardo, brujo, clérigo, druida, hechicero o mago.",
+    "url": "https://nivel20.com/games/dnd-5/feats/374-lanzador-preciso"
+  },
+  {
+    "name": "Lanzador ritual",
+    "source": "Manual del Jugador",
+    "prerequisite": "Inteligencia 13; o Sabiduría 13",
+    "description": "Elige una clase: bardo, brujo, clérigo, druida, hechicero o mago. Tienes un libro que comienza con dos conjuros de nivel 1 de tu elección de esa clase que puedes lanzar como rituales. Puedes añadir a tu libro otros conjuros que estén escritos (en libro o pergamino) gastando 2 horas y 50 po.",
+    "url": "https://nivel20.com/games/dnd-5/feats/375-lanzador-ritual"
+  },
+  {
+    "name": "Lazo Generoso",
+    "source": "Multiverso Conocido",
+    "prerequisite": "Raza Holstaur Arcadiano",
+    "description": "Eres fuente de vida. Sin embargo, por encima de todo, aprendiste a transferir tu propia vitalidad a los necesitados.",
+    "url": "https://nivel20.com/games/dnd-5/feats/1756-lazo-generoso"
+  },
+  {
+    "name": "Legendario Señor de las Bestias",
+    "source": "Diario del Explorador Errante",
+    "prerequisite": "Sabiduría 13 o más",
+    "description": "Aprendes el conjuro \"Hablar con los animales\" el cual puedes lanzar un numero de veces igual a tu modificador por Sabiduría (Mínimo 1) sin usar un espacio de conjuro. Deberás terminar un descanso corto o prolongado para recuperar todos los usos gastados. Obtienes competencia en Trato con Animales.",
+    "url": "https://nivel20.com/games/dnd-5/feats/996-legendario-senor-de-las-bestias"
+  },
+  {
+    "name": "Líder de la Manada",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Tus habilidades de liderazgo son excepcionales, ya seas el líder de la manada de lobos, o de un grupo de perros callejeros, tras impactar un ataque, puedes ordenar a un compañero que ataque a la criatura que estás atacando. Obtienes ventaja en pruebas de habilidad de Persuasión",
+    "url": "https://nivel20.com/games/dnd-5/feats/7303-lider-de-la-manada"
+  },
+  {
+    "name": "Líder inspirador",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Invierte 10 minutos en inspirar a tus compañeros para luchar. Hasta a 6 criaturas amistosas a 30 pies o menos que puedan verte u oírte y entenderte. Cada uno recibe tantos PG temporales como tu nivel + tu modificador de carisma. Para volver a recibir los PG temporales de esta dote se debe descansar.",
+    "url": "https://nivel20.com/games/dnd-5/feats/376-lider-inspirador"
+  },
+  {
+    "name": "Ligeramente acorazado",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Tu puntuación de Fuerza o Destreza aumenta en 1, hasta un máximo de 20. Ganas competencia con armaduras ligeras.",
+    "url": "https://nivel20.com/games/dnd-5/feats/377-ligeramente-acorazado"
+  },
+  {
+    "name": "Ligón",
+    "source": "Manual Necrético",
+    "prerequisite": "Subraza: Bestia Mediana",
+    "description": "Puedes deslizarte como Pingüino ante cualquier oportunidad de seducción. Obtienes ventaja en pruebas de Habilidad de Persuasión. Además, puedes sumar tu Mod de Carisma una vez más, si estás ofreciendo un regalo, ya sea un anillo de compromiso, o una piedra bonita. Adquieres la capacidad de respir...",
+    "url": "https://nivel20.com/games/dnd-5/feats/7309-ligon"
+  },
+  {
+    "name": "Lingüista",
+    "source": "Manual del Jugador",
+    "prerequisite": "",
+    "description": "Has estudiado idiomas y códigos. Tu puntuación de Inteligencia aumenta en 1, hasta un máximo de 20. Aprendes tres idiomas de tu elección. Eres capaz de inventar códigos para cifrar mensajes escritos. Se pueden descifrar si enseñas cómo, superando una prueba de Inteligencia o con magia.",
+    "url": "https://nivel20.com/games/dnd-5/feats/378-linguista"
+  }
+]
