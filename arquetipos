@@ -1,0 +1,4641 @@
+[[
+  {
+    "name": "Dominio del conocimiento",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (341).html"
+  },
+  {
+    "name": "Dominio del Crepúsculo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (342).html"
+  },
+  {
+    "name": "Dominio del Dolor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (343).html"
+  },
+  {
+    "name": "Dominio del Dolor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (344).html"
+  },
+  {
+    "name": "Dominio del dragon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (345).html"
+  },
+  {
+    "name": "Dominio del Dragón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (346).html"
+  },
+  {
+    "name": "Dominio del engaño",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (347).html"
+  },
+  {
+    "name": "Dominio del Exorcismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (348).html"
+  },
+  {
+    "name": "Dominio del Orden",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (349).html"
+  },
+  {
+    "name": "Dominio del Orden",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (350).html"
+  },
+  {
+    "name": "Dominio del Pesar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (351).html"
+  },
+  {
+    "name": "Dominio del Pesar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (352).html"
+  },
+  {
+    "name": "Dominio del Sacrificio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (353).html"
+  },
+  {
+    "name": "Dominio del Sacrificio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (354).html"
+  },
+  {
+    "name": "Dominio del Tiempo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (355).html"
+  },
+  {
+    "name": "Dominio del Tiempo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (356).html"
+  },
+  {
+    "name": "Dominio del Vacío",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (357).html"
+  },
+  {
+    "name": "Dominio del Vacío Eterno",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (358).html"
+  },
+  {
+    "name": "Dominio Olvidado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (359).html"
+  },
+  {
+    "name": "Dominio: Serpiente Emplumada",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (360).html"
+  },
+  {
+    "name": "Domino del Océano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (361).html"
+  },
+  {
+    "name": "Domino del Sacrificio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (362).html"
+  },
+  {
+    "name": "Duelista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (363).html"
+  },
+  {
+    "name": "Ejecutor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (364).html"
+  },
+  {
+    "name": "Ejemplar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (365).html"
+  },
+  {
+    "name": "El Árbol de la Muerte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (366).html"
+  },
+  {
+    "name": "El Baron Samedi",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (367).html"
+  },
+  {
+    "name": "El Buscador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (368).html"
+  },
+  {
+    "name": "El Camino Invisible",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (369).html"
+  },
+  {
+    "name": "El celestial",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (370).html"
+  },
+  {
+    "name": "El Corrupto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (371).html"
+  },
+  {
+    "name": "El Cronoide",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (372).html"
+  },
+  {
+    "name": "El Dragon anciano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (373).html"
+  },
+  {
+    "name": "El Dragón Astral",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (374).html"
+  },
+  {
+    "name": "El Encadenado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (375).html"
+  },
+  {
+    "name": "El Espectador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (376).html"
+  },
+  {
+    "name": "El Espíritu de Venganza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (377).html"
+  },
+  {
+    "name": "El Estricto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (378).html"
+  },
+  {
+    "name": "El Excéntrico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (379).html"
+  },
+  {
+    "name": "El Fantasma en la Máquina",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (380).html"
+  },
+  {
+    "name": "El Filo Maléfico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (381).html"
+  },
+  {
+    "name": "El Genio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (382).html"
+  },
+  {
+    "name": "El Gran Wyrm",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (383).html"
+  },
+  {
+    "name": "El Insondable",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (384).html"
+  },
+  {
+    "name": "El Instituto Phavian",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (385).html"
+  },
+  {
+    "name": "El Kappa",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (386).html"
+  },
+  {
+    "name": "El Leviatán",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (387).html"
+  },
+  {
+    "name": "El Licántropo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (388).html"
+  },
+  {
+    "name": "El Loa",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (389).html"
+  },
+  {
+    "name": "El Maestro Dragon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (390).html"
+  },
+  {
+    "name": "El Magnum Innominandum",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (391).html"
+  },
+  {
+    "name": "El Místico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (392).html"
+  },
+  {
+    "name": "El Muerto Viviente",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (393).html"
+  },
+  {
+    "name": "El No Muerto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (394).html"
+  },
+  {
+    "name": "El Parásito",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (395).html"
+  },
+  {
+    "name": "El Primer Vampiro",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (396).html"
+  },
+  {
+    "name": "El Primigenio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (397).html"
+  },
+  {
+    "name": "El Protector",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (398).html"
+  },
+  {
+    "name": "El Recolector de Almas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (399).html"
+  },
+  {
+    "name": "El Retrato",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (400).html"
+  },
+  {
+    "name": "El Señor Feérico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (401).html"
+  },
+  {
+    "name": "El Soberano de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (402).html"
+  },
+  {
+    "name": "El Vacío Cósmico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (403).html"
+  },
+  {
+    "name": "El Yokai",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (404).html"
+  },
+  {
+    "name": "Electromancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (405).html"
+  },
+  {
+    "name": "Embaucador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (406).html"
+  },
+  {
+    "name": "Embaucador arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (407).html"
+  },
+  {
+    "name": "Embrujado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (408).html"
+  },
+  {
+    "name": "Embustero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (409).html"
+  },
+  {
+    "name": "Emisario de los Cuervos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (410).html"
+  },
+  {
+    "name": "Emisario Planar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (411).html"
+  },
+  {
+    "name": "Enfermera",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (412).html"
+  },
+  {
+    "name": "Enlace Espiritual del Asesino",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (413).html"
+  },
+  {
+    "name": "Enlace Espiritual del Caballero del Abismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (414).html"
+  },
+  {
+    "name": "Enlace Espiritual del Mago Oscuro",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (415).html"
+  },
+  {
+    "name": "Enlace Espiritual del Monarca",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (416).html"
+  },
+  {
+    "name": "Enlace Espiritual del Observador Azul",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (417).html"
+  },
+  {
+    "name": "Enlace Espiritual del Primitivo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (418).html"
+  },
+  {
+    "name": "Enlace Espiritual del Saqueador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (419).html"
+  },
+  {
+    "name": "Enlace Espiritual del Segador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (420).html"
+  },
+  {
+    "name": "Ente cautivado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (421).html"
+  },
+  {
+    "name": "Envenenador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (422).html"
+  },
+  {
+    "name": "Épico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (423).html"
+  },
+  {
+    "name": "Errante Feérico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (424).html"
+  },
+  {
+    "name": "Erudito Dracónico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (425).html"
+  },
+  {
+    "name": "Escriba del Jeroglífico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (426).html"
+  },
+  {
+    "name": "Escuderas de Freya",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (427).html"
+  },
+  {
+    "name": "Escudero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (428).html"
+  },
+  {
+    "name": "Escudo de los lamentos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (429).html"
+  },
+  {
+    "name": "Escuela de abjuración",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (430).html"
+  },
+  {
+    "name": "Escuela de adivinación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (431).html"
+  },
+  {
+    "name": "Escuela de Anatomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (432).html"
+  },
+  {
+    "name": "Escuela de Cadenas Malditas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (433).html"
+  },
+  {
+    "name": "Escuela de conjuración",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (434).html"
+  },
+  {
+    "name": "Escuela de encantamiento",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (435).html"
+  },
+  {
+    "name": "Escuela de evocación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (436).html"
+  },
+  {
+    "name": "Escuela de ilusión",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (437).html"
+  },
+  {
+    "name": "Escuela de la Antigüedad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (438).html"
+  },
+  {
+    "name": "Escuela de la Cronomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (439).html"
+  },
+  {
+    "name": "Escuela de la Determinación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (440).html"
+  },
+  {
+    "name": "Escuela de la Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (441).html"
+  },
+  {
+    "name": "Escuela de la Inspiración",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (442).html"
+  },
+  {
+    "name": "Escuela de la Replica",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (443).html"
+  },
+  {
+    "name": "Escuela de la Sabiduría",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (444).html"
+  },
+  {
+    "name": "Escuela de la Sangromancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (445).html"
+  },
+  {
+    "name": "Escuela de la Semántica",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (446).html"
+  },
+  {
+    "name": "Escuela de la serpiente",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (447).html"
+  },
+  {
+    "name": "Escuela de la Teoría Arcana",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (448).html"
+  },
+  {
+    "name": "Escuela de la Teurgía",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (449).html"
+  },
+  {
+    "name": "Escuela de las cartas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (450).html"
+  },
+  {
+    "name": "Escuela de las explosiones",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (451).html"
+  },
+  {
+    "name": "Escuela de los Artesanos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (452).html"
+  },
+  {
+    "name": "Escuela de los Escribas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (453).html"
+  },
+  {
+    "name": "Escuela de nigromancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (454).html"
+  },
+  {
+    "name": "Escuela de transmutación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (455).html"
+  },
+  {
+    "name": "Escuela del buho",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (456).html"
+  },
+  {
+    "name": "Escuela del Códice Prohibido",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (457).html"
+  },
+  {
+    "name": "Escuela del gato",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (458).html"
+  },
+  {
+    "name": "Escuela del grifo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (459).html"
+  },
+  {
+    "name": "Escuela del lobo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (460).html"
+  },
+  {
+    "name": "Escuela del oso",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (461).html"
+  },
+  {
+    "name": "Escuela del Velo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (462).html"
+  },
+  {
+    "name": "Esgrimago",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (463).html"
+  },
+  {
+    "name": "Espadachín",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (464).html"
+  },
+  {
+    "name": "Especialista en suministros",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (465).html"
+  },
+  {
+    "name": "Espectro Azul",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (466).html"
+  },
+  {
+    "name": "Espectros del Tiempo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (467).html"
+  },
+  {
+    "name": "Espectros del Tiempo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (468).html"
+  },
+  {
+    "name": "Espía Asesino",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (469).html"
+  },
+  {
+    "name": "Espía con Estilo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (470).html"
+  },
+  {
+    "name": "Espía Engañador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (471).html"
+  },
+  {
+    "name": "Espía Especialista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (472).html"
+  },
+  {
+    "name": "Espíritu Mortal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (473).html"
+  },
+  {
+    "name": "Estafador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (474).html"
+  },
+  {
+    "name": "Estratega",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (475).html"
+  },
+  {
+    "name": "Fantasma",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (476).html"
+  },
+  {
+    "name": "Faraón de Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (477).html"
+  },
+  {
+    "name": "Fénix",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (478).html"
+  },
+  {
+    "name": "Fénix",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (479).html"
+  },
+  {
+    "name": "Filo Carmesí",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (480).html"
+  },
+  {
+    "name": "Filo Estelar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (481).html"
+  },
+  {
+    "name": "Forajido",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (482).html"
+  },
+  {
+    "name": "Forastero del Alba",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (483).html"
+  },
+  {
+    "name": "Fotomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (484).html"
+  },
+  {
+    "name": "Francotirador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (485).html"
+  },
+  {
+    "name": "Frenesí de la Hidra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (486).html"
+  },
+  {
+    "name": "Frenesí de la Hydra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (487).html"
+  },
+  {
+    "name": "Frontline",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (488).html"
+  },
+  {
+    "name": "Fusión Espiritual",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (489).html"
+  },
+  {
+    "name": "Ganesha",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (490).html"
+  },
+  {
+    "name": "Gemólogo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (491).html"
+  },
+  {
+    "name": "Genetista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (492).html"
+  },
+  {
+    "name": "Geomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (493).html"
+  },
+  {
+    "name": "Geomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (494).html"
+  },
+  {
+    "name": "Gobierno",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (495).html"
+  },
+  {
+    "name": "Grim Reaper",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (496).html"
+  },
+  {
+    "name": "Guardaenjambres",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (497).html"
+  },
+  {
+    "name": "Guardian de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (498).html"
+  },
+  {
+    "name": "Guardian de la Tierra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (499).html"
+  },
+  {
+    "name": "Guardian del Agua",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (500).html"
+  },
+  {
+    "name": "Guardian del Fuego",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (501).html"
+  },
+  {
+    "name": "Guardian del Rayo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (502).html"
+  },
+  {
+    "name": "Guardian del Viento",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (503).html"
+  },
+  {
+    "name": "Guardián Espiritual",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (504).html"
+  },
+  {
+    "name": "Guerrero Baluarte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (505).html"
+  },
+  {
+    "name": "Hada Buena",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (506).html"
+  },
+  {
+    "name": "Halcón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (507).html"
+  },
+  {
+    "name": "Hechicer",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (508).html"
+  },
+  {
+    "name": "Hechicería de la Piedra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (509).html"
+  },
+  {
+    "name": "Hechicería de Tormenta",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (510).html"
+  },
+  {
+    "name": "Hechicería del Mar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (511).html"
+  },
+  {
+    "name": "Hechicería del Mercurio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (512).html"
+  },
+  {
+    "name": "Heimdallr",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (513).html"
+  },
+  {
+    "name": "Hemomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (514).html"
+  },
+  {
+    "name": "Hereje",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (515).html"
+  },
+  {
+    "name": "Hereje Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (516).html"
+  },
+  {
+    "name": "Héroe errante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (517).html"
+  },
+  {
+    "name": "Héroe Legendario",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (518).html"
+  },
+  {
+    "name": "Herrero de batalla",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (519).html"
+  },
+  {
+    "name": "Herrero de Combate",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (520).html"
+  },
+  {
+    "name": "Hidra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (521).html"
+  },
+  {
+    "name": "Hidromancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (522).html"
+  },
+  {
+    "name": "Hipnotista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (523).html"
+  },
+  {
+    "name": "Hoja Mortal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (524).html"
+  },
+  {
+    "name": "Hoja Nocturna",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (525).html"
+  },
+  {
+    "name": "Holandés Errante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (526).html"
+  },
+  {
+    "name": "Hoplita",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (527).html"
+  },
+  {
+    "name": "Horror",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (528).html"
+  },
+  {
+    "name": "Imperial",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (529).html"
+  },
+  {
+    "name": "Ingeniero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (530).html"
+  },
+  {
+    "name": "Inquisitivo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (531).html"
+  },
+  {
+    "name": "Instinto del Derviche",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (532).html"
+  },
+  {
+    "name": "Instinto del Inmortal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (533).html"
+  },
+  {
+    "name": "Instinto del Místico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (534).html"
+  },
+  {
+    "name": "Instinto del Pugilista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (535).html"
+  },
+  {
+    "name": "Instinto del Ronin",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (536).html"
+  },
+  {
+    "name": "Instinto del Tespiano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (537).html"
+  },
+  {
+    "name": "Instrumento de Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (538).html"
+  },
+  {
+    "name": "Interitus Primarch, el Primer Eidolon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (539).html"
+  },
+  {
+    "name": "Inventor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (540).html"
+  },
+  {
+    "name": "Investigador Recluso",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (541).html"
+  },
+  {
+    "name": "Jinete del Apocalipsis",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (542).html"
+  },
+  {
+    "name": "Juramento de entrega",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (543).html"
+  },
+  {
+    "name": "Juramento de Garra y Colmillo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (544).html"
+  },
+  {
+    "name": "Juramento de Gloria",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (545).html"
+  },
+  {
+    "name": "Juramento de la Avaricia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (546).html"
+  },
+  {
+    "name": "Juramento de la Belleza y las Rosas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (547).html"
+  },
+  {
+    "name": "Juramento de la Conquista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (548).html"
+  },
+  {
+    "name": "Juramento de la Peste",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (549).html"
+  },
+  {
+    "name": "Juramento de la Pestilencia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (550).html"
+  },
+  {
+    "name": "Juramento de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (551).html"
+  },
+  {
+    "name": "Juramento de las Espadas de la Sombra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (552).html"
+  },
+  {
+    "name": "Juramento de lo Imperecedero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (553).html"
+  },
+  {
+    "name": "Juramento de los Ancestros",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (554).html"
+  },
+  {
+    "name": "Juramento de los antiguos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (555).html"
+  },
+  {
+    "name": "Juramento de los Corsarios",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (556).html"
+  },
+  {
+    "name": "Juramento de los Cuervos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (557).html"
+  },
+  {
+    "name": "Juramento de los Observadores Azules",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (558).html"
+  },
+  {
+    "name": "Juramento de los Templarios",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (559).html"
+  },
+  {
+    "name": "Juramento de los Vigilantes",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (560).html"
+  },
+  {
+    "name": "Juramento de Redención",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (561).html"
+  },
+  {
+    "name": "Juramento de Traición",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (562).html"
+  },
+  {
+    "name": "Juramento de venganza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (563).html"
+  },
+  {
+    "name": "Juramento del dragon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (564).html"
+  },
+  {
+    "name": "Juramento del Dragon Metálico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (565).html"
+  },
+  {
+    "name": "Juramento del Fanático",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (566).html"
+  },
+  {
+    "name": "Juramento del Heroísmo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (567).html"
+  },
+  {
+    "name": "Juramento del Juego",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (568).html"
+  },
+  {
+    "name": "Juramento del Norte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (569).html"
+  },
+  {
+    "name": "Juramento del Radiante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (570).html"
+  },
+  {
+    "name": "Juramento del Tiempo Avizor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (571).html"
+  },
+  {
+    "name": "Kensei",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (572).html"
+  },
+  {
+    "name": "La Arboleda",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (573).html"
+  },
+  {
+    "name": "La Baraja del Tarot",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (574).html"
+  },
+  {
+    "name": "La Bruja",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (575).html"
+  },
+  {
+    "name": "La Corte Abisal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (576).html"
+  },
+  {
+    "name": "La Corte Arcana",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (577).html"
+  },
+  {
+    "name": "La Corte Atemporal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (578).html"
+  },
+  {
+    "name": "La Corte de la Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (579).html"
+  },
+  {
+    "name": "La Corte del Caos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (580).html"
+  },
+  {
+    "name": "La Corte Incógnita",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (581).html"
+  },
+  {
+    "name": "La Corte Luminosa",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (582).html"
+  },
+  {
+    "name": "La Corte Muerta",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (583).html"
+  },
+  {
+    "name": "La Entidad del Vacío",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (584).html"
+  },
+  {
+    "name": "La Luz Imperecedera",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (585).html"
+  },
+  {
+    "name": "La Mascarada",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (586).html"
+  },
+  {
+    "name": "La Orden de los Caballeros de Belestia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (587).html"
+  },
+  {
+    "name": "La Orden de los Exorcistas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (588).html"
+  },
+  {
+    "name": "La Orden de los Hierofantes del Silencio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (589).html"
+  },
+  {
+    "name": "La Orden de los Justicar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (590).html"
+  },
+  {
+    "name": "La Orden del Dragón Lunar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (591).html"
+  },
+  {
+    "name": "La Reina Cuervo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (592).html"
+  },
+  {
+    "name": "La Reina de los Cuervos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (593).html"
+  },
+  {
+    "name": "La Ruina",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (594).html"
+  },
+  {
+    "name": "Ladrón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (595).html"
+  },
+  {
+    "name": "Lanceras de Sif",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (596).html"
+  },
+  {
+    "name": "Legado de los 7 mares",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (597).html"
+  },
+  {
+    "name": "Legado del Clan",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (598).html"
+  },
+  {
+    "name": "Legado del Emperador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (599).html"
+  },
+  {
+    "name": "Legado del Faraón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (600).html"
+  },
+  {
+    "name": "Legado del Tlajtoani",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (601).html"
+  },
+  {
+    "name": "Legado Feudal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (602).html"
+  },
+  {
+    "name": "Legado Industrial",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (603).html"
+  },
+  {
+    "name": "Legado Infernal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (604).html"
+  },
+  {
+    "name": "Legado Magno",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (605).html"
+  },
+  {
+    "name": "Legado Vikingo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (606).html"
+  },
+  {
+    "name": "Legionario",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (607).html"
+  },
+  {
+    "name": "Legionario Jötnar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (608).html"
+  },
+  {
+    "name": "Leyenda del héroe",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (609).html"
+  },
+  {
+    "name": "Libertinaje de Aracne",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (610).html"
+  },
+  {
+    "name": "Libertinaje de Aracne",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (611).html"
+  },
+  {
+    "name": "Linaje de dragón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (612).html"
+  },
+  {
+    "name": "Linaje de las Hadas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (613).html"
+  },
+  {
+    "name": "Linaje de los Ojos Místicos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (614).html"
+  },
+  {
+    "name": "Linaje Miserable",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (615).html"
+  },
+  {
+    "name": "Linaje Talásico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (616).html"
+  },
+  {
+    "name": "Linaje Vampírico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (617).html"
+  },
+  {
+    "name": "Llamado del Fantasma",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (618).html"
+  },
+  {
+    "name": "Llamado del Fantasma",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (619).html"
+  },
+  {
+    "name": "Los Favaryi",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (620).html"
+  },
+  {
+    "name": "Luz de Estrellas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (621).html"
+  },
+  {
+    "name": "Maestro de batalla",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (622).html"
+  },
+  {
+    "name": "Mage Bane",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (623).html"
+  },
+  {
+    "name": "Magia Astral",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (624).html"
+  },
+  {
+    "name": "Magia de Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (625).html"
+  },
+  {
+    "name": "Magia de las Sombras",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (626).html"
+  },
+  {
+    "name": "Magia salvaje",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (627).html"
+  },
+  {
+    "name": "Magnate",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (628).html"
+  },
+  {
+    "name": "Mago Resuelto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (629).html"
+  },
+  {
+    "name": "Malefactor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (630).html"
+  },
+  {
+    "name": "Manipulador Telequinético",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (631).html"
+  },
+  {
+    "name": "Marionetista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (632).html"
+  },
+  {
+    "name": "Marksman",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (633).html"
+  },
+  {
+    "name": "Martillos de la Arboleda",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (634).html"
+  },
+  {
+    "name": "Martillos de la Arboleda",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (635).html"
+  },
+  {
+    "name": "Matamago",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (636).html"
+  },
+  {
+    "name": "Matamonstruos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (637).html"
+  },
+  {
+    "name": "Mbaba Mwana Waresa",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (638).html"
+  },
+  {
+    "name": "Médico de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (639).html"
+  },
+  {
+    "name": "Mente Aberrante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (640).html"
+  },
+  {
+    "name": "Mente Aberrante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (641).html"
+  },
+  {
+    "name": "Mente Maestra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (642).html"
+  },
+  {
+    "name": "Merodeador de las Arenas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (643).html"
+  },
+  {
+    "name": "Metamórfico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (644).html"
+  },
+  {
+    "name": "Mirmidón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (645).html"
+  },
+  {
+    "name": "MK I - Jetstream",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (646).html"
+  },
+  {
+    "name": "MK II - Monsoon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (647).html"
+  },
+  {
+    "name": "MK III - Sundowner",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (648).html"
+  },
+  {
+    "name": "Monólogo del Crupier",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (649).html"
+  },
+  {
+    "name": "Monólogo del Dominador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (650).html"
+  },
+  {
+    "name": "Monólogo del Lunático",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (651).html"
+  },
+  {
+    "name": "Nacido del Tiempo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (652).html"
+  },
+  {
+    "name": "Naturaleza del Colmillo en las Sombras",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (653).html"
+  },
+  {
+    "name": "Naturaleza del Hueso de Hierro",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (654).html"
+  },
+  {
+    "name": "Naturaleza del Lobo de Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (655).html"
+  },
+  {
+    "name": "Navajero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (656).html"
+  },
+  {
+    "name": "Némesis",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (657).html"
+  },
+  {
+    "name": "Nigromante de la ruina",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (658).html"
+  },
+  {
+    "name": "Ninja",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (659).html"
+  },
+  {
+    "name": "Nobushi",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (660).html"
+  },
+  {
+    "name": "Novato",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (661).html"
+  },
+  {
+    "name": "Obsesión con el Control",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (662).html"
+  },
+  {
+    "name": "Obsesión con el Poder",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (663).html"
+  },
+  {
+    "name": "Obsesión con la Magia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (664).html"
+  },
+  {
+    "name": "Obsesión con la Muerte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (665).html"
+  },
+  {
+    "name": "Obsesión con la Perfección",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (666).html"
+  },
+  {
+    "name": "Ocultista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (667).html"
+  },
+  {
+    "name": "Oficina de Divinidades",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (668).html"
+  },
+  {
+    "name": "Oficina de Espiritismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (669).html"
+  },
+  {
+    "name": "Oficina del Exorcismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (670).html"
+  },
+  {
+    "name": "Onmyoji",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (671).html"
+  },
+  {
+    "name": "Orden de los Licanos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (672).html"
+  },
+  {
+    "name": "Orden del Alma Profana [WIP]",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (673).html"
+  },
+  {
+    "name": "Orden del Asesino de Fantasmas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (674).html"
+  },
+  {
+    "name": "Orden del Cazador de Demonios",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (675).html"
+  },
+  {
+    "name": "Orden del Mutante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (676).html"
+  },
+  {
+    "name": "Ordo de los Inquisidores",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (677).html"
+  },
+  {
+    "name": "Ordo de los Tejedores del Abismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (678).html"
+  },
+  {
+    "name": "Ordo del Guardián",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (679).html"
+  },
+  {
+    "name": "Orochi",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (680).html"
+  },
+  {
+    "name": "Osteomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (681).html"
+  },
+  {
+    "name": "Pacto del Chamán",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (682).html"
+  },
+  {
+    "name": "Pacto del gatillo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (683).html"
+  },
+  {
+    "name": "Pájaro de Trueno",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (684).html"
+  },
+  {
+    "name": "Pájaro Mecánico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (685).html"
+  },
+  {
+    "name": "Parasitaria",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (686).html"
+  },
+  {
+    "name": "Pastor de los Caídos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (687).html"
+  },
+  {
+    "name": "Pionero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (688).html"
+  },
+  {
+    "name": "Pirocinético",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (689).html"
+  },
+  {
+    "name": "Piromancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (690).html"
+  },
+  {
+    "name": "Pistolero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (691).html"
+  },
+  {
+    "name": "Poseído",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (692).html"
+  },
+  {
+    "name": "Potenciador Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (693).html"
+  },
+  {
+    "name": "Predicador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (694).html"
+  },
+  {
+    "name": "Presagio de la Muerte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (695).html"
+  },
+  {
+    "name": "Prodigioso Arquímedes",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (696).html"
+  },
+  {
+    "name": "Prodigioso Dédalo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (697).html"
+  },
+  {
+    "name": "Promesa de Amistad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (698).html"
+  },
+  {
+    "name": "Promesa de Comprensión",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (699).html"
+  },
+  {
+    "name": "Promesa de Retribución",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (700).html"
+  },
+  {
+    "name": "Promesa de Seguridad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (701).html"
+  },
+  {
+    "name": "Protector Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (702).html"
+  },
+  {
+    "name": "Pugilista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (703).html"
+  },
+  {
+    "name": "Puño arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (704).html"
+  },
+  {
+    "name": "Quimera",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (705).html"
+  },
+  {
+    "name": "Ratero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (706).html"
+  },
+  {
+    "name": "Rebanaalmas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (707).html"
+  },
+  {
+    "name": "Recolector de Cuervos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (708).html"
+  },
+  {
+    "name": "Relato de la Puerta",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (709).html"
+  },
+  {
+    "name": "Renegado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (710).html"
+  },
+  {
+    "name": "Rompepactos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (711).html"
+  },
+  {
+    "name": "Ronin",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (712).html"
+  },
+  {
+    "name": "Ronin",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (713).html"
+  },
+  {
+    "name": "Saboteador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (714).html"
+  },
+  {
+    "name": "Sacerdote de Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (715).html"
+  },
+  {
+    "name": "Salvaje",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (716).html"
+  },
+  {
+    "name": "Samurai",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (717).html"
+  },
+  {
+    "name": "Samurái",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (718).html"
+  },
+  {
+    "name": "Sangre de Hierro",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (719).html"
+  },
+  {
+    "name": "Sangre de la Ruina",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (720).html"
+  },
+  {
+    "name": "Sangre Maldita",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (721).html"
+  },
+  {
+    "name": "Santoryu",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (722).html"
+  },
+  {
+    "name": "Secta Binaria",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (723).html"
+  },
+  {
+    "name": "Secta del Cometa",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (724).html"
+  },
+  {
+    "name": "Secta del Meteoro",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (725).html"
+  },
+  {
+    "name": "Secta Lunar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (726).html"
+  },
+  {
+    "name": "Secta Solar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (727).html"
+  },
+  {
+    "name": "Secuaz",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (728).html"
+  },
+  {
+    "name": "Segador Dracónico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (729).html"
+  },
+  {
+    "name": "Segador Verde",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (730).html"
+  },
+  {
+    "name": "Senda de la Bestia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (731).html"
+  },
+  {
+    "name": "Senda de la Entropía",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (732).html"
+  },
+  {
+    "name": "Senda de la Entropía",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (733).html"
+  },
+  {
+    "name": "Senda de la Estrella Fugaz",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (734).html"
+  },
+  {
+    "name": "Senda de la Magia Salvaje",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (735).html"
+  },
+  {
+    "name": "Senda de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (736).html"
+  },
+  {
+    "name": "Senda de la Subyugación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (737).html"
+  },
+  {
+    "name": "Senda de las Mareas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (738).html"
+  },
+  {
+    "name": "Senda de las Montañas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (739).html"
+  },
+  {
+    "name": "Senda del berserker",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (740).html"
+  },
+  {
+    "name": "Senda del Caos fundamental",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (741).html"
+  },
+  {
+    "name": "Senda del Coloso",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (742).html"
+  },
+  {
+    "name": "Senda del Destino Maldito",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (743).html"
+  },
+  {
+    "name": "Senda del dragon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (744).html"
+  },
+  {
+    "name": "Senda del Espiritu Primordial",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (745).html"
+  },
+  {
+    "name": "Senda del Fanático",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (746).html"
+  },
+  {
+    "name": "Senda del Fracturado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (747).html"
+  },
+  {
+    "name": "Senda del Guardián Ancestral",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (748).html"
+  },
+  {
+    "name": "Senda del Guerrero Totémico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (749).html"
+  },
+  {
+    "name": "Senda del Guiverno",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (750).html"
+  },
+  {
+    "name": "Senda del Heraldo de las Tormentas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (751).html"
+  },
+  {
+    "name": "Senda del Inquebrantable",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (752).html"
+  },
+  {
+    "name": "Senda del Lirio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (753).html"
+  },
+  {
+    "name": "Senda del Masoquista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (754).html"
+  },
+  {
+    "name": "Senda del Pacto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (755).html"
+  },
+  {
+    "name": "Senda del Primigenio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (756).html"
+  },
+  {
+    "name": "Senda del Rompeconjuros",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (757).html"
+  },
+  {
+    "name": "Senda del Salvaje",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (758).html"
+  },
+  {
+    "name": "Senda del Salvajismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (759).html"
+  },
+  {
+    "name": "Senda del Segador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (760).html"
+  },
+  {
+    "name": "Senda del Usurpador Voltaico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (761).html"
+  },
+  {
+    "name": "Señor de las Alimañas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (762).html"
+  },
+  {
+    "name": "Señor de las bestias",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (763).html"
+  },
+  {
+    "name": "Señor de las Bestias",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (764).html"
+  },
+  {
+    "name": "Ser infernal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (765).html"
+  },
+  {
+    "name": "Serpiente Emplumada",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (766).html"
+  },
+  {
+    "name": "Shinobi",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (767).html"
+  },
+  {
+    "name": "Siervo de la Muerte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (768).html"
+  },
+  {
+    "name": "Soñador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (769).html"
+  },
+  {
+    "name": "Tatuador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (770).html"
+  },
+  {
+    "name": "Tecnomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (771).html"
+  },
+  {
+    "name": "Telequinético",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (772).html"
+  },
+  {
+    "name": "Templario",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 2/Arquetipo (773).html"
+  }
+]
+  {
+    "name": "Templario Rojo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (1).html"
+  },
+  {
+    "name": "Tradición del Arma Viviente",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (10).html"
+  },
+  {
+    "name": "Augur de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (100).html"
+  },
+  {
+    "name": "Aumentador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (101).html"
+  },
+  {
+    "name": "Azotador titánico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (102).html"
+  },
+  {
+    "name": "Baba Yaga",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (103).html"
+  },
+  {
+    "name": "Bandido",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (104).html"
+  },
+  {
+    "name": "Barquero del Más Allá",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (105).html"
+  },
+  {
+    "name": "Bastet",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (106).html"
+  },
+  {
+    "name": "Batidor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (107).html"
+  },
+  {
+    "name": "Batidor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (108).html"
+  },
+  {
+    "name": "Biomante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (109).html"
+  },
+  {
+    "name": "Tradición del Caballero Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (11).html"
+  },
+  {
+    "name": "Botánico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (110).html"
+  },
+  {
+    "name": "Bruja",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (111).html"
+  },
+  {
+    "name": "Búho",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (112).html"
+  },
+  {
+    "name": "Buitre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (113).html"
+  },
+  {
+    "name": "Bushi",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (114).html"
+  },
+  {
+    "name": "Caballero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (115).html"
+  },
+  {
+    "name": "Caballero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (116).html"
+  },
+  {
+    "name": "Caballero Alquímico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (117).html"
+  },
+  {
+    "name": "Caballero arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (118).html"
+  },
+  {
+    "name": "Caballero Córvido",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (119).html"
+  },
+  {
+    "name": "Tradición del Caballero Voltaico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (12).html"
+  },
+  {
+    "name": "Caballero de la Muerte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (120).html"
+  },
+  {
+    "name": "Caballero de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (121).html"
+  },
+  {
+    "name": "Caballero de la Tempestad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (122).html"
+  },
+  {
+    "name": "Caballero del Abismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (123).html"
+  },
+  {
+    "name": "Caballero del Brillo Abisal",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (124).html"
+  },
+  {
+    "name": "Caballero del dragon púrpura",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (125).html"
+  },
+  {
+    "name": "Caballero del Infierno",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (126).html"
+  },
+  {
+    "name": "Caballero Encantador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (127).html"
+  },
+  {
+    "name": "Caballero Espectral",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (128).html"
+  },
+  {
+    "name": "Caballero Gélido",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (129).html"
+  },
+  {
+    "name": "Tradición del Castigador Fantasma",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (13).html"
+  },
+  {
+    "name": "Caballero Rúnico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (130).html"
+  },
+  {
+    "name": "Cacería del Wyvern",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (131).html"
+  },
+  {
+    "name": "Cacería del Wyvern",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (132).html"
+  },
+  {
+    "name": "Caído",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (133).html"
+  },
+  {
+    "name": "Caminante del Horizonte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (134).html"
+  },
+  {
+    "name": "Caminante del Infortunio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (135).html"
+  },
+  {
+    "name": "Camino de la Antelación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (136).html"
+  },
+  {
+    "name": "Camino de la Corona de Plomo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (137).html"
+  },
+  {
+    "name": "Camino de la mano abierta",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (138).html"
+  },
+  {
+    "name": "Camino de la Misericordia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (139).html"
+  },
+  {
+    "name": "Tradición del Colmillo Maldito",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (14).html"
+  },
+  {
+    "name": "Camino de la Serpiente",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (140).html"
+  },
+  {
+    "name": "Camino de la sombra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (141).html"
+  },
+  {
+    "name": "Camino de la Tranquilidad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (142).html"
+  },
+  {
+    "name": "Camino de los cuatro elementos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (143).html"
+  },
+  {
+    "name": "Camino del Alma Solar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (144).html"
+  },
+  {
+    "name": "Camino del dragon tortuga",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (145).html"
+  },
+  {
+    "name": "Camino del Espíritu Danzante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (146).html"
+  },
+  {
+    "name": "Camino del Fuego del Alma",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (147).html"
+  },
+  {
+    "name": "Camino del Kensei",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (148).html"
+  },
+  {
+    "name": "Camino del Maestro Borracho",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (149).html"
+  },
+  {
+    "name": "Tradición del Duplicista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (15).html"
+  },
+  {
+    "name": "Camino del Orden y el Caos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (150).html"
+  },
+  {
+    "name": "Camino del Orgullo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (151).html"
+  },
+  {
+    "name": "Camino del Puño Cerrado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (152).html"
+  },
+  {
+    "name": "Camino del Puño Diabólico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (153).html"
+  },
+  {
+    "name": "Camino del Rey mono",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (154).html"
+  },
+  {
+    "name": "Camino del Rey mono",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (155).html"
+  },
+  {
+    "name": "Camino del Ser Astral",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (156).html"
+  },
+  {
+    "name": "Camino del Ser Astral",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (157).html"
+  },
+  {
+    "name": "Camino del Tercer Ojo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (158).html"
+  },
+  {
+    "name": "Camino del Wu Jen",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (159).html"
+  },
+  {
+    "name": "Tradición del Esgrimago Maldito",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (16).html"
+  },
+  {
+    "name": "Campeón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (160).html"
+  },
+  {
+    "name": "Campeón de los Elementos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (161).html"
+  },
+  {
+    "name": "Canalización Espiritual",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (162).html"
+  },
+  {
+    "name": "Canto de la Hoja",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (163).html"
+  },
+  {
+    "name": "Cazador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (164).html"
+  },
+  {
+    "name": "Cazador de Monstruos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (165).html"
+  },
+  {
+    "name": "Cazador del Vacío",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (166).html"
+  },
+  {
+    "name": "Celestial Enjaulado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (167).html"
+  },
+  {
+    "name": "Chef",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (168).html"
+  },
+  {
+    "name": "Chef de Batalla",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (169).html"
+  },
+  {
+    "name": "Tradición del Forjador del Vacío",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (17).html"
+  },
+  {
+    "name": "ChronoDivers",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (170).html"
+  },
+  {
+    "name": "Círculo de K´thun",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (171).html"
+  },
+  {
+    "name": "Círculo de la Calamidad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (172).html"
+  },
+  {
+    "name": "Círculo de la Calamidad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (173).html"
+  },
+  {
+    "name": "Círculo de la Cosecha",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (174).html"
+  },
+  {
+    "name": "Círculo de la Flora",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (175).html"
+  },
+  {
+    "name": "Círculo de la Fortuna",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (176).html"
+  },
+  {
+    "name": "Circulo de la llama salvaje",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (177).html"
+  },
+  {
+    "name": "Círculo de la Luna",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (178).html"
+  },
+  {
+    "name": "Círculo de la Medicina",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (179).html"
+  },
+  {
+    "name": "Tradición del Herrero del Sol",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (18).html"
+  },
+  {
+    "name": "Circulo de la Mutación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (180).html"
+  },
+  {
+    "name": "Círculo de la Sangre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (181).html"
+  },
+  {
+    "name": "Círculo de la Tierra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (182).html"
+  },
+  {
+    "name": "Círculo de las Dunas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (183).html"
+  },
+  {
+    "name": "Círculo de las escamas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (184).html"
+  },
+  {
+    "name": "Círculo de las Escamas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (185).html"
+  },
+  {
+    "name": "Círculo de las Espinas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (186).html"
+  },
+  {
+    "name": "Círculo de las Esporas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (187).html"
+  },
+  {
+    "name": "Círculo de las Esporas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (188).html"
+  },
+  {
+    "name": "Círculo de las Esporas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (189).html"
+  },
+  {
+    "name": "Tradición del Jinete del Dragón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (19).html"
+  },
+  {
+    "name": "Círculo de las Estrellas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (190).html"
+  },
+  {
+    "name": "Círculo de las Mareas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (191).html"
+  },
+  {
+    "name": "Círculo de las Pesadillas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (192).html"
+  },
+  {
+    "name": "Círculo de lo Divino",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (193).html"
+  },
+  {
+    "name": "Círculo de los Corales",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (194).html"
+  },
+  {
+    "name": "Círculo de los Eones",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (195).html"
+  },
+  {
+    "name": "Círculo de los Monstruos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (196).html"
+  },
+  {
+    "name": "Círculo de los Sueños",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (197).html"
+  },
+  {
+    "name": "Círculo de los Vengadores",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (198).html"
+  },
+  {
+    "name": "Círculo de Madera de Hierro",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (199).html"
+  },
+  {
+    "name": "Tirador de Primera",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (2).html"
+  },
+  {
+    "name": "Tradición del Nigromante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (20).html"
+  },
+  {
+    "name": "Círculo del Averno",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (200).html"
+  },
+  {
+    "name": "Círculo del Chamán",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (201).html"
+  },
+  {
+    "name": "Círculo del Crepúsculo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (202).html"
+  },
+  {
+    "name": "Circulo del dragon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (203).html"
+  },
+  {
+    "name": "Círculo del Enjambre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (204).html"
+  },
+  {
+    "name": "Círculo del Fuego Salvaje",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (205).html"
+  },
+  {
+    "name": "Círculo del Hambre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (206).html"
+  },
+  {
+    "name": "Círculo del Híbrido",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (207).html"
+  },
+  {
+    "name": "Círculo del Hielo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (208).html"
+  },
+  {
+    "name": "Círculo del Maná",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (209).html"
+  },
+  {
+    "name": "Tradición del Ojo de la Tormenta",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (21).html"
+  },
+  {
+    "name": "Círculo del Miasma",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (210).html"
+  },
+  {
+    "name": "Círculo del Pastor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (211).html"
+  },
+  {
+    "name": "Círculo del Sueño",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (212).html"
+  },
+  {
+    "name": "Círculo del Tótem",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (213).html"
+  },
+  {
+    "name": "Círculo del Uróboros",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (214).html"
+  },
+  {
+    "name": "Circulo del Yokai",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (215).html"
+  },
+  {
+    "name": "Cirujano de Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (216).html"
+  },
+  {
+    "name": "Climatúrgico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (217).html"
+  },
+  {
+    "name": "Coleccionista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (218).html"
+  },
+  {
+    "name": "Colegio de la Anarquía",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (219).html"
+  },
+  {
+    "name": "Tradición del Rompehechizos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (22).html"
+  },
+  {
+    "name": "Colegio de la burla ludica",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (220).html"
+  },
+  {
+    "name": "Colegio de la Caza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (221).html"
+  },
+  {
+    "name": "Colegio de la Comedia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (222).html"
+  },
+  {
+    "name": "Colegio de la Creación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (223).html"
+  },
+  {
+    "name": "Colegio de la Danza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (224).html"
+  },
+  {
+    "name": "Colegio de la Danza Maestra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (225).html"
+  },
+  {
+    "name": "Colegio de la Elocuencia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (226).html"
+  },
+  {
+    "name": "Colegio de la Endecha",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (227).html"
+  },
+  {
+    "name": "Colegio de la Gracia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (228).html"
+  },
+  {
+    "name": "Colegio de la Mixología",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (229).html"
+  },
+  {
+    "name": "Tradición del Titán Terrestre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (23).html"
+  },
+  {
+    "name": "Colegio de la Revolución",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (230).html"
+  },
+  {
+    "name": "Colegio de la Riqueza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (231).html"
+  },
+  {
+    "name": "Colegio de la Sinfonía",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (232).html"
+  },
+  {
+    "name": "Colegio de las Artes Visuales",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (233).html"
+  },
+  {
+    "name": "Colegio de las Espadas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (234).html"
+  },
+  {
+    "name": "Colegio de las Maldiciones",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (235).html"
+  },
+  {
+    "name": "Colegio de las Miko",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (236).html"
+  },
+  {
+    "name": "Colegio de las Pesadillas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (237).html"
+  },
+  {
+    "name": "Colegio de las Sirenas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (238).html"
+  },
+  {
+    "name": "Colegio de los Aventureros",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (239).html"
+  },
+  {
+    "name": "Tragedia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (24).html"
+  },
+  {
+    "name": "Colegio de los Escribas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (240).html"
+  },
+  {
+    "name": "Colegio de los Espíritus",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (241).html"
+  },
+  {
+    "name": "Colegio de los Susurros",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (242).html"
+  },
+  {
+    "name": "Colegio de los Títeres",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (243).html"
+  },
+  {
+    "name": "Colegio de los Trovadores",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (244).html"
+  },
+  {
+    "name": "Colegio de Metrónomos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (245).html"
+  },
+  {
+    "name": "Colegio del Color",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (246).html"
+  },
+  {
+    "name": "Colegio del Conocimiento",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (247).html"
+  },
+  {
+    "name": "Colegio del Glamour",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (248).html"
+  },
+  {
+    "name": "Colegio del Jolgorio",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (249).html"
+  },
+  {
+    "name": "Trampero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (25).html"
+  },
+  {
+    "name": "Colegio del Requiem",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (250).html"
+  },
+  {
+    "name": "Colegio del Rock",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (251).html"
+  },
+  {
+    "name": "Colegio del Taiko",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (252).html"
+  },
+  {
+    "name": "Colegio del Valor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (253).html"
+  },
+  {
+    "name": "Comandante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (254).html"
+  },
+  {
+    "name": "Cónclave del cielo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (255).html"
+  },
+  {
+    "name": "Cónclave del cielo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (256).html"
+  },
+  {
+    "name": "Cóndor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (257).html"
+  },
+  {
+    "name": "Conquistador de Demonios",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (258).html"
+  },
+  {
+    "name": "Copero de los Dioses",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (259).html"
+  },
+  {
+    "name": "Trovador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (26).html"
+  },
+  {
+    "name": "Coraza alada",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (260).html"
+  },
+  {
+    "name": "Corazón de Tundra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (261).html"
+  },
+  {
+    "name": "Corsario",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (262).html"
+  },
+  {
+    "name": "Cortesana",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (263).html"
+  },
+  {
+    "name": "CQC",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (264).html"
+  },
+  {
+    "name": "Criomancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (265).html"
+  },
+  {
+    "name": "Crisol Viviente",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (266).html"
+  },
+  {
+    "name": "CronoDivers",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (267).html"
+  },
+  {
+    "name": "Cronoingeniero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (268).html"
+  },
+  {
+    "name": "Cruzado con Capa",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (269).html"
+  },
+  {
+    "name": "Umbramancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (27).html"
+  },
+  {
+    "name": "C'thulhu",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (270).html"
+  },
+  {
+    "name": "Cuervo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (271).html"
+  },
+  {
+    "name": "Curandero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (272).html"
+  },
+  {
+    "name": "Curtidor Necrótico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (273).html"
+  },
+  {
+    "name": "Delirio de Abhoth",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (274).html"
+  },
+  {
+    "name": "Delirio de Abhoth",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (275).html"
+  },
+  {
+    "name": "Demonio de Poder",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (276).html"
+  },
+  {
+    "name": "Demonio Sellado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (277).html"
+  },
+  {
+    "name": "Desperado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (278).html"
+  },
+  {
+    "name": "Despertar de la Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (279).html"
+  },
+  {
+    "name": "Valravn",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (28).html"
+  },
+  {
+    "name": "Despertar de la Kitsune",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (280).html"
+  },
+  {
+    "name": "Despertar Divino",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (281).html"
+  },
+  {
+    "name": "Despertar Espíritual",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (282).html"
+  },
+  {
+    "name": "Despertar Mecánico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (283).html"
+  },
+  {
+    "name": "Despertar Orgánico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (284).html"
+  },
+  {
+    "name": "Detective de Almas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (285).html"
+  },
+  {
+    "name": "Devastador Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (286).html"
+  },
+  {
+    "name": "Devorador de Mentes",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (287).html"
+  },
+  {
+    "name": "Devoto Oscuro",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (288).html"
+  },
+  {
+    "name": "Diestro de las artes",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (289).html"
+  },
+  {
+    "name": "Vanguardia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (29).html"
+  },
+  {
+    "name": "Disciplina del Artista Rúnico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (290).html"
+  },
+  {
+    "name": "Disciplina del Boticario",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (291).html"
+  },
+  {
+    "name": "Disciplina del Cazador Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (292).html"
+  },
+  {
+    "name": "Disciplina del Guerrillero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (293).html"
+  },
+  {
+    "name": "Disciplina del Ingeniero Bélico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (294).html"
+  },
+  {
+    "name": "Disciplina del Lanzador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (295).html"
+  },
+  {
+    "name": "Disciplina del Químico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (296).html"
+  },
+  {
+    "name": "Discípulo de Platino",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (297).html"
+  },
+  {
+    "name": "Doctor de la Peste",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (298).html"
+  },
+  {
+    "name": "Doctrina del Cazador de Brujas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (299).html"
+  },
+  {
+    "name": "Tirano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (3).html"
+  },
+  {
+    "name": "Vengador Divino",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (30).html"
+  },
+  {
+    "name": "Doctrina del Ejecutor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (300).html"
+  },
+  {
+    "name": "Doctrina del Guardián",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (301).html"
+  },
+  {
+    "name": "Doctrina del Interrogador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (302).html"
+  },
+  {
+    "name": "Doctrina del Trampero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (303).html"
+  },
+  {
+    "name": "Dogma del Caudillo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (304).html"
+  },
+  {
+    "name": "Dogma del Corruptor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (305).html"
+  },
+  {
+    "name": "Dogma del Exorcista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (306).html"
+  },
+  {
+    "name": "Dogma del Heraldo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (307).html"
+  },
+  {
+    "name": "Dogma del Invocador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (308).html"
+  },
+  {
+    "name": "Dominio de Circe",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (309).html"
+  },
+  {
+    "name": "Viaje del Invasor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (31).html"
+  },
+  {
+    "name": "Dominio de la Aflicción",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (310).html"
+  },
+  {
+    "name": "Dominio de la Belleza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (311).html"
+  },
+  {
+    "name": "Dominio de la Ciudad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (312).html"
+  },
+  {
+    "name": "Dominio de la Desesperación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (313).html"
+  },
+  {
+    "name": "Dominio de la Destrucción",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (314).html"
+  },
+  {
+    "name": "Dominio de la Disparidad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (315).html"
+  },
+  {
+    "name": "Dominio de la Esperanza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (316).html"
+  },
+  {
+    "name": "Dominio de la Fertilidad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (317).html"
+  },
+  {
+    "name": "Dominio de la Fertilidad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (318).html"
+  },
+  {
+    "name": "Dominio de la Forja",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (319).html"
+  },
+  {
+    "name": "Viaje del Invasor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (32).html"
+  },
+  {
+    "name": "Dominio de la guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (320).html"
+  },
+  {
+    "name": "Dominio de la Gula",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (321).html"
+  },
+  {
+    "name": "Dominio de la Inquisición",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (322).html"
+  },
+  {
+    "name": "Dominio de la Locura",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (323).html"
+  },
+  {
+    "name": "Dominio de la Lujuria",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (324).html"
+  },
+  {
+    "name": "Dominio de la Luna",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (325).html"
+  },
+  {
+    "name": "Dominio de la naturaleza",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (326).html"
+  },
+  {
+    "name": "Dominio de la Paz",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (327).html"
+  },
+  {
+    "name": "Dominio de la Penitencia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (328).html"
+  },
+  {
+    "name": "Dominio de la Seducción",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (329).html"
+  },
+  {
+    "name": "Vigilante",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (33).html"
+  },
+  {
+    "name": "Dominio de la Sepultura",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (330).html"
+  },
+  {
+    "name": "Dominio de la tempestad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (331).html"
+  },
+  {
+    "name": "Dominio de la vida",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (332).html"
+  },
+  {
+    "name": "Dominio de las Aberraciones",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (333).html"
+  },
+  {
+    "name": "Dominio de las Historias",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (334).html"
+  },
+  {
+    "name": "Dominio de los Gatos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (335).html"
+  },
+  {
+    "name": "Dominio de los No Muertos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (336).html"
+  },
+  {
+    "name": "Dominio de luz",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (337).html"
+  },
+  {
+    "name": "Dominio de Protección",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (338).html"
+  },
+  {
+    "name": "Dominio del Amor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (339).html"
+  },
+  {
+    "name": "Vocación del Empalador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (34).html"
+  },
+  {
+    "name": "Dominio del Amor",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (340).html"
+  },
+  {
+    "name": "Vocación del Maleficar",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (35).html"
+  },
+  {
+    "name": "Vocación del Torturador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (36).html"
+  },
+  {
+    "name": "Vocación del Transfusionista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (37).html"
+  },
+  {
+    "name": "Vocación del Vampirismo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (38).html"
+  },
+  {
+    "name": "Voluntad del Arcángel",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (39).html"
+  },
+  {
+    "name": "Titán de los Manglares",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (4).html"
+  },
+  {
+    "name": "Voluntad del Arcángel",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (40).html"
+  },
+  {
+    "name": "Yabusame",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (41).html"
+  },
+  {
+    "name": "Acechador de Gemas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (42).html"
+  },
+  {
+    "name": "Acechador en la Penumbra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (43).html"
+  },
+  {
+    "name": "Acechador Profundo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (44).html"
+  },
+  {
+    "name": "Acechadragones",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (45).html"
+  },
+  {
+    "name": "Acorazado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (46).html"
+  },
+  {
+    "name": "Adepto del Relámpago",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (47).html"
+  },
+  {
+    "name": "Agente de lo Oculto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (48).html"
+  },
+  {
+    "name": "Alma de Agua Salada",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (49).html"
+  },
+  {
+    "name": "Toxicólogo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (5).html"
+  },
+  {
+    "name": "Alma de Arconte",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (50).html"
+  },
+  {
+    "name": "Alma de Cenizas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (51).html"
+  },
+  {
+    "name": "Alma de la Tempestad",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (52).html"
+  },
+  {
+    "name": "Alma Divina",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (53).html"
+  },
+  {
+    "name": "Alma Imbuida",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (54).html"
+  },
+  {
+    "name": "Alma Libre",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (55).html"
+  },
+  {
+    "name": "Alma Mecánica",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (56).html"
+  },
+  {
+    "name": "Alquimista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (57).html"
+  },
+  {
+    "name": "Alquimista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (58).html"
+  },
+  {
+    "name": "Analista",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (59).html"
+  },
+  {
+    "name": "Tradición de Arquero Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (6).html"
+  },
+  {
+    "name": "Anemántico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (60).html"
+  },
+  {
+    "name": "Angakkuq: El Cazador de Espíritus",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (61).html"
+  },
+  {
+    "name": "Ángel Caído",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (62).html"
+  },
+  {
+    "name": "Animancia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (63).html"
+  },
+  {
+    "name": "Anticuario",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (64).html"
+  },
+  {
+    "name": "Apocalíptico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (65).html"
+  },
+  {
+    "name": "Apostador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (66).html"
+  },
+  {
+    "name": "Aprendiz de dragon",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (67).html"
+  },
+  {
+    "name": "Aprendiz de la tormenta",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (68).html"
+  },
+  {
+    "name": "Aquelarre de la Abominación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (69).html"
+  },
+  {
+    "name": "Tradición de la Hoja del Pacto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (7).html"
+  },
+  {
+    "name": "Aquelarre de la Adivinación",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (70).html"
+  },
+  {
+    "name": "Aquelarre de la Discordia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (71).html"
+  },
+  {
+    "name": "Aquelarre de la Escoba",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (72).html"
+  },
+  {
+    "name": "Aquelarre de la Espada",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (73).html"
+  },
+  {
+    "name": "Aquelarre de la Espada Maldita",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (74).html"
+  },
+  {
+    "name": "Aquelarre de la Noche",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (75).html"
+  },
+  {
+    "name": "Aquelarre Imperial",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (76).html"
+  },
+  {
+    "name": "Aquelarre Sagrado",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (77).html"
+  },
+  {
+    "name": "Arcanomecánico",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (78).html"
+  },
+  {
+    "name": "Archi-Mago",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (79).html"
+  },
+  {
+    "name": "Tradición de la Hoja Fragmentada",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (8).html"
+  },
+  {
+    "name": "Armero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (80).html"
+  },
+  {
+    "name": "Arquero Arcano",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (81).html"
+  },
+  {
+    "name": "Arte de la Furia",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (82).html"
+  },
+  {
+    "name": "Arte de la Guerra",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (83).html"
+  },
+  {
+    "name": "Arte de las Acrobacias",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (84).html"
+  },
+  {
+    "name": "Arte de las Ninfas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (85).html"
+  },
+  {
+    "name": "Arte de las Santas",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (86).html"
+  },
+  {
+    "name": "Arte de los Hilos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (87).html"
+  },
+  {
+    "name": "Arte de los Magos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (88).html"
+  },
+  {
+    "name": "Arte de los Muertos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (89).html"
+  },
+  {
+    "name": "Tradición de la Vanguardia Abrasadora",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (9).html"
+  },
+  {
+    "name": "Arte del Derviche",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (90).html"
+  },
+  {
+    "name": "Arte del Encanto",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (91).html"
+  },
+  {
+    "name": "Arte del Virtuoso",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (92).html"
+  },
+  {
+    "name": "Artillero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (93).html"
+  },
+  {
+    "name": "Artillero",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (94).html"
+  },
+  {
+    "name": "Asaltador de Caminos",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (95).html"
+  },
+  {
+    "name": "Ascender del Megalodón",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (96).html"
+  },
+  {
+    "name": "Asesino",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (97).html"
+  },
+  {
+    "name": "Astrónomo",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (98).html"
+  },
+  {
+    "name": "Atomizador",
+    "url": "https://nivel20.com/games/dnd-5/archetypes",
+    "description": "",
+    "source_file": "Arquetipos 1/Arquetipo (99).html"
+  }
+]
